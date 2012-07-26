@@ -111,7 +111,7 @@ rhFile.each do |line|
     @relics[ voivodeship ][ district ][ "zabytkow" ] += 1
     @relics[ voivodeship ][ "zabytkow" ] += 1
     @relics[ "zabytkow" ] += 1
-    Monument.create( :relic_id => relic_id, :touched => 0, :action => coordinates_action, :lat => lat, :long => long)
+    Monument.find_or_create( {:relic_id => relic_id}, {:touched => 0, :action => coordinates_action, :lat => lat, :long => long})
   elsif
     @relics[ voivodeship ][ district ][ commune ][ relic_id ] += 1
     
