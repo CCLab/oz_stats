@@ -58,6 +58,7 @@ rhFile.each do |line|
   relic_id = relic_change[2]#.slice(1, relic_change[2].length-2)
 
   suggested_at = relic_change[1]#.slice(1, relic_change[1].length-2)
+  puts "#{relic_change[0]}"
   
   monument_name = relic_change[13]
   lat = relic_change[19]
@@ -103,7 +104,7 @@ rhFile.each do |line|
     @relics[ voivodeship ][ district ][ "zabytkow" ] += 1
     @relics[ voivodeship ][ "zabytkow" ] += 1
     @relics[ "zabytkow" ] += 1
-    Monument.create( :relic_id => relic_id, :touched => 0)
+    Monument.find_or_create( {:relic_id => relic_id}, {:touched => 0, :action => coordinates_action, :lat => lat, :long => long})
   elsif @relics[ voivodeship ][ district ][ commune ][ relic_id ] == nil
     puts "Prawdopodobnie coś nie tak"
     @relics[ voivodeship ][ district ][ commune ][ relic_id ] = 0
