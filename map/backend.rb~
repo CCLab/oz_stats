@@ -121,7 +121,7 @@ rhFile.each do |line|
         puts "================================================="
         puts "#{relic_change[0]}: problemy z #{@monument.errors}"
         puts "================================================="
-      end
+      end     
     end
     
     if @relics[ voivodeship ][ district ][ commune ][ relic_id ] == 1

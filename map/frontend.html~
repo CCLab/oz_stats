@@ -52,7 +52,7 @@ function processData(allText) {
 </head>
 <body>
 <script src="http://cdn.leafletjs.com/leaflet-0.3.1/leaflet.js"></script>
-<div id="map" style="height: 400px">
+<div id="map" style="height: 450px">
 </div>
 <script>
 var map = new L.Map('map');
