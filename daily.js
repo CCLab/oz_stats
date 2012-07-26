@@ -1,6 +1,6 @@
 var __ = require('csv');
 
-var dayly_csv  = __().toPath('./dayly.csv', {
+var daily_csv  = __().toPath('./daily.csv', {
                                 quoted: true,
                                 delimiter: ';',
                                 columns: ['day','count'],
@@ -28,9 +28,9 @@ __().fromPath('./relics_history.csv', {columns: true})
     })
     .on('end', function (count) {
         results.forEach(function (e, i) {
-            dayly_csv.write({day: i, count: e});
+            daily_csv.write({day: i, count: e});
         });
-        dayly_csv.end();
+        daily_csv.end();
     })
     .on('error', function (err) {
         console.log('!!! '+ err);
