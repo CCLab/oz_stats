@@ -152,14 +152,6 @@ puts "Tworzenie pliku wyjściowego"
 
 outputFile = File.open("output_temp.csv", "w:UTF-8")
 
-puts "Zabytki"
-
-Monument.all(:touched => 1).each do |monument|
-  if "monument;#{monument.name};#{monument.lat};#{monument.long}" != "monument;;;"
-    outputFile.puts "monument;#{monument.name};#{monument.lat};#{monument.long}"
-  end
-end
-
 puts "Podział administracyjny"
 @relics.each do |voivodeship, voivodeship_hash|
   unless voivodeship == "zabytkow" || voivodeship ==  "raz" || voivodeship ==  "dwa" || voivodeship == "trzy" || voivodeship ==  "czterywiecej"
@@ -227,6 +219,14 @@ puts "Podział administracyjny"
     outputFile.puts "voivodeship;#{@geo.voivodeship};\"\";\"\";#{voivodeship_hash[ "raz" ]};#{@geo.lat};#{@geo.long}"
     end
     
+  end
+end
+
+puts "Zabytki"
+
+Monument.all(:touched => 1).each do |monument|
+  if "monument;#{monument.name};#{monument.lat};#{monument.long}" != "monument;;;"
+    outputFile.puts "monument;#{monument.name};#{monument.lat};#{monument.long}"
   end
 end
 
