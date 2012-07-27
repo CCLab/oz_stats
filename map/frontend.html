@@ -9,44 +9,49 @@
 <![endif]-->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
 <script>
-function processData(allText) {
-    var allTextLines = allText.split(/\r\n|\n/);
-    var lines = [];
-    for (var i=0; i<allTextLines.length; i++) {
-      var TextLine = allTextLines[i].split(';');
-//       alert(allTextLines[i]);
-      if( TextLine[0] === "monument" ) {
-        var circleLocation = new L.LatLng(TextLine[1], TextLine[2]),
-          circleOptions = {
-          color: 'red',
-          fillColor: '#f03'
-        }
-      } else {
-        var circleLocation = new L.LatLng(TextLine[5], TextLine[6]),
-          circleOptions = {
-          color: 'red',
-          fillColor: '#f03'
-        }
+function addPoints(layerGroup)
+{
+  for (var i=0; i<allTextLines.length; i++) {
+    var TextLine = allTextLines[i].split(';');
+    if(TextLine[0] === layerGroup)
+    {
+      var mapBounds = map.getBounds();
+      var point = ( TextLine[0] === "monument" ?  new L.LatLng(TextLine[2], TextLine[3]) : new L.LatLng(TextLine[5], TextLine[6]) );
+      if( TextLine[0] === "monument" && mapBounds.contains(point) )
+      {
+        var marker = new L.Marker(point);
+        marker.bindPopup(TextLine[1]);
+        monumentSet.addLayer(marker);
       }
-      
-      if(TextLine[0] === "monument" ) {
-        var circle = new L.Circle(circleLocation, 250, circleOptions);
-        circle.bindPopup("Monument");
-        monumentSet.addLayer(circle);
-      } else if(TextLine[0] === "commune" ) {
-        var circle = new L.Circle(circleLocation, 500, circleOptions);
-        circle.bindPopup("Gmina "+TextLine[3]+", powiat "+TextLine[2]+".<br/>Województwo "+TextLine[1]+".<br/>Poprawiono "+TextLine[4]+" zabytków");
-        communeSet.addLayer(circle);
-      } else if (TextLine[0] === "district" ) {
-        var circle = new L.Circle(circleLocation, 2500, circleOptions);
-        circle.bindPopup("Powiat "+TextLine[2]+".<br/>Województwo "+TextLine[1]+".<br/>Poprawiono "+TextLine[4]+" zabytków");
-        districtSet.addLayer(circle);
-      } else if (TextLine[0] === "voivodeship" ) {
-        var circle = new L.Circle(circleLocation, 5000, circleOptions);
-        circle.bindPopup("Województwo "+TextLine[1]+".<br/>Poprawiono "+TextLine[4]+" zabytków");
-        voivodeshipSet.addLayer(circle);
-      } else alert("Błąd danych");
+      else if( mapBounds.contains(point) )
+      {
+        var circleOptions = {
+          color: 'red',
+          fillColor: '#f03'
+        }
+        
+        if(TextLine[0] === "commune" ) {
+          var circle = new L.Circle(point, 500, circleOptions);
+          circle.bindPopup("Gmina "+TextLine[3]+", powiat "+TextLine[2]+".<br/>Województwo "+TextLine[1]+".<br/>Poprawiono "+TextLine[4]+" zabytków");
+          communeSet.addLayer(circle);
+        } else if (TextLine[0] === "district" ) {
+          var circle = new L.Circle(point, 2500, circleOptions);
+          circle.bindPopup("Powiat "+TextLine[2]+".<br/>Województwo "+TextLine[1]+".<br/>Poprawiono "+TextLine[4]+" zabytków");
+          districtSet.addLayer(circle);
+        } else if (TextLine[0] === "voivodeship" ) {
+          var circle = new L.Circle(point, 5000, circleOptions);
+          circle.bindPopup("Województwo "+TextLine[1]+".<br/>Poprawiono "+TextLine[4]+" zabytków");
+          voivodeshipSet.addLayer(circle);
+        } else alert("Błąd danych");
+      }
     }
+  }
+}
+
+
+function processData(allText) {
+    allTextLines = allText.split(/\r\n|\n/);
+    addPoints("district");
 }
 </script>
 </head>
@@ -55,6 +60,7 @@ function processData(allText) {
 <div id="map" style="height: 400px">
 </div>
 <script>
+var allTextLines;
 var map = new L.Map('map');
 var cloudmade = new L.TileLayer('http://{s}.tile.cloudmade.com/8ee2a50541944fb9bcedded5165f09d9/997/256/{z}/{x}/{y}.png', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
@@ -77,21 +83,50 @@ $(document).ready(function() {
      });
 });
 // alert("Tutaj2");
+
 map.on('zoomend' ,function() {
-    if( map.getZoom() >= 12 ){
+    if( map.getZoom() >= 13 ){
+      monumentSet.clearLayers();
+      addPoints("monument");
       if(map.hasLayer(districtSet))map.removeLayer(districtSet);
       if(map.hasLayer(communeSet))map.removeLayer(communeSet);
       if(!map.hasLayer(monumentSet))map.addLayer(monumentSet);
-    } else if( map.getZoom() >= 10 ){
+    } else if( map.getZoom() >= 9 ){
+      communeSet.clearLayers();
+      addPoints("commune");
       if(map.hasLayer(districtSet))map.removeLayer(districtSet);
       if(!map.hasLayer(communeSet))map.addLayer(communeSet);
       if(map.hasLayer(monumentSet))map.removeLayer(monumentSet);
     } else {
+      districtSet.clearLayers();
+      addPoints("district");
       if(!map.hasLayer(districtSet))map.addLayer(districtSet);
       if(map.hasLayer(communeSet))map.removeLayer(communeSet);
       if(map.hasLayer(monumentSet))map.removeLayer(monumentSet);
     }
-  });
+  });  
+  
+map.on('dragend' ,function() {
+    if( map.getZoom() >= 13 ){
+      monumentSet.clearLayers();
+      addPoints("monument");
+      if(map.hasLayer(districtSet))map.removeLayer(districtSet);
+      if(map.hasLayer(communeSet))map.removeLayer(communeSet);
+      if(!map.hasLayer(monumentSet))map.addLayer(monumentSet);
+    } else if( map.getZoom() >= 9 ){
+      communeSet.clearLayers();
+      addPoints("commune");
+      if(map.hasLayer(districtSet))map.removeLayer(districtSet);
+      if(!map.hasLayer(communeSet))map.addLayer(communeSet);
+      if(map.hasLayer(monumentSet))map.removeLayer(monumentSet);
+    } else {
+      districtSet.clearLayers();
+      addPoints("district");
+      if(!map.hasLayer(districtSet))map.addLayer(districtSet);
+      if(map.hasLayer(communeSet))map.removeLayer(communeSet);
+      if(map.hasLayer(monumentSet))map.removeLayer(monumentSet);
+    }
+  });  
 </script>
 </body>
 </html>
