@@ -104,7 +104,7 @@ rhFile.each do |line|
     @relics[ voivodeship ][ district ][ "zabytkow" ] += 1
     @relics[ voivodeship ][ "zabytkow" ] += 1
     @relics[ "zabytkow" ] += 1
-    Monument.first_or_create( {:relic_id => relic_id}, {:touched => 0, :action => coordinates_action, :lat => lat, :long => long})
+    Monument.first_or_create( {:relic_id => relic_id}, {:touched => 0, :action => coordinates_action, :lat => lat, :long => long, :name => monument_name})
   elsif @relics[ voivodeship ][ district ][ commune ][ relic_id ] == nil
     puts "Prawdopodobnie coś nie tak"
     @relics[ voivodeship ][ district ][ commune ][ relic_id ] = 0
@@ -112,7 +112,7 @@ rhFile.each do |line|
     @relics[ voivodeship ][ district ][ "zabytkow" ] += 1
     @relics[ voivodeship ][ "zabytkow" ] += 1
     @relics[ "zabytkow" ] += 1
-    Monument.first_or_create( {:relic_id => relic_id}, {:touched => 0, :action => coordinates_action, :lat => lat, :long => long})
+    Monument.first_or_create( {:relic_id => relic_id}, {:touched => 0, :action => coordinates_action, :lat => lat, :long => long, :name => monument_name})
   elsif
     @relics[ voivodeship ][ district ][ commune ][ relic_id ] += 1
     
