@@ -107,7 +107,7 @@ map.on('zoomend' ,function() {
   });  
   
 map.on('dragend' ,function() {
-    if( map.getZoom() >= 13 ){
+    if( map.getZoom() >= 11 ){
       monumentSet.clearLayers();
       addPoints("monument");
       if(map.hasLayer(districtSet))map.removeLayer(districtSet);
