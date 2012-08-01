@@ -49,7 +49,8 @@ commune;dolnośląskie;legnicki;Legnickie Pole;9;51.14442;16.243345
 district;dolnośląskie;legnicki;;10;51.24131;16.107715
 commune;dolnośląskie;oleśnicki;Oleśnica;1;51.213099;17.387555
 commune;dolnośląskie;oleśnicki;Twardogóra;17;51.366055;17.46719
-district;dolnośląskie;oleśnicki;;18;51.254169;17.518675
+commune;dolnośląskie;oleśnicki;Bierutów;2;51.12513;17.544849
+district;dolnośląskie;oleśnicki;;20;51.254169;17.518675
 commune;dolnośląskie;strzeliński;Przeworno;1;50.687018;17.166653
 district;dolnośląskie;strzeliński;;1;50.766741;17.10656
 commune;dolnośląskie;oławski;Oława;11;50.944403;17.289906
@@ -84,7 +85,7 @@ commune;dolnośląskie;ząbkowicki;Stoszowice;1;50.601119;16.751327
 commune;dolnośląskie;ząbkowicki;Ząbkowice Śląskie;12;50.589475;16.81035
 commune;dolnośląskie;ząbkowicki;Kamieniec Ząbkowicki;8;50.521953;16.872983
 district;dolnośląskie;ząbkowicki;;21;50.556765;16.870655
-voivodeship;dolnośląskie;"";"";531;50.95055;16.30814
+voivodeship;dolnośląskie;"";"";533;50.95055;16.30814
 commune;kujawsko-pomorskie;grudziądzki;Rogóźno;7;53.53582;18.92775
 commune;kujawsko-pomorskie;grudziądzki;Łasin;1;53.518242;19.090071
 district;kujawsko-pomorskie;grudziądzki;;8;53.471979;18.91712
@@ -93,14 +94,15 @@ commune;kujawsko-pomorskie;żniński;Żnin;6;52.851101;17.719299
 district;kujawsko-pomorskie;żniński;;7;52.822521;17.737595
 commune;kujawsko-pomorskie;lipnowski;Bobrowniki;1;52.779461;18.956791
 district;kujawsko-pomorskie;lipnowski;;1;52.814899;19.21707
-commune;kujawsko-pomorskie;aleksandrowski;Aleksandrów Kujawski;13;52.876179;18.69236
+commune;kujawsko-pomorskie;aleksandrowski;Aleksandrów Kujawski;17;52.876179;18.69236
 commune;kujawsko-pomorskie;aleksandrowski;Nieszawa;1;52.835732;18.89974
 commune;kujawsko-pomorskie;aleksandrowski;Raciążek;1;52.85751;18.80468
-district;kujawsko-pomorskie;aleksandrowski;;15;52.784349;18.718815
-commune;kujawsko-pomorskie;chełmiński;Chełmno;21;53.34738;18.42352
+district;kujawsko-pomorskie;aleksandrowski;;19;52.784349;18.718815
+commune;kujawsko-pomorskie;chełmiński;Chełmno;24;53.34738;18.42352
 commune;kujawsko-pomorskie;chełmiński;Lisewo;1;53.29428;18.68904
 commune;kujawsko-pomorskie;chełmiński;Stolno;12;53.321413;18.504087
-district;kujawsko-pomorskie;chełmiński;;34;53.300045;18.51018
+commune;kujawsko-pomorskie;chełmiński;Unisław;1;53.210135;18.382035
+district;kujawsko-pomorskie;chełmiński;;38;53.300045;18.51018
 commune;kujawsko-pomorskie;brodnicki;Brodnica;16;53.259998;19.397449
 district;kujawsko-pomorskie;brodnicki;;16;53.269646;19.424561
 commune;kujawsko-pomorskie;bydgoski;Koronowo;3;53.31498;17.925171
@@ -120,18 +122,23 @@ district;kujawsko-pomorskie;inowrocławski;;52;52.764204;18.29657
 commune;kujawsko-pomorskie;nakielski;Nakło nad Notecią;1;53.137329;17.602449
 district;kujawsko-pomorskie;nakielski;;1;53.094955;17.589425
 commune;kujawsko-pomorskie;mogileński;Strzelno;2;52.627739;18.17127
-district;kujawsko-pomorskie;mogileński;;2;52.661585;18.074265
+commune;kujawsko-pomorskie;mogileński;Mogilno;1;52.658169;17.956079
+district;kujawsko-pomorskie;mogileński;;3;52.661585;18.074265
 commune;kujawsko-pomorskie;świecki;Świecie;1;53.284538;19.532439
 district;kujawsko-pomorskie;świecki;;1;53.48065;18.40844
 commune;kujawsko-pomorskie;Toruń;Toruń;67;53.012625;18.61322
 district;kujawsko-pomorskie;Toruń;;67;44.610828;-89.509567
 commune;kujawsko-pomorskie;toruński;Lubicz;4;53.033329;18.75
-district;kujawsko-pomorskie;toruński;;4;53.046507;18.620435
+commune;kujawsko-pomorskie;toruński;Chełmża;1;53.18425;18.60417
+commune;kujawsko-pomorskie;toruński;Łysomice;4;53.091282;18.620831
+district;kujawsko-pomorskie;toruński;;9;53.046507;18.620435
 commune;kujawsko-pomorskie;wąbrzeski;Wąbrzeźno;3;53.283298;18.950001
 district;kujawsko-pomorskie;wąbrzeski;;3;53.28229;18.92662
 commune;kujawsko-pomorskie;Włocławek;Włocławek;8;52.661121;19.05719
 district;kujawsko-pomorskie;Włocławek;;8;52.66112;19.057195
-voivodeship;kujawsko-pomorskie;"";"";273;53.055891;18.504456
+voivodeship;kujawsko-pomorskie;"";"";287;53.055891;18.504456
+commune;lubuskie;nowosolski;Kożuchów;1;51.744789;15.59154
+district;lubuskie;nowosolski;;1;51.842304;15.727175
 commune;lubuskie;żarski;Lubsko;3;51.78503;14.96902
 district;lubuskie;żarski;;3;51.628565;14.96139
 commune;lubuskie;świebodziński;Świebodzin;4;52.247478;15.53457
@@ -163,7 +170,7 @@ commune;lubuskie;Gorzów Wielkopolski;Gorzów Wielkopolski;16;52.731949;15.24231
 district;lubuskie;Gorzów Wielkopolski;;16;52.731955;15.24231
 commune;lubuskie;słubicki;Górzyca;1;52.495258;14.65027
 district;lubuskie;słubicki;;1;52.323071;14.78904
-voivodeship;lubuskie;"";"";116;52.24334;15.47533
+voivodeship;lubuskie;"";"";117;52.24334;15.47533
 commune;podlaskie;Białystok;Białystok;53;53.139469;23.184401
 district;podlaskie;Białystok;;53;53.13948;23.18441
 commune;podlaskie;Suwałki;Suwałki;3;54.101349;22.94084
@@ -190,7 +197,8 @@ commune;podlaskie;łomżyński;Łomża;7;53.20821;22.059555
 district;podlaskie;łomżyński;;7;53.20821;22.059555
 commune;podlaskie;moniecki;Goniądz;4;53.489891;22.73468
 commune;podlaskie;moniecki;Knyszyn;8;53.309139;22.913271
-district;podlaskie;moniecki;;12;53.445766;22.78159
+commune;podlaskie;moniecki;Jaświły;1;53.479969;22.94828
+district;podlaskie;moniecki;;13;53.445766;22.78159
 commune;podlaskie;siemiatycki;Milejczyce;5;52.519218;23.131689
 commune;podlaskie;siemiatycki;Siemiatycze;6;52.426842;22.864031
 commune;podlaskie;siemiatycki;Drohiczyn;1;52.400429;22.6579
@@ -207,20 +215,20 @@ commune;podlaskie;wysokomazowiecki;Kobylin-Borzymy;1;53.091171;22.671459
 district;podlaskie;wysokomazowiecki;;16;52.864649;22.558525
 commune;podlaskie;zambrowski;Zambrów;3;52.983299;22.25
 district;podlaskie;zambrowski;;3;53.022619;22.28281
-voivodeship;podlaskie;"";"";250;53.344971;22.770246
+voivodeship;podlaskie;"";"";251;53.344971;22.770246
 commune;mazowieckie;ostrołęcki;Kadzidło;1;53.234959;21.46723
 commune;mazowieckie;ostrołęcki;Rzekuń;1;53.052361;21.638081
 commune;mazowieckie;ostrołęcki;Łyse;4;53.364609;21.553659
 commune;mazowieckie;ostrołęcki;Troszyn;5;53.03101;21.73172
 district;mazowieckie;ostrołęcki;;11;53.140125;21.50752
-commune;mazowieckie;Warszawa;Śródmieście;151;52.235352;21.009359
+commune;mazowieckie;Warszawa;Śródmieście;152;52.235352;21.009359
 commune;mazowieckie;Warszawa;Praga-Północ;125;52.25312;21.030991
 commune;mazowieckie;Warszawa;Wola;135;52.238129;20.97151
 commune;mazowieckie;Warszawa;Ursynów;44;52.15416;21.037901
 commune;mazowieckie;Warszawa;Wilanów;47;52.165428;21.086479
 commune;mazowieckie;Warszawa;Żoliborz;27;52.265308;20.973471
 commune;mazowieckie;Warszawa;Mokotów;113;52.195381;21.00791
-commune;mazowieckie;Warszawa;Ochota;4;52.212799;20.97167
+commune;mazowieckie;Warszawa;Ochota;5;52.212799;20.97167
 commune;mazowieckie;Warszawa;Praga-Południe;86;52.23568;21.098061
 commune;mazowieckie;Warszawa;Wawer;2;52.204559;21.16671
 commune;mazowieckie;Warszawa;Bielany;10;52.276878;20.94857
@@ -231,15 +239,15 @@ commune;mazowieckie;Warszawa;Ursus;3;52.19788;20.891159
 commune;mazowieckie;Warszawa;Rembertów;1;52.26527;21.169861
 commune;mazowieckie;Warszawa;Bemowo;3;52.252548;20.91275
 commune;mazowieckie;Warszawa;Warszawa;1;52.235352;21.00939
-district;mazowieckie;Warszawa;;771;52.23537;21.009485
+district;mazowieckie;Warszawa;;773;52.23537;21.009485
 commune;mazowieckie;pułtuski;Zatory;1;52.602139;21.183161
 district;mazowieckie;pułtuski;;1;52.67132;21.023955
 commune;mazowieckie;makowski;Różan;1;52.88887;21.39538
 district;mazowieckie;makowski;;1;52.947205;21.17584
 commune;mazowieckie;sochaczewski;Sochaczew;1;52.23333;20.25
 district;mazowieckie;sochaczewski;;1;52.266781;20.212935
-commune;mazowieckie;Radom;Radom;27;51.390511;21.13797
-district;mazowieckie;Radom;;27;38.28224;-89.18527
+commune;mazowieckie;Radom;Radom;36;51.390511;21.13797
+district;mazowieckie;Radom;;36;38.28224;-89.18527
 commune;mazowieckie;Siedlce;Siedlce;11;52.163528;22.284229
 district;mazowieckie;Siedlce;;11;52.16353;22.28423
 commune;mazowieckie;płocki;Brudzeń Duży;1;52.668411;19.50425
@@ -249,17 +257,19 @@ commune;mazowieckie;płocki;Słupno;1;52.500221;19.842461
 district;mazowieckie;płocki;;4;52.554564;19.78536
 commune;mazowieckie;pruszkowski;Pruszków;13;52.16589;20.80512
 commune;mazowieckie;pruszkowski;Brwinów;10;52.142578;20.71681
+commune;mazowieckie;pruszkowski;Nadarzyn;5;52.094631;20.808769
 commune;mazowieckie;pruszkowski;Michałowice;3;52.172401;20.885401
-district;mazowieckie;pruszkowski;;26;52.10037;20.809385
+district;mazowieckie;pruszkowski;;31;52.10037;20.809385
 commune;mazowieckie;przasnyski;Przasnysz;5;53.01836;20.887581
 district;mazowieckie;przasnyski;;5;53.11377;20.93996
 commune;mazowieckie;radomski;Skaryszew;1;51.309898;21.24967
 commune;mazowieckie;radomski;Iłża;1;51.163239;21.239229
 commune;mazowieckie;radomski;Pionki;2;51.4786;21.456539
 district;mazowieckie;radomski;;4;51.334356;21.162109
+commune;mazowieckie;siedlecki;Wiśniew;4;52.073109;22.29409
 commune;mazowieckie;siedlecki;Wodynie;15;52.040501;21.95446
 commune;mazowieckie;siedlecki;Mordy;5;52.210972;22.516991
-district;mazowieckie;siedlecki;;20;52.191835;22.304239
+district;mazowieckie;siedlecki;;24;52.191835;22.304239
 commune;mazowieckie;sokołowski;Kosów Lacki;1;52.59384;22.146905
 district;mazowieckie;sokołowski;;1;52.495251;22.269754
 commune;mazowieckie;ciechanowski;Ciechanów;1;52.88166;20.617519
@@ -270,14 +280,17 @@ commune;mazowieckie;garwoliński;Żelechów;4;51.809448;21.90151
 commune;mazowieckie;garwoliński;Parysów;2;51.971378;21.68018
 commune;mazowieckie;garwoliński;Wilga;2;51.85178;21.378401
 district;mazowieckie;garwoliński;;8;51.826546;21.61587
+commune;mazowieckie;gostyniński;Pacyna;2;52.301769;19.71068
+district;mazowieckie;gostyniński;;2;52.389975;19.62203
 commune;mazowieckie;grodziski;Milanówek;7;52.124889;20.66643
-commune;mazowieckie;grodziski;Grodzisk Mazowiecki;5;52.103951;20.623119
+commune;mazowieckie;grodziski;Grodzisk Mazowiecki;8;52.103951;20.623119
 commune;mazowieckie;grodziski;Jaktorów;3;52.085659;20.550079
+commune;mazowieckie;grodziski;Żabia Wola;7;52.03302;20.692181
 commune;mazowieckie;grodziski;Podkowa Leśna;4;52.122639;20.72617
-district;mazowieckie;grodziski;;19;52.16028;16.335606
+district;mazowieckie;grodziski;;29;52.16028;16.335606
 commune;mazowieckie;grójecki;Nowe Miasto nad Pilicą;3;51.61755;20.577351
-commune;mazowieckie;grójecki;Warka;1;51.78421;21.186069
-district;mazowieckie;grójecki;;4;51.757736;20.836491
+commune;mazowieckie;grójecki;Warka;2;51.78421;21.186069
+district;mazowieckie;grójecki;;5;51.757736;20.836491
 commune;mazowieckie;piaseczyński;Góra Kalwaria;5;51.975349;21.21171
 commune;mazowieckie;piaseczyński;Konstancin-Jeziorna;9;52.077888;21.11068
 commune;mazowieckie;piaseczyński;Piaseczno;3;52.07494;21.02783
@@ -301,9 +314,9 @@ commune;mazowieckie;warszawski zachodni;Stare Babice;1;52.250381;20.827379
 commune;mazowieckie;warszawski zachodni;Błonie;10;52.198502;20.61747
 commune;mazowieckie;warszawski zachodni;Kampinos;1;52.268452;20.46007
 district;mazowieckie;warszawski zachodni;;12;52.2686;20.61924
-commune;mazowieckie;żyrardowski;Żyrardów;36;52.048439;20.445351
-commune;mazowieckie;żyrardowski;Radziejowice;7;52.004108;20.556061
-district;mazowieckie;żyrardowski;;43;51.999584;20.43229
+commune;mazowieckie;żyrardowski;Żyrardów;75;52.048439;20.445351
+commune;mazowieckie;żyrardowski;Radziejowice;18;52.004108;20.556061
+district;mazowieckie;żyrardowski;;93;51.999584;20.43229
 commune;mazowieckie;kozienicki;Kozienice;11;51.586781;21.543119
 commune;mazowieckie;kozienicki;Głowaczów;4;51.62299;21.31716
 district;mazowieckie;kozienicki;;15;51.640051;21.496119
@@ -318,9 +331,9 @@ commune;mazowieckie;nowodworski;Zakroczym;5;52.438221;20.609261
 commune;mazowieckie;nowodworski;Pomiechówek;1;52.47163;20.73167
 district;mazowieckie;nowodworski;;13;54.28664;19.24214
 commune;mazowieckie;ostrowski;Brok;3;52.698051;21.84656
-commune;mazowieckie;ostrowski;Ostrów Mazowiecka;7;52.802181;21.86092
+commune;mazowieckie;ostrowski;Ostrów Mazowiecka;8;52.802181;21.86092
 commune;mazowieckie;ostrowski;Małkinia Górna;2;52.69326;22.027149
-district;mazowieckie;ostrowski;;12;51.608149;17.85
+district;mazowieckie;ostrowski;;13;51.608149;17.85
 commune;mazowieckie;szydłowiecki;Chlewiska;2;51.24528;20.75826
 commune;mazowieckie;szydłowiecki;Szydłowiec;7;51.232389;20.85762
 district;mazowieckie;szydłowiecki;;9;51.24696;20.84402
@@ -340,7 +353,7 @@ commune;mazowieckie;lipski;Lipsko;2;51.1581;21.6507
 district;mazowieckie;lipski;;2;51.158667;21.56701
 commune;mazowieckie;Ostrołęka;Ostrołęka;17;53.088402;21.571621
 district;mazowieckie;Ostrołęka;;17;53.088435;21.57106
-voivodeship;mazowieckie;"";"";1188;52.247541;21.193786
+voivodeship;mazowieckie;"";"";1272;52.247541;21.193786
 commune;podkarpackie;brzozowski;Domaradz;1;49.7869;21.946699
 commune;podkarpackie;brzozowski;Dydnia;5;49.691429;22.15506
 commune;podkarpackie;brzozowski;Haczów;1;49.661701;21.89805
@@ -349,10 +362,10 @@ commune;podkarpackie;brzozowski;Jasienica Rosielna;6;49.751339;21.94278
 district;podkarpackie;brzozowski;;14;49.727695;22.08345
 commune;podkarpackie;Rzeszów;Rzeszów;7;50.039669;22.009171
 district;podkarpackie;Rzeszów;;7;50.039671;22.009178
-commune;podkarpackie;bieszczadzki;Ustrzyki Dolne;17;49.429901;22.58659
+commune;podkarpackie;bieszczadzki;Ustrzyki Dolne;32;49.429901;22.58659
 commune;podkarpackie;bieszczadzki;Lutowiska;12;49.250721;22.69598
 commune;podkarpackie;bieszczadzki;Czarna;7;49.324032;22.668819
-district;podkarpackie;bieszczadzki;;36;49.336697;22.643974
+district;podkarpackie;bieszczadzki;;51;49.336697;22.643974
 commune;podkarpackie;jarosławski;Jarosław;10;50.016602;22.682329
 district;podkarpackie;jarosławski;;10;50.024876;22.782405
 commune;podkarpackie;jasielski;Nowy Żmigród;1;49.604099;21.523899
@@ -382,39 +395,43 @@ commune;podkarpackie;krośnieński;Iwonicz-Zdrój;1;49.566319;21.792931
 commune;podkarpackie;krośnieński;Rymanów;7;49.576832;21.866369
 commune;podkarpackie;krośnieński;Jaśliska;2;49.44088;21.802099
 district;podkarpackie;krośnieński;;38;52.009954;14.951935
-commune;podkarpackie;leski;Lesko;2;49.47356;22.324869
+commune;podkarpackie;leski;Lesko;11;49.47356;22.324869
 commune;podkarpackie;leski;Cisna;2;49.211311;22.33083
-district;podkarpackie;leski;;4;49.319715;22.37027
-commune;podkarpackie;leżajski;Leżajsk;4;50.26656;22.411289
-district;podkarpackie;leżajski;;4;50.2619;22.43826
+commune;podkarpackie;leski;Solina;9;49.400169;22.454639
+commune;podkarpackie;leski;Baligród;5;49.335411;22.287251
+district;podkarpackie;leski;;27;49.319715;22.37027
+commune;podkarpackie;leżajski;Leżajsk;19;50.26656;22.411289
+district;podkarpackie;leżajski;;19;50.2619;22.43826
 commune;podkarpackie;lubaczowski;Cieszanów;1;50.24551;23.131559
 district;podkarpackie;lubaczowski;;1;50.19578;23.1727
-commune;podkarpackie;łańcucki;Łańcut;1;50.064678;22.239401
-district;podkarpackie;łańcucki;;1;50.086334;22.268945
-commune;podkarpackie;Przemyśl;Przemyśl;65;49.783642;22.77202
-district;podkarpackie;Przemyśl;;65;49.783665;22.772035
+commune;podkarpackie;łańcucki;Łańcut;53;50.064678;22.239401
+district;podkarpackie;łańcucki;;53;50.086334;22.268945
+commune;podkarpackie;Przemyśl;Przemyśl;66;49.783642;22.77202
+district;podkarpackie;Przemyśl;;66;49.783665;22.772035
 commune;podkarpackie;przeworski;Kańczuga;1;49.983421;22.41103
 district;podkarpackie;przeworski;;1;50.089081;22.536725
 commune;podkarpackie;sanocki;Komańcza;10;49.33466;22.06926
 district;podkarpackie;sanocki;;10;49.430046;22.142745
+commune;podkarpackie;stalowowolski;Stalowa Wola;1;50.58857;22.046961
+district;podkarpackie;stalowowolski;;1;50.589748;22.051615
 commune;podkarpackie;strzyżowski;Strzyżów;1;49.8689;21.78825
 commune;podkarpackie;strzyżowski;Niebylec;1;49.855759;21.902969
 district;podkarpackie;strzyżowski;;2;49.87693;21.749005
 commune;podkarpackie;ropczycko-sędziszowski;Ropczyce;3;50.052662;21.608061
 district;podkarpackie;ropczycko-sędziszowski;;3;50.047569;21.64116
-commune;podkarpackie;Tarnobrzeg;Tarnobrzeg;14;50.576931;21.680679
-district;podkarpackie;Tarnobrzeg;;14;50.57693;21.680685
+commune;podkarpackie;Tarnobrzeg;Tarnobrzeg;27;50.576931;21.680679
+district;podkarpackie;Tarnobrzeg;;27;50.57693;21.680685
 commune;podkarpackie;tarnobrzeski;Baranów Sandomierski;7;50.49411;21.54154
 commune;podkarpackie;tarnobrzeski;Gorzyce;1;50.6674;21.83902
 district;podkarpackie;tarnobrzeski;;8;50.562309;21.73732
-voivodeship;podkarpackie;"";"";289;49.91008;22.344875
+voivodeship;podkarpackie;"";"";409;49.91008;22.344875
 commune;zachodniopomorskie;gryficki;Gryfice;11;53.911449;15.19708
 district;zachodniopomorskie;gryficki;;11;53.942846;15.19084
 commune;zachodniopomorskie;Szczecin;Szczecin;36;53.425201;14.55542
 district;zachodniopomorskie;Szczecin;;36;53.425205;14.55542
-commune;zachodniopomorskie;sławieński;Postomino;2;54.491692;16.71389
+commune;zachodniopomorskie;sławieński;Postomino;3;54.491692;16.71389
 commune;zachodniopomorskie;sławieński;Sławno;2;54.349998;16.683331
-district;zachodniopomorskie;sławieński;;4;54.379295;16.53992
+district;zachodniopomorskie;sławieński;;5;54.379295;16.53992
 commune;zachodniopomorskie;stargardzki;Stargard Szczeciński;2;53.333328;15.05
 district;zachodniopomorskie;stargardzki;;2;53.315975;15.22875
 commune;zachodniopomorskie;łobeski;Dobra;2;53.583685;15.307221
@@ -442,10 +459,12 @@ district;zachodniopomorskie;choszczeński;;12;53.14226;15.62055
 commune;zachodniopomorskie;drawski;Złocieniec;1;53.53146;16.010759
 commune;zachodniopomorskie;drawski;Czaplinek;5;53.557411;16.23387
 district;zachodniopomorskie;drawski;;6;53.447254;16.02128
+commune;zachodniopomorskie;myśliborski;Barlinek;3;52.997341;15.21974
 commune;zachodniopomorskie;myśliborski;Myślibórz;9;52.921711;14.86254
-district;zachodniopomorskie;myśliborski;;9;52.847681;14.87921
+district;zachodniopomorskie;myśliborski;;12;52.847681;14.87921
 commune;zachodniopomorskie;szczecinecki;Szczecinek;2;53.712261;16.70363
-district;zachodniopomorskie;szczecinecki;;2;53.737869;16.589055
+commune;zachodniopomorskie;szczecinecki;Borne Sulinowo;1;53.586552;16.53582
+district;zachodniopomorskie;szczecinecki;;3;53.737869;16.589055
 commune;zachodniopomorskie;Świnoujście;Świnoujście;3;53.902351;14.26914
 district;zachodniopomorskie;Świnoujście;;3;53.902354;14.269149
 commune;zachodniopomorskie;wałecki;Wałcz;2;53.2756;16.464371
@@ -455,41 +474,51 @@ commune;zachodniopomorskie;pyrzycki;Pyrzyce;6;53.146229;14.89152
 district;zachodniopomorskie;pyrzycki;;14;53.126188;14.938625
 commune;zachodniopomorskie;Koszalin;Koszalin;9;54.19051;16.182409
 district;zachodniopomorskie;Koszalin;;9;54.19051;16.182325
-voivodeship;zachodniopomorskie;"";"";141;53.58955;15.552505
-commune;małopolskie;brzeski;Brzesko;1;49.96804;20.60696
+voivodeship;zachodniopomorskie;"";"";146;53.58955;15.552505
+commune;małopolskie;brzeski;Brzesko;7;49.96804;20.60696
 commune;małopolskie;brzeski;Czchów;2;49.837711;20.680719
-district;małopolskie;brzeski;;3;49.982685;20.649695
+district;małopolskie;brzeski;;9;49.982685;20.649695
 commune;małopolskie;nowosądecki;Muszyna;9;49.35648;20.897039
+commune;małopolskie;nowosądecki;Grybów;2;49.624779;20.94738
 commune;małopolskie;nowosądecki;Krynica-Zdrój;31;49.421822;20.95941
-district;małopolskie;nowosądecki;;40;49.55143;20.72964
-commune;małopolskie;bocheński;Lipnica Murowana;1;49.858871;20.52747
+commune;małopolskie;nowosądecki;Rytro;1;49.488949;20.68153
+district;małopolskie;nowosądecki;;43;49.55143;20.72964
+commune;małopolskie;bocheński;Lipnica Murowana;6;49.858871;20.52747
 commune;małopolskie;bocheński;Bochnia;8;49.968941;20.43079
 commune;małopolskie;bocheński;Rzezawa;1;49.98996;20.5149
-district;małopolskie;bocheński;;10;49.960901;20.431635
-commune;małopolskie;gorlicki;Biecz;2;49.738789;21.269119
+district;małopolskie;bocheński;;15;49.960901;20.431635
+commune;małopolskie;gorlicki;Biecz;8;49.738789;21.269119
 commune;małopolskie;gorlicki;Sękowa;7;49.619598;21.197769
 commune;małopolskie;gorlicki;Gorlice;4;49.660351;21.15971
 commune;małopolskie;gorlicki;Uście Gorlickie;5;49.52158;21.13793
-commune;małopolskie;gorlicki;Bobowa;9;49.70779;20.942051
-commune;małopolskie;gorlicki;Łużna;1;49.71035;21.050671
-district;małopolskie;gorlicki;;28;49.591385;21.15179
+commune;małopolskie;gorlicki;Bobowa;10;49.70779;20.942051
+commune;małopolskie;gorlicki;Łużna;2;49.71035;21.050671
+district;małopolskie;gorlicki;;36;49.591385;21.15179
 commune;małopolskie;krakowski;Czernichów;1;49.987782;19.67878
 commune;małopolskie;krakowski;Krzeszowice;16;50.133091;19.63689
 commune;małopolskie;krakowski;Michałowice;3;50.158939;19.98033
 commune;małopolskie;krakowski;Skała;3;50.230061;19.854389
 commune;małopolskie;krakowski;Zielonki;6;50.118809;19.92131
-district;małopolskie;krakowski;;29;50.099871;19.937056
-commune;małopolskie;Kraków;Kraków;143;50.06007;19.93259
-district;małopolskie;Kraków;;143;50.06006;19.9326
+commune;małopolskie;krakowski;Jerzmanowice-Przeginia;2;50.222401;19.74588
+district;małopolskie;krakowski;;31;50.099871;19.937056
+commune;małopolskie;Kraków;Kraków;156;50.06007;19.93259
+district;małopolskie;Kraków;;156;50.06006;19.9326
+commune;małopolskie;limanowski;Laskowa;6;49.765789;20.45294
+commune;małopolskie;limanowski;Łukowica;8;49.606232;20.491899
+commune;małopolskie;limanowski;Niedźwiedź;3;49.622082;20.080339
+commune;małopolskie;limanowski;Limanowa;19;49.717651;20.41267
 commune;małopolskie;limanowski;Kamienica;4;49.571442;20.350491
-commune;małopolskie;limanowski;Jodłownik;8;49.775349;20.23563
-district;małopolskie;limanowski;;12;49.68247;20.293156
+commune;małopolskie;limanowski;Dobra;4;49.71632;20.25721
+commune;małopolskie;limanowski;Jodłownik;10;49.775349;20.23563
+commune;małopolskie;limanowski;Tymbark;1;49.735119;20.30978
+district;małopolskie;limanowski;;55;49.68247;20.293156
 commune;małopolskie;miechowski;Miechów;9;50.36557;20.044701
 district;małopolskie;miechowski;;9;50.389479;20.08575
+commune;małopolskie;myślenicki;Siepraw;1;49.90752;19.96122
 commune;małopolskie;myślenicki;Myślenice;4;49.83237;19.94293
 commune;małopolskie;myślenicki;Dobczyce;1;49.880391;20.090293
 commune;małopolskie;myślenicki;Tokarnia;1;49.73179;19.87907
-district;małopolskie;myślenicki;;6;49.775967;19.99528
+district;małopolskie;myślenicki;;7;49.775967;19.99528
 commune;małopolskie;nowotarski;Łapsze Niżne;1;49.399399;20.237801
 commune;małopolskie;nowotarski;Rabka-Zdrój;6;49.609619;19.95269
 commune;małopolskie;nowotarski;Nowy Targ;6;49.477501;20.01787
@@ -537,7 +566,7 @@ commune;małopolskie;tarnowski;Żabno;1;50.133099;20.885599
 district;małopolskie;tarnowski;;7;49.985119;21.014325
 commune;małopolskie;Tarnów;Tarnów;3;50.01532;20.990231
 district;małopolskie;Tarnów;;3;42.337887;-83.139366
-voivodeship;małopolskie;"";"";541;49.849285;20.25229
+voivodeship;małopolskie;"";"";622;49.849285;20.25229
 commune;łódzkie;Łódź;Łódź;82;51.761742;19.46801
 district;łódzkie;Łódź;;82;51.76174;19.468015
 commune;łódzkie;kutnowski;Kutno;3;52.217178;19.386391
@@ -549,8 +578,8 @@ district;łódzkie;łęczycki;;14;52.105909;19.195425
 commune;łódzkie;łowicki;Łowicz;59;52.118191;19.94989
 commune;łódzkie;łowicki;Bielawy;3;52.0756;19.65579
 commune;łódzkie;łowicki;Nieborów;12;52.06926;20.074829
-commune;łódzkie;łowicki;Zduny;1;52.148811;19.804159
-district;łódzkie;łowicki;;75;52.11017;19.82048
+commune;łódzkie;łowicki;Zduny;7;52.148811;19.804159
+district;łódzkie;łowicki;;81;52.11017;19.82048
 commune;łódzkie;piotrkowski;Wolbórz;8;51.497372;19.8323
 district;łódzkie;piotrkowski;;8;51.378195;19.739329
 commune;łódzkie;Piotrków Trybunalski;Piotrków Trybunalski;5;51.405769;19.692921
@@ -592,7 +621,7 @@ commune;łódzkie;bełchatowski;Zelów;1;51.465641;19.21513
 district;łódzkie;bełchatowski;;1;51.368389;19.178325
 commune;łódzkie;łaski;Łask;1;51.59066;19.132259
 district;łódzkie;łaski;;1;51.558611;19.03887
-voivodeship;łódzkie;"";"";322;51.61854;19.36711
+voivodeship;łódzkie;"";"";328;51.61854;19.36711
 commune;pomorskie;nowodworski;Stegna;8;54.326401;19.1122
 commune;pomorskie;nowodworski;Nowy Dwór Gdański;1;54.214729;19.111071
 commune;pomorskie;nowodworski;Ostaszewo;5;54.213638;18.950069
@@ -625,13 +654,16 @@ district;pomorskie;gdański;;5;54.224651;18.581715
 commune;pomorskie;Gdynia;Gdynia;28;54.51965;18.53647
 district;pomorskie;Gdynia;;28;54.519655;18.536485
 commune;pomorskie;kartuski;Żukowo;3;54.344799;18.364861
-district;pomorskie;kartuski;;3;54.32703;18.0867
+commune;pomorskie;kartuski;Kartuzy;1;54.33189;18.199209
+district;pomorskie;kartuski;;4;54.32703;18.0867
 commune;pomorskie;kościerski;Kościerzyna;1;54.1478;17.975599
 commune;pomorskie;kościerski;Nowa Karczma;3;54.133099;18.201521
 district;pomorskie;kościerski;;4;54.018354;18.002009
 commune;pomorskie;kwidzyński;Kwidzyn;20;53.73452;18.93656
 commune;pomorskie;kwidzyński;Prabuty;1;53.753159;19.204729
 district;pomorskie;kwidzyński;;21;53.745874;19.030595
+commune;pomorskie;lęborski;Lębork;1;54.53334;17.757521
+district;pomorskie;lęborski;;1;54.568455;17.649015
 commune;pomorskie;słupski;Słupsk;1;54.46621;17.027685
 commune;pomorskie;słupski;Ustka;1;54.580245;16.862165
 district;pomorskie;słupski;;2;54.423704;17.15919
@@ -654,16 +686,19 @@ commune;pomorskie;człuchowski;Czarne;1;53.68398;16.93886
 district;pomorskie;człuchowski;;1;53.751045;17.18921
 commune;pomorskie;Słupsk;Słupsk;6;54.466209;17.027679
 district;pomorskie;Słupsk;;6;54.46621;17.027685
-voivodeship;pomorskie;"";"";249;54.163296;18.174245
+voivodeship;pomorskie;"";"";251;54.163296;18.174245
 commune;lubelskie;radzyński;Radzyń Podlaski;15;51.78236;22.610781
 district;lubelskie;radzyński;;15;51.782499;22.707615
 commune;lubelskie;włodawski;Hańsk;1;51.400318;23.40403
 commune;lubelskie;włodawski;Włodawa;4;51.54422;23.554199
-district;lubelskie;włodawski;;5;51.522755;23.38319
+commune;lubelskie;włodawski;Stary Brus;6;51.481918;23.289459
+district;lubelskie;włodawski;;11;51.522755;23.38319
 commune;lubelskie;zamojski;Zwierzyniec;32;50.61039;22.96607
 commune;lubelskie;zamojski;Szczebrzeszyn;1;50.694981;22.979811
+commune;lubelskie;zamojski;Krasnobród;1;50.543819;23.218309
+commune;lubelskie;zamojski;Stary Zamość;5;50.8176;23.16176
 commune;lubelskie;zamojski;Łabunie;8;50.652039;23.368509
-district;lubelskie;zamojski;;41;50.692976;23.21552
+district;lubelskie;zamojski;;47;50.692976;23.21552
 commune;lubelskie;tomaszowski;Rachanie;1;50.539478;23.56518
 commune;lubelskie;tomaszowski;Łaszczów;9;50.531029;23.71703
 district;lubelskie;tomaszowski;;10;50.477594;23.51968
@@ -687,6 +722,8 @@ commune;lubelskie;janowski;Potok Wielki;10;50.784039;22.227119
 district;lubelskie;janowski;;10;50.744884;22.41156
 commune;lubelskie;krasnostawski;Łopiennik Górny;1;51.04747;23.03565
 district;lubelskie;krasnostawski;;1;50.98382;23.118215
+commune;lubelskie;kraśnicki;Dzierzkowice;4;50.956322;22.081659
+district;lubelskie;kraśnicki;;4;50.914595;22.144341
 commune;lubelskie;lubartowski;Kock;9;51.64492;22.44455
 commune;lubelskie;lubartowski;Ostrów Lubelski;5;51.494591;22.85704
 commune;lubelskie;lubartowski;Serniki;5;51.436481;22.65675
@@ -700,8 +737,8 @@ commune;lubelskie;lubelski;Jastków;2;51.30415;22.434019
 commune;lubelskie;lubelski;Głusk;5;51.159451;22.58165
 commune;lubelskie;lubelski;Niedrzwica Duża;1;51.1106;22.38378
 district;lubelskie;lubelski;;33;51.133434;22.46887
-commune;lubelskie;Lublin;Lublin;92;51.247841;22.565969
-district;lubelskie;Lublin;;92;45.075035;-90.725569
+commune;lubelskie;Lublin;Lublin;106;51.247841;22.565969
+district;lubelskie;Lublin;;106;45.075035;-90.725569
 commune;lubelskie;łęczyński;Łęczna;6;51.300411;22.884701
 district;lubelskie;łęczyński;;6;51.30476;22.966995
 commune;lubelskie;opolski;Łaziska;6;51.142231;21.88077
@@ -712,16 +749,17 @@ commune;lubelskie;puławski;Kazimierz Dolny;10;51.322632;21.94623
 commune;lubelskie;puławski;Puławy;4;51.41605;21.973499
 commune;lubelskie;puławski;Wąwolnica;5;51.294338;22.14727
 district;lubelskie;puławski;;25;51.418264;22.037445
-commune;lubelskie;świdnicki;Piaski;1;51.138741;22.84889
+commune;lubelskie;świdnicki;Piaski;2;51.138741;22.84889
+commune;lubelskie;świdnicki;Trawniki;2;51.134972;22.997629
 commune;lubelskie;świdnicki;Mełgiew;10;51.226841;22.78056
-district;lubelskie;świdnicki;;11;51.124865;22.856915
-commune;lubelskie;Zamość;Zamość;68;50.719509;23.25301
-district;lubelskie;Zamość;;68;50.71951;23.25301
+district;lubelskie;świdnicki;;14;51.124865;22.856915
+commune;lubelskie;Zamość;Zamość;82;50.719509;23.25301
+district;lubelskie;Zamość;;82;50.71951;23.25301
 commune;lubelskie;łukowski;Łuków;4;51.926868;22.38372
 commune;lubelskie;łukowski;Stanin;5;51.872211;22.19611
 commune;lubelskie;łukowski;Krzywda;8;51.80389;22.19058
 district;lubelskie;łukowski;;17;51.853924;22.240435
-voivodeship;lubelskie;"";"";433;51.270029;22.881451
+voivodeship;lubelskie;"";"";480;51.270029;22.881451
 commune;opolskie;nyski;Nysa;40;50.468269;17.33856
 commune;opolskie;nyski;Pakosławice;2;50.544979;17.36418
 commune;opolskie;nyski;Paczków;1;50.462189;17.00458
@@ -737,8 +775,8 @@ district;opolskie;brzeski;;9;49.982685;20.649695
 commune;opolskie;oleski;Olesno;4;50.87664;18.42153
 commune;opolskie;oleski;Radłów;4;50.93148;18.52462
 district;opolskie;oleski;;8;50.878744;18.4604
-commune;opolskie;Opole;Opole;18;50.663101;17.926109
-district;opolskie;Opole;;18;45.746368;-94.369591
+commune;opolskie;Opole;Opole;19;50.663101;17.926109
+district;opolskie;Opole;;19;45.746368;-94.369591
 commune;opolskie;opolski;Ozimek;2;50.68029;18.211729
 commune;opolskie;opolski;Murów;6;50.862652;17.946581
 district;opolskie;opolski;;8;51.129814;22.010635
@@ -748,12 +786,12 @@ commune;opolskie;prudnicki;Biała;4;50.38567;17.66008
 district;opolskie;prudnicki;;12;50.410261;17.739285
 commune;opolskie;strzelecki;Ujazd;1;50.389439;18.34959
 district;opolskie;strzelecki;;1;50.530561;18.34882
-commune;opolskie;kluczborski;Byczyna;18;51.11319;18.21055
+commune;opolskie;kluczborski;Byczyna;24;51.11319;18.21055
 commune;opolskie;kluczborski;Kluczbork;4;50.973179;18.21369
 commune;opolskie;kluczborski;Lasowice Wielkie;1;50.870861;18.221109
 commune;opolskie;kluczborski;Wołczyn;1;51.019772;18.04882
-district;opolskie;kluczborski;;24;50.985615;18.15258
-voivodeship;opolskie;"";"";146;50.583506;17.80231
+district;opolskie;kluczborski;;30;50.985615;18.15258
+voivodeship;opolskie;"";"";153;50.583506;17.80231
 commune;wielkopolskie;złotowski;Złotów;1;53.364521;17.041019
 district;wielkopolskie;złotowski;;1;53.412691;16.914294
 commune;wielkopolskie;pilski;Łobżenica;1;53.25811;17.255381
@@ -783,16 +821,18 @@ commune;wielkopolskie;poznański;Luboń;1;52.346291;16.878981
 commune;wielkopolskie;poznański;Rokietnica;5;52.512348;16.744761
 commune;wielkopolskie;poznański;Komorniki;1;52.329159;17.11799
 district;wielkopolskie;poznański;;43;52.416349;16.925414
+commune;wielkopolskie;średzki;Nowe Miasto nad Wartą;4;52.089828;17.411131
 commune;wielkopolskie;średzki;Dominowo;5;52.290359;17.357679
 commune;wielkopolskie;średzki;Środa Wielkopolska;9;52.23061;17.275681
-district;wielkopolskie;średzki;;14;51.125605;16.618694
-commune;wielkopolskie;gnieźnieński;Gniezno;9;52.533352;17.59819
+district;wielkopolskie;średzki;;18;51.125605;16.618694
+commune;wielkopolskie;gnieźnieński;Gniezno;53;52.533352;17.59819
 commune;wielkopolskie;gnieźnieński;Łubowo;5;52.511742;17.449051
 commune;wielkopolskie;gnieźnieński;Niechanowo;4;52.469719;17.68605
+commune;wielkopolskie;gnieźnieński;Witkowo;5;52.441051;17.77125
 commune;wielkopolskie;gnieźnieński;Czerniejewo;10;52.428478;17.48933
 commune;wielkopolskie;gnieźnieński;Mieleszyn;1;52.666561;17.506269
 commune;wielkopolskie;gnieźnieński;Trzemeszno;20;52.567909;17.82461
-district;wielkopolskie;gnieźnieński;;49;52.55323;17.57096
+district;wielkopolskie;gnieźnieński;;98;52.55323;17.57096
 commune;wielkopolskie;kaliski;Szczytniki;3;51.68536;18.329729
 district;wielkopolskie;kaliski;;3;51.789186;18.208005
 commune;wielkopolskie;Poznań;Poznań;61;51.677318;22.302461
@@ -805,7 +845,8 @@ commune;wielkopolskie;grodziski;Rakoniewice;1;52.138271;16.275061
 commune;wielkopolskie;grodziski;Wielichowo;7;52.118191;16.3508
 district;wielkopolskie;grodziski;;8;52.16028;16.335606
 commune;wielkopolskie;jarociński;Jarocin;1;50.5837;22.299665
-district;wielkopolskie;jarociński;;1;52.008413;17.4544
+commune;wielkopolskie;jarociński;Żerków;3;52.06855;17.56179
+district;wielkopolskie;jarociński;;4;52.008413;17.4544
 commune;wielkopolskie;Kalisz;Kalisz;1;51.77187;18.101681
 district;wielkopolskie;Kalisz;;1;51.772048;18.101238
 commune;wielkopolskie;kolski;Chodów;7;52.249119;19.014891
@@ -829,13 +870,14 @@ district;wielkopolskie;leszczyński;;8;51.839115;16.499355
 commune;wielkopolskie;Leszno;Leszno;5;51.841782;16.579981
 district;wielkopolskie;Leszno;;5;51.841788;16.579983
 commune;wielkopolskie;międzychodzki;Kwilcz;10;52.55571;16.07733
-commune;wielkopolskie;międzychodzki;Sieraków;11;52.650879;16.079531
+commune;wielkopolskie;międzychodzki;Sieraków;22;52.650879;16.079531
 commune;wielkopolskie;międzychodzki;Międzychód;32;52.601151;15.89003
 commune;wielkopolskie;międzychodzki;Chrzypsko Wielkie;4;52.626952;16.219741
-district;wielkopolskie;międzychodzki;;57;52.601526;16.05834
+district;wielkopolskie;międzychodzki;;68;52.601526;16.05834
 commune;wielkopolskie;nowotomyski;Kuślin;21;52.36269;16.315611
 commune;wielkopolskie;nowotomyski;Nowy Tomyśl;5;52.317039;16.13669
-district;wielkopolskie;nowotomyski;;26;52.348421;16.159795
+commune;wielkopolskie;nowotomyski;Opalenica;3;52.308479;16.4116
+district;wielkopolskie;nowotomyski;;29;52.348421;16.159795
 commune;wielkopolskie;obornicki;Oborniki;1;52.64698;16.816071
 district;wielkopolskie;obornicki;;1;52.716919;16.853496
 commune;wielkopolskie;ostrowski;Ostrów Wielkopolski;9;51.650002;17.816669
@@ -852,7 +894,8 @@ district;wielkopolskie;rawicki;;1;51.64448;16.949125
 commune;wielkopolskie;słupecki;Orchowo;3;52.506458;18.015739
 district;wielkopolskie;słupecki;;3;52.314209;17.908634
 commune;wielkopolskie;szamotulski;Szamotuły;50;52.6087;16.58164
-district;wielkopolskie;szamotulski;;50;52.584055;16.37712
+commune;wielkopolskie;szamotulski;Pniewy;1;52.508732;16.25635
+district;wielkopolskie;szamotulski;;51;52.584055;16.37712
 commune;wielkopolskie;śremski;Śrem;2;52.089588;17.015921
 district;wielkopolskie;śremski;;2;52.062672;17.05854
 commune;wielkopolskie;turecki;Turek;2;52.016701;18.5
@@ -860,10 +903,10 @@ district;wielkopolskie;turecki;;2;51.998196;18.493464
 commune;wielkopolskie;wągrowiecki;Wągrowiec;2;52.808571;17.20051
 commune;wielkopolskie;wągrowiecki;Gołańcz;2;52.946301;17.30126
 district;wielkopolskie;wągrowiecki;;4;52.825851;17.265389
-commune;wielkopolskie;wrzesiński;Września;1;52.321899;17.56131
+commune;wielkopolskie;wrzesiński;Września;5;52.321899;17.56131
 commune;wielkopolskie;wrzesiński;Pyzdry;4;52.170582;17.69009
-district;wielkopolskie;wrzesiński;;5;52.240719;17.58999
-voivodeship;wielkopolskie;"";"";625;52.379915;17.441115
+district;wielkopolskie;wrzesiński;;9;52.240719;17.58999
+voivodeship;wielkopolskie;"";"";700;52.379915;17.441115
 commune;warmińsko-mazurskie;gołdapski;Dubeninki;7;54.288361;22.55805
 commune;warmińsko-mazurskie;gołdapski;Banie Mazurskie;6;54.247398;22.033951
 commune;warmińsko-mazurskie;gołdapski;Gołdap;5;54.310188;22.303591
@@ -934,6 +977,8 @@ commune;warmińsko-mazurskie;węgorzewski;Węgorzewo;28;54.214588;21.74057
 commune;warmińsko-mazurskie;węgorzewski;Pozezdrze;7;54.141411;21.859489
 district;warmińsko-mazurskie;węgorzewski;;35;54.207239;21.77855
 voivodeship;warmińsko-mazurskie;"";"";420;53.791475;20.96719
+commune;śląskie;Chorzów;Chorzów;7;50.263859;18.9366
+district;śląskie;Chorzów;;7;50.26434;18.93671
 commune;śląskie;Bytom;Bytom;13;50.348919;18.915501
 district;śląskie;Bytom;;13;50.348925;18.915505
 commune;śląskie;Katowice;Katowice;54;50.25605;19.030939
@@ -961,14 +1006,15 @@ district;śląskie;cieszyński;;79;49.72628;18.791474
 commune;śląskie;Częstochowa;Częstochowa;14;50.816441;19.09553
 district;śląskie;Częstochowa;;14;50.81645;19.094321
 commune;śląskie;gliwicki;Gierałtowice;1;50.222221;18.719231
+commune;śląskie;gliwicki;Rudziniec;5;50.367901;18.40538
 commune;śląskie;gliwicki;Toszek;3;50.45454;18.52124
-district;śląskie;gliwicki;;4;50.362656;18.58007
+district;śląskie;gliwicki;;9;50.362656;18.58007
 commune;śląskie;częstochowski;Janów;6;50.721889;19.436621
 commune;śląskie;częstochowski;Kłomnice;9;50.921059;19.355141
 commune;śląskie;częstochowski;Mykanów;4;50.923229;19.20215
-commune;śląskie;częstochowski;Olsztyn;1;50.750889;19.266701
+commune;śląskie;częstochowski;Olsztyn;2;50.750889;19.266701
 commune;śląskie;częstochowski;Mstów;5;50.829689;19.286421
-district;śląskie;częstochowski;;25;50.841045;19.337515
+district;śląskie;częstochowski;;26;50.841045;19.337515
 commune;śląskie;rybnicki;Czerwionka-Leszczyny;4;50.150009;18.67659
 district;śląskie;rybnicki;;4;50.09931;18.51786
 commune;śląskie;tarnogórski;Tarnowskie Góry;4;50.446121;18.85639
@@ -977,6 +1023,8 @@ commune;śląskie;raciborski;Racibórz;8;50.097542;18.20772
 district;śląskie;raciborski;;8;50.08696;18.268955
 commune;śląskie;Zabrze;Zabrze;7;50.324451;18.78443
 district;śląskie;Zabrze;;7;50.324744;18.785327
+commune;śląskie;Jastrzębie-Zdrój;Jastrzębie-Zdrój;1;49.95525;18.57692
+district;śląskie;Jastrzębie-Zdrój;;1;49.955312;18.577038
 commune;śląskie;lubliniecki;Lubliniec;4;50.668591;18.684191
 commune;śląskie;lubliniecki;Koszęcin;3;50.635921;18.841049
 commune;śląskie;lubliniecki;Boronów;1;50.672489;18.909821
@@ -987,6 +1035,8 @@ commune;śląskie;myszkowski;Poraj;1;50.678329;19.2139
 district;śląskie;myszkowski;;7;50.605844;19.351564
 commune;śląskie;pszczyński;Kobiór;4;50.05957;18.93259
 district;śląskie;pszczyński;;4;49.989849;18.882075
+commune;śląskie;Piekary Śląskie;Piekary Śląskie;58;50.374119;18.943991
+district;śląskie;Piekary Śląskie;;58;50.374125;18.943995
 commune;śląskie;Rybnik;Rybnik;32;50.089828;18.532749
 district;śląskie;Rybnik;;32;50.089835;18.532755
 commune;śląskie;Sosnowiec;Sosnowiec;30;50.288799;19.1124
@@ -1009,7 +1059,7 @@ commune;śląskie;Mysłowice;Mysłowice;26;50.24271;19.13467
 district;śląskie;Mysłowice;;26;50.242716;19.134672
 commune;śląskie;Dąbrowa Górnicza;Dąbrowa Górnicza;4;50.318001;19.216761
 district;śląskie;Dąbrowa Górnicza;;4;50.318065;19.216755
-voivodeship;śląskie;"";"";407;50.246651;19.004235
+voivodeship;śląskie;"";"";479;50.246651;19.004235
 commune;świętokrzyskie;kielecki;Miedziana Góra;1;50.93269;20.56167
 commune;świętokrzyskie;kielecki;Chmielnik;10;50.61422;20.750999
 commune;świętokrzyskie;kielecki;Chęciny;25;50.800461;20.46137
@@ -1033,6 +1083,8 @@ commune;świętokrzyskie;jędrzejowski;Imielno;22;50.585659;20.44607
 commune;świętokrzyskie;jędrzejowski;Jędrzejów;34;50.641628;20.30061
 commune;świętokrzyskie;jędrzejowski;Małogoszcz;22;50.812119;20.264111
 district;świętokrzyskie;jędrzejowski;;78;50.657764;20.186465
+commune;świętokrzyskie;kazimierski;Bejsce;7;50.239059;20.59919
+district;świętokrzyskie;kazimierski;;7;50.288105;20.528595
 commune;świętokrzyskie;Kielce;Kielce;42;50.876831;20.624189
 district;świętokrzyskie;Kielce;;42;50.87683;20.624195
 commune;świętokrzyskie;opatowski;Opatów;11;50.802212;21.42572
@@ -1040,9 +1092,9 @@ commune;świętokrzyskie;opatowski;Iwaniska;3;50.73193;21.281759
 district;świętokrzyskie;opatowski;;14;50.878811;21.48233
 commune;świętokrzyskie;ostrowiecki;Ćmielów;26;50.890381;21.513769
 commune;świętokrzyskie;ostrowiecki;Bałtów;5;51.018341;21.54332
-commune;świętokrzyskie;ostrowiecki;Ostrowiec Świętokrzyski;1;50.932018;21.38612
+commune;świętokrzyskie;ostrowiecki;Ostrowiec Świętokrzyski;2;50.932018;21.38612
 commune;świętokrzyskie;ostrowiecki;Bodzechów;9;50.947948;21.489269
-district;świętokrzyskie;ostrowiecki;;41;50.941555;21.40931
+district;świętokrzyskie;ostrowiecki;;42;50.941555;21.40931
 commune;świętokrzyskie;sandomierski;Sandomierz;51;50.697182;21.74016
 commune;świętokrzyskie;sandomierski;Zawichost;3;50.806641;21.857731
 commune;świętokrzyskie;sandomierski;Klimontów;1;50.657059;21.45068
@@ -1068,7 +1120,7 @@ commune;świętokrzyskie;pińczowski;Kije;4;50.60783;20.57163
 district;świętokrzyskie;pińczowski;;6;50.500406;20.472495
 commune;świętokrzyskie;skarżyski;Suchedniów;1;51.049999;20.8333
 district;świętokrzyskie;skarżyski;;1;51.05368;20.789345
-voivodeship;świętokrzyskie;"";"";613;50.763842;20.787415
+voivodeship;świętokrzyskie;"";"";621;50.763842;20.787415
 monument;Pałac (zamek Nowy Dwór);50.79171;15.83665
 monument;Kamienica;52.250901;21.0364073
 monument;Willa fabrykancka;52.2345955;20.9881207
@@ -1088,14 +1140,18 @@ monument;Dom stary (wsch.), tzw. prochownia, ob. muzeum;52.0589416;19.203129
 monument;Dzwonnica-brama;52.1067916;19.9453744
 monument;Kościół par. p.w. Św. Ducha i śś. Katarzyny i Mateusza;52.1045003;19.9341352
 monument;Dwór;50.525253;16.4838109
+monument;Dwór;52.1166912;22.3135032
 monument;Park;52.010891;21.9201519
 monument;Kościół par. p.w. św. Marii Magdaleny;51.0576596;19.4474106
 monument;Zespół pałacowy;50.6460926;17.446313
+monument;Kościół par. p.w. Narodzenia NMP;49.8211349;20.4892092
+monument;Stara plebania (klasztor norbertanek);49.73554;21.26331
 monument;Miasto;52.163538;15.8317374
 monument;Budynek gospodarczy;49.674952;19.0935522
 monument;Plebania;52.0860346;15.6242479
 monument;Wieża ciśnień;52.0900597;15.6260853
 monument;Zespół willi;51.4997538;15.1936978
+monument;Kapliczka przydrożna św. Jana Nepomucena;49.7613385;20.4503151
 monument;Zespół pałacowy;51.3951374;17.4809391
 monument;Dom;51.3656734;17.467761
 monument;Cerkiew greko-kat. p.w. śś. Kosmy i Damiana, ob. kościół rzym.-kat. fil.;49.3465875;20.9960035
@@ -1120,6 +1176,7 @@ monument;Pałac;52.1560817;21.0545762
 monument;Zespół kościoła par. p.w. św. Jakuba;53.0112835;18.6115692
 monument;Kamienica;53.0101002;18.5837891
 monument;Dom ""Pod Gwiazdą"";53.0105978;18.6050599
+monument;Zespół pałacowy;53.1081715;18.7287508
 monument;Kościół par. p.w. św. Jana;52.6610312;19.0727854
 monument;Cerkiew unicka, ob. kościół rzym.-kat. p.w. Przemienienia Pańskiego;51.8057405;23.5991368
 monument;Dom sitarski;50.5405119;22.7191296
@@ -1127,14 +1184,18 @@ monument;Cmentarz rzym.-kat.;50.5424436;22.7115568
 monument;Kaplica p.w. św. Marii Magdaleny;50.54099;22.72198
 monument;Cmentarz;50.9189661;23.5460441
 monument;Ruiny cerkwi greko-kat. p.w. św. Paraskewy;49.2529993;22.5158267
+monument;Cerkiew greko-kat. p.w. Narodzenia Marii, ob. kościół rzym.-kat. p.w. Narodzenia N…;49.4733054;22.6619511
 monument;Kościół p.w. śś. Mikołaja i Stanisława;50.02185;22.6791468
 monument;Dom kapelana;50.02185;22.6791468
 monument;Dwór;51.2608623;22.5129831
 monument;Zespół kościoła par. p.w. śś. Stanisława Biskupa i Tomasza Apostoła;51.100715;21.800577
 monument;Kościół par. p.w. św. Jana Chrzcieciela;51.5575878;22.135069
 monument;Ogrodzenie;50.3793804;21.7460977
+monument;Cmentarz par.;51.1496384;22.9401579
 monument;Rządcówka;50.5395694;23.7113569
+monument;Kościół par. p.w. Nawiedzenia NMP;49.471418;22.3288635
 monument;Obora;50.5839813;23.0745208
+monument;Elektrownia, ob. szpital;50.064335;22.241749
 monument;Dom ""Generałówka"" (z oficyną);50.7157513;23.2518668
 monument;Synagoga, ob. biblioteka;50.7179618;23.254625
 monument;Kamienica;50.7170222;23.2517956
@@ -1152,10 +1213,14 @@ monument;Kopalnia soli (najstarsza część);49.9702225;20.4314718
 monument;Ruina zamku (baszta);49.8329716;20.6772591
 monument;Synagoga;49.7302492;21.2504187
 monument;Zespół osiedla robotniczego Modrzejówka;50.0734951;19.9264516
+monument;Cmentarz wojenny nr 357 z I wojny światowej;49.7902176;20.4951866
+monument;Zespół dworski;49.6015359;20.5193646
+monument;Kościół par. p.w. św. Andrzeja Apostoła;49.6737388;20.9873947
 monument;Willa ""Wisła"";49.0;21.0
 monument;Willa ""Witoldówka"";49.4197718;20.9575735
 monument;Zespół kościoła par. p.w. Narodzenia Matki Boskiej;50.3670704;19.5101619
 monument;Zamek;50.0406662;20.2225326
+monument;Dworek;52.0754934;20.6233015
 monument;Ruiny pałacu;52.4389403;20.7763761
 monument;Cmentarz par. rzym.-kat.;52.4372162;20.6124616
 monument;Cmentarz żydowski;52.1559782;20.810864
@@ -1189,6 +1254,8 @@ monument;Zespół dworski;52.5159001;21.76675
 monument;Bank;52.0518639;20.4421473
 monument;Kapliczka II;50.3780843;17.5120897
 monument;Cerkiew gr.-kat. p.w. św. Paraskewy;49.2477651;22.6937563
+monument;Dzwonnica;49.4430189;22.6177289
+monument;Zespół zabudowań rafinerii nafty;49.427795;22.60503
 monument;Cmentarz;49.6730152;22.2794396
 monument;Oficyna pałacowa;50.2447745;21.7786582
 monument;Kościół par. p.w. Marii Magdaleny;49.5555137;21.6832308
@@ -1222,6 +1289,8 @@ monument;Ogród;50.8751352;19.3859428
 monument;Zespół zabudowy kopalni ""Ludwik"";50.3240452;18.7956786
 monument;Zespół synagogi Remuh;50.0526484;19.9475759
 monument;Kościół par. p.w. Niepokalanego Poczęcia NMP;52.4205137;21.0336272
+monument;Pralnia i kuchnia;50.3724506;18.9443759
+monument;Prosektorium z kaplicą;50.3724506;18.9443759
 monument;Pawilon szpitalny nr I;50.1042808;18.5466515
 monument;Budynek II;50.2783065;19.1293923
 monument;Dwór;50.4904529;20.7979573
@@ -1256,6 +1325,7 @@ monument;Pałac;54.1314538;21.683355
 monument;Remiza, ob. warsztat;52.865906;16.4979217
 monument;Kaplica;52.5183117;17.5994698
 monument;Budynek administracyjny;52.5217487;17.5965311
+monument;Gorzelnia;52.4605663;17.7819899
 monument;Obora;51.3133341;21.991383
 monument;Ogrodzenie cmentarza;52.0549379;18.0137863
 monument;Kościół par. p.w. św. Katarzyny;52.1779582;16.7103572
@@ -1273,6 +1343,7 @@ monument;Willa;52.2847054;16.9206174
 monument;Wozownia;52.5862193;16.6316742
 monument;Budynek na Podzamczu;52.6116547;16.5779047
 monument;Zespół dworski;52.555424;16.5845262
+monument;Dwór;52.3852253;17.6473099
 monument;Dzwonnica-brama;51.7832025;22.6218532
 monument;Baszta Prochowa;53.91666;15.1998891
 monument;Kościół, ob. par. p.w. Najśw. Serca Pana Jezusa i magazyn zbożowy;53.3014661;14.8147435
@@ -1295,6 +1366,7 @@ monument;Ogrodzenie;52.2517325;20.975084
 monument;Cmentarz;51.1532343;16.1752366
 monument;Zespół cmentarza par.;53.2592636;19.394363
 monument;Ujeżdżalnia;50.7840092;16.2843553
+monument;Cmentarz żołnierzy radzieckich z II wojny światowej;49.70587;20.42228
 monument;Ogród;52.1018649;19.9326045
 monument;Kościół p.w. NMP;50.0525544;19.375941
 monument;Komunalna Kasa Oszczędności, ob. bank;50.0627226;19.9413636
@@ -1326,6 +1398,7 @@ monument;Biblioteka Publiczna;52.2223005;21.0183697
 monument;Zespół fortu Kościuszko (dec. kopca Kościuszki);50.0646501;19.9449799
 monument;Założenie urbanistyczne;52.2224159;21.0205802
 monument;Cmentarz choleryczny;50.0646501;19.9449799
+monument;Dom;52.0600032;20.4433346
 monument;Kapliczka;49.574472;20.3446477
 monument;Zespół kościoła par. p.w. śś. Marcina i Małgorzaty;50.0687887;19.5687201
 monument;Kościół par. p.w. św. Katarzyny Aleksandryjskiej;49.4392346;20.1432099
@@ -1335,6 +1408,7 @@ monument;Kościół cmentarny, ob. par. p.w. św. Jadwigi;50.947491;18.4749372
 monument;Oficyna II;49.5555137;21.6832308
 monument;Klasztor dominikanek, ob. Klub Garnizonowy;49.7819327;22.7670598
 monument;Cmentarz żydowski;49.7692973;22.7843854
+monument;Klasztor, ob. hotel;50.06824;22.2298
 monument;Park miejski Leśniczówka;51.4036514;21.1666168
 monument;Dom;52.97607;22.844157
 monument;Zespół klasztoru bernardynów, ob. dom księży emerytów;53.203641;22.7712118
@@ -1358,6 +1432,7 @@ monument;Zajezdnia tramwajowa;51.7393721;19.4776833
 monument;Ratusz;49.8216423;19.0506156
 monument;Zespół szybu Antoni w kopalni Jaworzno;50.2384597;19.2744662
 monument;Pałac Poznańskich;51.7718597;19.4483208
+monument;Zespół dworski;49.7044909;20.419324
 monument;Dwór;50.5730269;20.3567976
 monument;Oranżeria;50.8681868;20.6257665
 monument;Kościół klasztorny dominikanów, ob. par. p.w. św. Marii Magdaleny;49.7479323;18.6321426
@@ -1365,6 +1440,7 @@ monument;Ogrodzenie z bramkami;50.6514963;21.2602766
 monument;Zespół liceum;51.4196426;21.9745695
 monument;Zespół kościoła par. p.w.  Chrysusa Króla i św. Rocha;53.1346643;23.1448688
 monument;Zespół klasztorny norbertanów;50.470362;20.7191757
+monument;Zespół zabudowań stadniny koni;52.6528226;16.090924
 monument;Zespół kościoła katedralnego p.w.  Narodzenia NMP;50.6786054;21.7498478
 monument;Cmentarz;51.0513278;16.1933373
 monument;Czworak, ob. oficyna gospodarcza;51.6375339;22.445495
@@ -1410,6 +1486,7 @@ monument;Ratusz;50.0124812;20.9884465
 monument;Cmentarz;49.81177;19.5476483
 monument;Cmentarz;52.2471198;21.0527456
 monument;Zespół Szpitala Przemienienia Pańskiego;52.2514174;21.029161
+monument;Kościół par. p.w. św. Katarzyny;49.9584893;18.5965567
 monument;Klasztor, ob. plebania;50.3010131;20.807422
 monument;Budynek administracyjno-biurowy z portiernią;51.7387443;19.478687
 monument;Zespół d. domu sierot dziewcząt;52.208396;21.0162254
@@ -1552,6 +1629,7 @@ monument;Port Czerniakowski;52.2202172;21.0477138
 monument;Laboratorium;52.2345955;20.9881207
 monument;Dzwonnica;51.8046593;22.1597043
 monument;Plebania;51.8046593;22.1597043
+monument;Budynek PAŁAC ŚLUBÓW;51.3984773;21.1537787
 monument;Zespół cmentaarza żydowskiego;51.6052357;18.9190473
 monument;Hotel SAVOY z oficynami;51.7689252;19.4585193
 monument;Ogrodzenie z bramami;51.60387;18.9187798
@@ -1628,6 +1706,7 @@ monument;Kaplica bł. Bronisławy;50.0646501;19.9449799
 monument;Tłocznia gazu;52.2279442;20.9596465
 monument;Kamienica;52.8350838;18.8992274
 monument;Zespół kościoła reformatów p.w. Niepokalanego Poczęcia NMP;53.259294;19.3934242
+monument;Kaplica, tzw. ariańska, ob. kaplica rzym.-kat. p.w. św. Antoniego;50.795112;23.2892
 monument;Grobowiec rodziny Meyerholdów;50.286938;19.1209119
 monument;Kościół szpitalny pw. św. Jerzego;50.4665994;19.656581
 monument;Zespół cmentarza;51.2886562;16.9552915
@@ -1664,12 +1743,17 @@ monument;Czworak;53.5188863;18.9473205
 monument;Stajnia;53.5188863;18.9473205
 monument;Stodoła;53.5188863;18.9473205
 monument;Cmentarz rzym.-kat. par. p.w. NMP;53.0266343;18.5960608
-monument;Koszarka drogowa ""Belwederek"", ob. pogotowie ratunkowe;50.7230879;23.2519686
+monument;Dom;50.7177721;23.2515816
+monument;Koszarka drogowa ""Belwederek"", ob. pogotowie ratunkowe;50.7225968;23.2568999
+monument;Zespół szkoły rolniczej;50.7128881;23.2164799
 monument;Cmentarz prawosławny;51.7759349;19.436422
+monument;Oficyna I;51.4003513;21.1561804
 monument;Park miejski;53.0086322;18.5785266
+monument;Wozownia-stelmacharnia (oficyna zachodnia);50.7126955;23.2665062
 monument;Zamek królewski;50.0542742;19.9363256
 monument;Towarzystwo Kredytowe Miejskie;51.7770078;19.4593069
 monument;Cerkiew prawosławna par. p.w. św. Aleksandra Newskiego;51.7705213;19.4642581
+monument;Kościół akademicki p.w. św. Anny;50.0621621;19.93339
 monument;Willa Wilhelma Teszemachera;51.7564455;19.4628105
 monument;Wiatrak koźlak;51.9760051;21.6673076
 monument;Hotel garnizonowy;51.7735767;19.4387361
@@ -1688,8 +1772,11 @@ monument;Zespół cmentarza par. rzym.-kat.;52.1444839;20.719343
 monument;Kościół par. p.w. Św. Krzyża;51.5863267;21.5511584
 monument;Zespół dworkowy Zagroda (Bartkiewiczówka);52.133334;20.7056656
 monument;Kamienica;51.4031466;21.1487831
+monument;Pałac;51.4012613;21.1522996
 monument;Kościół p.w. św. Trójcy;51.4027237;21.1471333
 monument;Ogrodzenie z 2 bramkami;51.3933906;21.132092
+monument;Drukarnia;51.401255;21.1510786
+monument;Łaźnia miejska (z fragmentem d. rogatki miejskiej);51.4003242;21.1586894
 monument;Spichlerz;53.1365209;17.5944536
 monument;Budynek VII;52.2653735;21.0378253
 monument;Park miejski;50.3483816;18.9157175
@@ -1698,6 +1785,9 @@ monument;Latarnia morska;54.3520252;18.6466384
 monument;Zespół pałacowy;50.918754;19.3081848
 monument;Budynek zakładu św. Józefa, ob. specjalny ośrodek wychowawczy;50.2435734;19.1377746
 monument;Kościół par. p.w. Narodzenia NMP i św. Andrzeja, sanktuarium św. Antoniego z Padwy;50.3377179;19.232841
+monument;Budynek administracyjny II;50.3016648;18.9479181
+monument;Kościół kalwaryjski, ob. par. p.w. Zmartchwywstania Pańskiego;50.3828765;18.9447265
+monument;Budynek mieszkalny, ob. administracyjny;50.3724506;18.9443759
 monument;Pałac;50.0597481;18.935063800000002
 monument;Kościół par. p.w. św. Mikołaja;51.6624648;16.0918228
 monument;Kościół cmentarny p.w. św. Jana Chrzciciela;50.4559911;19.2308056
@@ -1761,8 +1851,10 @@ monument;Oficyna;50.9321763;15.6842531
 monument;Park;50.8492899;15.8524553
 monument;Pałac;52.2117033;22.5177976
 monument;Oficyna II;51.4074942;21.160373
+monument;Pałacyk;51.4003513;21.1561804
 monument;Willa Carla Hauptmana;50.8334798;15.5289679
 monument;Cmentarz przykościelny;50.81507;23.88997
+monument;Dzwonnica-brama;50.9666667;22.0833333
 monument;Sanatorium Gigant;50.2296697;16.7652421
 monument;Kościół par. p.w. Nawiedzenia NMP;52.066667;19.65
 monument;Zespół pałacowy;51.6357499;22.4446717
@@ -1787,10 +1879,12 @@ monument;Budynek bramny;50.02185;22.6791468
 monument;Dwór;51.3160384;22.585067
 monument;Miasto;50.580662;16.5004487
 monument;Ratusz;50.5792805;16.5016258
+monument;Zespół klasztorny dominikanów;51.247884;22.5699235
 monument;Kościół p.w. św. Piotra Apostoła;51.2465872;22.566347
 monument;Klasztor;51.2465872;22.566347
 monument;Klasztor;51.2475323;22.5610208
 monument;Ogrodzenie;51.2475323;22.5610208
+monument;Zespół klasztorny reformatów, ob. browar;51.2440324;22.5672258
 monument;Cmentarz przykościelny;51.2475323;22.5610208
 monument;Cmentarz żydowski;51.2579362;22.5791053
 monument;Zespół parku miejskiego Ogród Saski;51.2492152;22.5473576
@@ -1805,6 +1899,7 @@ monument;Kamienica;52.4081889;16.9322651
 monument;Most Dworcowy;52.4032818;16.9129181
 monument;Cerkiew prawosławna, ob. kościół rzym.-kat. par. p.w. Matki Boskiej Nieustającej P…;50.81507;23.88997
 monument;Cmentarz przykościelny;50.804955;23.890487
+monument;Klasztor;51.247884;22.5699235
 monument;Baszta Rycerska;50.2990907;16.6417942
 monument;Willa;52.1940535;20.8810812
 monument;Zespół cerkwi gr.-kat. pw. Podniesienia Relikwii św. Mikołaja;49.4717182;21.6027117
@@ -1827,6 +1922,7 @@ monument;Park;52.3192044;20.9403546
 monument;Dom;52.232712;21.0530644
 monument;Zespół willi;52.2227678;21.0641385
 monument;Dworzec PKP;54.1069819;22.9412116
+monument;Oficyna ze stajnią i wozownią;50.3845561;18.4782977
 monument;Zespół pałacowy (pozostałości);53.9783302;22.802225
 monument;Kościół par. p.w. św. Aleksandra;52.2290976;21.0224025
 monument;Kościół par. p.w. św. Augustyna;52.2439614;20.9887001
@@ -2011,8 +2107,10 @@ monument;Zespół zamkowy;51.1520448;15.0070264
 monument;Zamek;51.1574646;15.0424243
 monument;Park;51.1574646;15.0424243
 monument;Chlewnia;52.5301105;15.9854776
+monument;Kościół par. p.w. Przemienienia Pańskiego;52.8783413;18.6946281
 monument;Cmentarz wojenny z I wojny światowej (żołnierzy rosyjskich);52.8878047;18.6851037
 monument;Centrala elektryczna;52.2279442;20.9596465
+monument;Zespół pałacowy;52.8820612;18.6958112
 monument;Międzypolowy fort pancerny 45a Bibice;50.1229207;19.9575924
 monument;Kościół par. p.w. św. Wacława;52.8492431;18.5739922
 monument;Zespół kościoła ewangelickiego, ob. rzym.-kat. par. p.w. Najśw. Serca Pana Jezusa;52.9068223;18.7215205
@@ -2027,8 +2125,12 @@ monument;Pałac Anny Wazówny;53.25824;19.4002006
 monument;Sieć dróg fortecznych z zielenią maskującą;50.0646501;19.9449799
 monument;Ruiny zamku, ob. muzeum;53.2560995;19.4010211
 monument;Mury przedzamcza;53.2599703;19.3956618
+monument;Cerkiew gr.-kat. p.w. Mikołaja Cudotwórcy, ob. kościół rzym.-kat. p.w. Narodzenia …;49.3493053;22.3603879
+monument;Dzwonnica;49.3493053;22.3603879
+monument;Bazylika p.w. Zwiastowania NMP;50.2699174;22.4073707
 monument;Gmach Dyrekcji Kolei;53.1301712;17.9954356
 monument;Kamienica;53.1289785;18.0078244
+monument;Glorieta;50.0681963;22.2318508
 monument;Kamienica;53.125656;17.9896841
 monument;Willa;53.1309078;18.0136186
 monument;Hala targowa;53.1213364;18.0023324
@@ -2039,6 +2141,9 @@ monument;Cmentarz rzym.-kat. par.;53.3460817;18.4197365
 monument;Zespół_kamienicy;53.3501184;18.4275687
 monument;Dzielnica staromiejska;53.349118;18.4236664
 monument;Klasztor;53.349286;18.418212
+monument;Spichrz;53.349947;18.428564
+monument;Dom;53.348765;18.423356
+monument;Seminarium misjonarzy, ob. sąd powiatowy;53.347986;18.423117
 monument;Oficyna;53.350349;18.427968
 monument;Kuźnia i warsztat kowalski;53.350349;18.427968
 monument;Gorzelnia;53.2976786;18.5390769
@@ -2093,7 +2198,10 @@ monument;Spichrz, ob. pracownia witraży;53.008614;18.603008
 monument;Cmentarz grzebalny;53.6660209;20.2557051
 monument;Teatr Miejski, ob. im. Wiliama Horzycy;53.0121204;18.6025811
 monument;Kaplica Golgota;52.9930315;18.5893036
+monument;Kościół katedralny p.w. Św. Trójcy;53.1862789;18.6143365
 monument;Ogrodzenie;52.9935572;18.7180778
+monument;Pałac, ob. szkoła podstawowa;53.1081715;18.7287508
+monument;Pawilon neogotycki;53.1081715;18.7287508
 monument;Państwowe Gimnazjum Żeńskie, ob. LO im. M. Konopnickiej;52.6584747;19.0777963
 monument;Ruiny zamku;53.2833368;18.9384149
 monument;Kamienica (z oficyną);53.2797356;18.9529117
@@ -2114,6 +2222,7 @@ monument;Zespół kościoła fil. p.w. św. Rocha;50.3552403;22.7394281
 monument;Park dworski;51.2557769;23.698547
 monument;Dzwonnica;50.9189661;23.5460441
 monument;Plebania;50.9189661;23.5460441
+monument;Cerkiew greko-kat. p.w. Michała Archanioła, ob. kościół par. rzym.-kat. p.w. Matki…;49.4430189;22.6177289
 monument;Spichlerz;50.75068;22.228736
 monument;Kapliczka;50.75068;22.228736
 monument;Stodoła;50.75068;22.228736
@@ -2123,6 +2232,7 @@ monument;Stajnia, ob. obora i chlewnia;50.75068;22.228736
 monument;Rządcówka, ob. szkoła;50.75068;22.228736
 monument;Park (z terenem ogrodów gospodarczych i stwaów);50.75068;22.228736
 monument;Cerkiew p.w. św. Mikołaja;49.6730152;22.2794396
+monument;Zespół kościoła par. p.w. śś. Stanisława Biskupa i Marii Magdaleny;50.9666667;22.0833333
 monument;Kaplica grobowa rodziny Starzeńskich;49.778186;22.2388165
 monument;Kościół par. p.w. Niepokalanego Poczęcia NMP i św. Warzyńca;51.4938767;22.8528813
 monument;Cmentarz;51.4938767;22.8528813
@@ -2155,8 +2265,10 @@ monument;Zespół kościoła par. p.w. św. Mikołaja;51.2535798;22.5728621
 monument;Cmentarz;51.2525275;22.5742803
 monument;Zespół klasztorny kapucynów;51.2476486;22.560734
 monument;Cmentarz rzym.-kat.;51.2538651;22.590899
+monument;Klasztor, ob. browar;51.2440324;22.5672258
 monument;Park miejski Ogród Saski;51.2292683;22.580384
 monument;Kapliczka;51.2292683;22.580384
+monument;Nowy ratusz;51.2476657;22.565664
 monument;Pałac Parysów;51.2470375;22.5645645
 monument;Pałac Sobieskich;51.2442873;22.5665363
 monument;Szkoła handlowa;51.245762;22.5661695
@@ -2180,16 +2292,22 @@ monument;Kamienica;51.249372;22.5673995
 monument;Pałac Wrońskich;51.2460194;22.568141
 monument;Kościół par. p.w. św. Marcina Biskupa;49.7601313;21.5973726
 monument;Fragment rynku m. Głuska (dec. otoczenie ratusza);51.1908432;22.5968608
+monument;Zespół pałacowy;51.2739554;22.6298619
 monument;Kamienica;51.2479903;22.5691885
 monument;Wieża ciśnień w zespole fabryki ""Eternit"";51.2430101;22.5832375
 monument;Willa;51.2553447;22.5192765
 monument;Dom;51.2453;22.5677109
 monument;Dwór;51.2545679;22.5590078
 monument;Otoczenie ogrodowe;51.2545679;22.5590078
+monument;Park;51.2739202;22.6305347
 monument;Chlewnia;51.2816188;22.5963466
 monument;Dom Żołnierza;51.2466937;22.5503954
 monument;Park z aleją dojazdową;51.2816188;22.5963466
 monument;Zespół dworski;51.2327925;22.4885585
+monument;Pałac;51.2739202;22.6305347
+monument;Pawilon I (bażantarnia);51.2739202;22.6305347
+monument;Mur oporowy;51.2739202;22.6305347
+monument;Brama wjazdowa;51.2739202;22.6305347
 monument;Dwór;51.2328531;22.4889065
 monument;Dzwonnica;51.3009;22.88211
 monument;Cmentarz par.;51.2985352;22.8898577
@@ -2230,19 +2348,28 @@ monument;Oficyna;51.2250373;22.7850797
 monument;Park;51.2250373;22.7850797
 monument;Pałac;51.2634867;22.8210917
 monument;Oficyna;51.2634867;22.8210917
+monument;Oficyna zamkowa;51.1011036;22.8538163
+monument;Cmentarz żydowski, tzw. Góra;51.1527238;22.9406438
 monument;Zespół pałacowy (d. klasztor jezuitów);50.5332417;23.7255557
 monument;Zespół dworski;50.5394978;23.7138608
 monument;Park dworski;50.5539099;23.6226803
 monument;Ruiny kościoła (oficyny) (dec. kuchnia pałacowa);50.5332417;23.7255557
 monument;Park;50.5332417;23.7255557
 monument;Park;50.5395694;23.7113569
+monument;Czworak (nr 77);51.4836759;23.2847125
+monument;Dzwonnica;51.4812314;23.2908323
 monument;Zbiornik podziemny I;49.7958789;22.7675445
+monument;Kaplica p.w. św. Rocha;50.5334092;23.1865907
 monument;Zespół pałacowy;50.6518109;23.3789175
 monument;Pałac;50.6549148;23.3665045
 monument;Oficyna I;50.6549148;23.3665045
 monument;Oficyna II;50.6549148;23.3665045
 monument;Pawilon zach. Kasztelanka;50.6549148;23.3665045
 monument;Park;50.6549148;23.3665045
+monument;Zespół dworski;50.7962906;23.2783482
+monument;Dwór;50.795112;23.2892
+monument;Oficyna;50.795112;23.2892
+monument;Park z aleją dojazdową;50.795112;23.2892
 monument;Synagoga;50.6940333;22.9771488
 monument;Zagroda nr 19;50.5828735;23.0744371
 monument;Zespół kościoła p.w. św. Jana Nepomucena, tzw. Na Wyspie;50.6092823;22.9674819
@@ -2272,7 +2399,9 @@ monument;Zespół cmentarza rzym.-kat.;50.7209819;23.2624293
 monument;Ogród;50.6060064;22.9673955
 monument;Arsenał;50.7167851;23.2480058
 monument;Ratusz z oficynami;50.7175544;23.2524859
+monument;Seminarium duchowne, ob. Wyższa Szkoła Zarządzania i Administracji;50.717592;23.2510486
 monument;Dom;50.7168095;23.2544243
+monument;Ogród włoski;50.0796004;22.2327797
 monument;Budynek kahału;50.7179618;23.254625
 monument;Klasztor, ob. Dom Dziecka;50.7156605;23.2534868
 monument;Zespół klasztorny klarysek, ob. Dom Dziecka;50.7157383;23.2525159
@@ -2319,6 +2448,7 @@ monument;Synagoga, ob. magazyn;52.4448416;15.579104
 monument;Ogród;53.2069918;23.3431975
 monument;Kościół p.w. Imienia Jezus;50.4698748;19.6545201
 monument;Klasztor;50.4698748;19.6545201
+monument;Dom nr 73;51.7512932;15.5146755
 monument;Dom;52.2249565;20.9584927
 monument;Willa;52.206534;21.0154712
 monument;Pałac biskupi;49.781275;22.7673955
@@ -2330,9 +2460,11 @@ monument;Spichrz (większy);50.648057;17.4560854
 monument;Spichrz (mniejszy);50.648057;17.4560854
 monument;Pawilon toskański;53.1305688;23.1653773
 monument;Kościół p.w. św. Mikołaja, ob. ewangelicki;51.1147666;18.2149879
+monument;Zespół pałacowy;51.1591395;18.1443297
 monument;Kościół ewangelicki, ob. rzym.-kat. p.w. Matki Boskiej Królowej Polski;51.0833518;18.1146786
 monument;Zespół pałacowy;51.1134136;18.2736309
 monument;Zespół kaplicy, ob. ewangelicka;51.0793928;18.2424855
+monument;Pałac;51.1654097;18.1475717
 monument;Ogrodzenie;51.0805886;18.2399901
 monument;Pałac;51.1119925;18.2677818
 monument;Zespół kościoła par. p.w. Św. Trójcy;50.967295;18.1332284
@@ -2375,6 +2507,7 @@ monument;Spichlerz, ob. hotel PTTK;51.616245;15.3189338
 monument;Kościół braci czeskich, ob. ewangelicki;51.4631632;19.2203291
 monument;Pawilon (oficyna-kuchnia);50.5729079;21.6790698
 monument;Park;50.5729079;21.6790698
+monument;Kaplica;50.5729079;21.6790698
 monument;Zamek;50.498985;21.5417402
 monument;Kościół par. p.w. św. Wawrzyńca;52.2307707;19.3627588
 monument;Zajazd, tzw. Pałac Saski;52.2328778;19.3566078
@@ -2432,6 +2565,7 @@ monument;Akwedukt;52.0768702;20.0079475
 monument;Skansen (teren);52.1347252;19.8526522
 monument;Dom;52.97449;22.842274
 monument;Dom;52.975136;22.844513
+monument;Przytulisko, ob. dom mieszkalny;52.1979783;19.8117525
 monument;Pałac Rudolfa Kellera;51.7710385;19.4488093
 monument;Stróżówka;51.7710385;19.4488093
 monument;Dom;52.9761;22.845203
@@ -2554,6 +2688,13 @@ monument;Ruiny zamku;50.2995026;19.5981914
 monument;Kaplica ""Na Murowance"" p.w. Matki Boskiej Anielskiej;49.9638271;20.4504893
 monument;Cmentarz żydowski;49.9713385;20.4379015
 monument;Cmentarz komunalny;49.9719268;20.4270913
+monument;Ogrodzenie z kaplicami;49.8211349;20.4892092
+monument;Cmentarz;49.8211349;20.4892092
+monument;Zespół pałacowy;49.957869;20.5984134
+monument;Pałac;49.9645943;20.6031873
+monument;Oranżeria;49.9645943;20.6031873
+monument;Park;49.9645943;20.6031873
+monument;Kordegarda;49.9645943;20.6031873
 monument;Ruiny zamku Tropsztyn;49.7963302;20.6453038
 monument;Zespół klasztorny bernardynów;50.0670293;19.535006
 monument;Bursa seminarium nauczycielskiego;50.0417261;21.9936376
@@ -2571,7 +2712,7 @@ monument;Park;50.0697386;19.5684965
 monument;Kaplica grobowa Loewenfeldów ob. kaplica cmentarna;50.1424661;19.3998423
 monument;Baszta Florkiewiczów;50.1497683;19.4915331
 monument;Dom;50.0986972;19.4675525
-monument;Młyn wodny;50.0827667;19.3528069
+monument;Młyn wodny;50.0818128;19.3661381
 monument;Kaplica (przy drodze pośrodku osiedla);50.1900727;19.4166881
 monument;Dzwonnica;50.6514963;21.2602766
 monument;Kościół par. p.w. św. Wawrzyńca;50.1441846;19.3995292
@@ -2596,6 +2737,10 @@ monument;Bastion Belwederski;50.1497683;19.4915331
 monument;Most;50.1497683;19.4915331
 monument;Ogrodzenie;50.1497683;19.4915331
 monument;Kościół par. p.w. św. Marii Magdaleny;50.3094981;21.074546
+monument;Kościół farny p.w. Bożego Ciała;49.73554;21.26331
+monument;Dzwonnica;49.73554;21.26331
+monument;Kościół p.w. św. Barbary;49.73554;21.26331
+monument;Kościół cmentarny p.w. św. Zofii;49.7089317;20.9442083
 monument;Zespół kościoła par. p.w. św. Stanisława;49.6743858;20.9477743
 monument;Dzwonnica;49.6743858;20.9477743
 monument;Kaplica grobowa rodziny Majchrowiczów;49.6743858;20.9477743
@@ -2604,6 +2749,7 @@ monument;Zespół kościoła par. p.w. św. Jana Chrzciciela;49.6686507;21.22296
 monument;Cmentarz;49.6743858;20.9477743
 monument;Ogrodzenie;49.6743858;20.9477743
 monument;Synagoga, ob. piekarnia;49.6571052;21.1557829
+monument;Cmentarz wojenny nr 123 z I wojny światowej;49.7175235;21.0610764
 monument;Ruiny zamku;50.8041632;20.4793294
 monument;Klasztor, ob. plebania i dom opieki społecznej;52.42732;22.86373
 monument;Cerkiew greko-kat., ob. prawosławna p.w. św. Wasyla Wielkiego;49.4562127;21.313338
@@ -2620,16 +2766,19 @@ monument;Synagoga Ajzyka (Izaaka);50.0515914;19.9463746
 monument;Synagoga Tempel;50.0528457;19.9445309
 monument;Synagoga Wysoka, ob. pracownia konserwatorska;50.0513142;19.9474012
 monument;Willa Heleny Modrzejewskiej;50.0729922;19.9283415
+monument;Kaplica p.w. śś. Małgorzaty i Judyty;50.0862807;20.0072321
 monument;Synagoga Kupa, ob. magazyn;50.0526915;19.9457454
 monument;Synagoga Popera, ob. dom kultury;50.052491;19.9487651
 monument;Synagoga Remuh;50.0526161;19.947944
 monument;Cmentarz, tzw. Stary;50.0526161;19.947944
 monument;Ogrody królewskie;50.0646501;19.9449799
 monument;Kościół klasztorny trynitarzy, ob. bonifratrów p.w. Św. Trójcy;50.0472539;19.9439005
+monument;Kościół klasztorny dominikanów p.w. Św. Trójcy;50.0593215;19.939548
 monument;Kościół klasztorny duchaczek p.w. św. Tomasza;50.0624896;19.9409028
 monument;Zespół klasztorny franciszkanów;50.0646501;19.9449799
 monument;Kościół p.w. św. Franciszka;50.0646501;19.9449799
 monument;Klasztor;50.0646501;19.9449799
+monument;Kopiec Józefa Piłsudskiego (na Sowińcu);50.0600018;19.8471932
 monument;Dom przedpogrzebowy;50.0545043;19.9501464
 monument;Park Jordana;50.060728;19.9143706
 monument;Pozostałości murów obronnych m. Krakowa;50.0646501;19.9449799
@@ -2658,11 +2807,19 @@ monument;Pałac Popielów;50.0638653;19.9388343
 monument;Pałac Erazma Ciołka;50.0563217;19.9373232
 monument;Hotel Europejski;50.0646053;19.9459755
 monument;Hotel Francuski;50.0649884;19.9393196
+monument;Zespół dworski;49.7622595;20.4507301
 monument;Kamienica Hetmańska;50.0606549;19.9372006
+monument;Urząd Celny (d. klasztor bożogrobców);50.0529032;19.9405266
 monument;Pałac Larischa;50.0595302;19.9365163
 monument;Cerkiew gr.-kat. p.w. Przeniesienia Relikwii św. Mikołaja, ob. kościół symultanicz…;49.4717283;21.6018735
 monument;Dwór;50.0996185;19.9470304
 monument;Park;50.0996185;19.9470304
+monument;Zespół dworu biskupiego;50.092567;19.9406853
+monument;Oficyna I;50.0928234;19.9389786
+monument;Wozownia;50.0928234;19.9389786
+monument;Stajnia;50.0928234;19.9389786
+monument;Ogród;50.0928234;19.9389786
+monument;Cmentarz wojenny nr 361 z I wojny światowej;49.8118493;20.2330566
 monument;Dwór;50.0997321;20.1249005
 monument;Park;50.0997321;20.1249005
 monument;Kościół p.w. Wniebowzięcia NMP;49.7827196;20.1892458
@@ -2671,11 +2828,32 @@ monument;Spichrz;49.7827196;20.1892458
 monument;Wozownia;49.7827196;20.1892458
 monument;Odzwiernia;49.7827196;20.1892458
 monument;Ogród;49.7827196;20.1892458
+monument;Park z aleją dojazdową;49.7613385;20.4503151
+monument;Zespół dworski;49.7391785;20.387639
+monument;Zespół cmentarzy wojennych z I i II wojny światowej;49.6889257;20.435914
+monument;Cmentarz wojenny nr 366 z I wojny światowej;49.7089454;20.4186562
+monument;Zespół kościoła par. p.w. św. Antoniego;49.6779204;20.5544002
+monument;Cmentarz wojenny nr 369 z I wojny światowej;49.6762225;20.3981901
+monument;Zespół kościoła par. p.w. św. Andrzeja Apostoła;49.6108537;20.4829087
+monument;Cmentarz wojenny nr 365 z I wojny światowej;49.729486;20.3199762
+monument;Dwór;49.7440794;20.4019079
+monument;Kościół par. p.w. Matki Boskiej Bolesnej;49.7065023;20.4203579
+monument;Cmentarz przykościelny;49.7174051;20.2528423
+monument;Ogrodzenie z bramkami;49.7174051;20.2528423
+monument;Kościół par. p.w. św. Antoniego;49.6780152;20.5546539
+monument;Kaplica p.w. św. Walentego;49.704464;20.419304
+monument;Park, ob. miejski;49.70587;20.42228
+monument;Ogrodzenie z kapliczkami drogi krzyżowej;49.6108537;20.4829087
+monument;Cmentarz ariański;49.6015359;20.5193646
+monument;Cmentarz wojenny nr 368 z I wojny światowej;49.70587;20.42228
+monument;Cmentarz;49.6108537;20.4829087
 monument;Kościół parafialny p.w. św. Barbary;54.0451859;19.2052189
 monument;Ruiny zamku;49.8791478;20.0884085
 monument;Cmentarz grzebalny;54.5455546;18.5504763
 monument;Park;54.6866238;18.4631099
 monument;Szkoła;49.834979;19.936993
+monument;Kościół par. p.w. Wszystkich Świętych;49.8802069;20.0078988
+monument;Cerkiew p.w. św. Dymitra ob. kościół rzym.-kat. par.;49.5628557;20.944711
 monument;Pijalnia wód mineralnych;49.4170598;20.9575909
 monument;Cerkiew par. p.w. śś. Kosmy i Damiana, ob. kościół rzym.-kat. p.w. Matki Boskiej N…;49.503155;20.9711443
 monument;Zespół parku Słotwińskiego;49.0;21.0
@@ -2830,8 +3008,11 @@ monument;Kościół par. p.w. Wniebowzięcia NMP;51.8511063;21.380537
 monument;Zespół kościoła par. p.w. Zwiastowania NMP;51.8105857;21.8949899
 monument;Ratusz z sukiennicami;51.8093534;21.894469
 monument;Cmentarz;51.81054;21.89725
+monument;Kościół par. p.w. św. Wawrzyńca;52.3039872;19.7080477
 monument;Budynek gospodarczy;50.71545;16.583023
+monument;Zespół dworski;52.0754934;20.6233015
 monument;Brama;52.1176453;20.6263223
+monument;Park;52.0754934;20.6233015
 monument;Cmentarz żydowski;52.1176453;20.6263223
 monument;Kościół par. p.w. św. Jadwigi;52.1261739;20.6633703
 monument;Willa ""Sosnowica"";52.1223433;20.6567729
@@ -2839,10 +3020,14 @@ monument;Zespół dworski;52.1184918;20.7265635
 monument;Budynek administracyjny;53.9685537;18.5348088
 monument;Willa I (dec. pawilon);52.1185315;20.6716234
 monument;Ogród;52.1185315;20.6716234
+monument;Zespół kościoła par. p.w. śś. Piotra i Pawła;51.9847044;20.6580851
 monument;Spichlerz;52.1199928;20.7265083
+monument;Dwór;51.9466426;20.6688026
+monument;Dzwonnica;51.9847044;20.6580851
 monument;Zespół pałacowy;51.6175744;20.5766449
 monument;Pałac;51.6175744;20.5766449
 monument;Park;51.6175744;20.5766449
+monument;Ratusz;51.7840019;21.1909879
 monument;Kościół par. p.w. św. Bartłomieja;51.5998835;21.3489373
 monument;Park;51.5735701;21.5890984
 monument;Cmentarz par. rzym.-kat.;51.5860761;21.5369103
@@ -2892,6 +3077,7 @@ monument;Klasztor;53.0857333;21.5729605
 monument;Fortyfikacje ziemne;53.0876544;21.5592554
 monument;Ogród;53.0876544;21.5592554
 monument;Dom;52.6982649;21.8619548
+monument;Dom;52.8015524;21.9019111
 monument;Cmentarz żydowski;52.0836679;21.2721829
 monument;Ruiny zamku biskupów płockich;52.7014185;21.8744857
 monument;Cmentarz żydowski;52.0801857;21.2479496
@@ -2929,7 +3115,10 @@ monument;Rogatka warszawska (wyszogrodzka) II;52.541891;19.697196
 monument;Kaplica grobowa rodziny Marylskich;52.1444839;20.719343
 monument;Ogrodzenie;52.1444839;20.719343
 monument;Pałac;52.1575362;20.8485
+monument;Cmentarz;52.094028;20.8074107
 monument;Park;52.1575362;20.8485
+monument;Kościół par. p.w. św. Klemensa;52.094028;20.8074107
+monument;Dzwonnica;52.094028;20.8074107
 monument;Park;52.1704725;20.8118862
 monument;Dom pogrzebowy;52.1559782;20.810864
 monument;Park;52.3747049;16.3505526
@@ -2960,6 +3149,9 @@ monument;Oficyna I;52.1681103;22.2706016
 monument;Oficyna II;52.1682539;22.2714986
 monument;Oficyna;52.2117033;22.5177976
 monument;Brama;52.2117033;22.5177976
+monument;Zespół dworski;52.1166912;22.3135032
+monument;Oficyna;52.1166912;22.3135032
+monument;Park;52.1166912;22.3135032
 monument;Pałac;52.010891;21.9201519
 monument;Czworak;52.010891;21.9201519
 monument;Zespół pałacowy;52.007498;21.9198848
@@ -2968,6 +3160,7 @@ monument;Walcownia;50.2601475;19.0901603
 monument;Cmentarz;50.9810767;15.7880549
 monument;Wielki piec;51.2433801;20.768658
 monument;Osiedle W.S.M. Żoliborz (zespół architektoniczno-budowlany);52.268783;20.980835
+monument;Kaplica Modlitwa w Ogrójcu (dec. Cnota i i grupy rzeźbiarskie dla zobrazowania Mod…;50.3828765;18.9447265
 monument;Kolonia Dziennikarska (Żoliborz Historyczny Dolny);52.2720512;20.9883208
 monument;Cmentarz żydowski;51.2270056;20.8638408
 monument;Zamek;51.2279908;20.8611466
@@ -2979,6 +3172,7 @@ monument;Kościół par. p.w. św. Andrzeja Boboli;52.2338417;21.0593922
 monument;Plebania;52.1720429;21.0444489
 monument;Wikarówka;52.1720429;21.0444489
 monument;Dzwonnica;52.2471198;21.0527456
+monument;Kaplica różańcowa VII;50.3828765;18.9447265
 monument;Kościół par. p.w. Matki Boskiej Zwycięskiej;52.2471198;21.0527456
 monument;Zespół klasztorny bazylianów;52.2478081;21.0084379
 monument;Kościół par. p.w. św. Jakuba;52.3194318;20.940697
@@ -3064,6 +3258,7 @@ monument;Fort Sokolnickiego;52.2494189;21.0049065
 monument;Fort Legionów;52.2558141;21.0054358
 monument;Fort II Wawrzyszew;52.2736002;20.9093361
 monument;Pałac Brzozowskich;52.23218;21.0172124
+monument;Ogrodzenie;50.3016648;18.9479181
 monument;Obudowa źródła;52.258368;21.0039266
 monument;Park Dreszera;52.229343;21.0126699
 monument;Kamienica;52.2268029;21.0231446
@@ -3140,6 +3335,7 @@ monument;Założenie urbanistyczne;52.2380453;20.978423
 monument;Budynek IV;52.2653735;21.0378253
 monument;Budynek V;52.2653735;21.0378253
 monument;Budynek VI;52.2653735;21.0378253
+monument;Kamienica (w zespole kamienic ""Reduta Wawelska"");52.2169027;20.9861897
 monument;Budynek II;52.2653735;21.0378253
 monument;Budynek fabryczny (garbarnia);52.2489096;21.0525933
 monument;Zespół willi;52.1600809;20.9989528
@@ -3233,9 +3429,19 @@ monument;Dwór (ruiny);49.7789411;18.8311457
 monument;Budynek browaru I;49.7485912;18.6297728
 monument;Ogród;49.5631304;18.9054049
 monument;Budynki zaplecza technicznego na stacji Jędrzejów Osobowa wąskotorowa;50.639337;20.3038771
+monument;Zespół dworski J. Chełmońskiego;52.0408254;20.5996721
+monument;Aleja przez wieś (5 odcinków);52.0036527;20.5573834
 monument;Młyn wodny;52.0025329;20.5553727
+monument;Park;52.0408254;20.5996721
+monument;Zespół cmentarza rzym.-kat.;52.0040814;20.5657411
+monument;Dom;52.0581767;20.4340815
+monument;Dom;52.0583944;20.433815
+monument;Dom;52.0578958;20.4340719
+monument;Dom;52.0568551;20.4352167
+monument;Willa;52.0582068;20.4333886
 monument;Dom;52.0577415;20.4343505
 monument;Plebania;52.0564834;20.440417
+monument;Kościół ewangelicki;52.0558006;20.4294681
 monument;Plebania;52.0629139;20.4306549
 monument;Zespół cmentarza rzym.-kat.;52.0625485;20.449918
 monument;Cmentarz rzym.-kat.;52.0622438;20.4501827
@@ -3248,16 +3454,41 @@ monument;Kaplica grobowa II;52.0622438;20.4501827
 monument;Hala sportowa;52.0548992;20.4334544
 monument;Dom;52.0550697;20.4330626
 monument;Dom;52.0582167;20.4323896
+monument;Dom;52.0572987;20.4281112
 monument;Zespół kościoła baptystów i plebania;52.0628722;20.43091
+monument;Dom;52.0568459;20.443442
+monument;Dom;52.0584367;20.441698
+monument;Dom;52.0598299;20.4474025
+monument;Dom;52.0589375;20.4437391
+monument;Dom;52.0583966;20.4443481
+monument;Dom;52.048652;20.445988
 monument;Dom;52.0604731;20.4446998
+monument;Dom;52.0600429;20.4444974
+monument;Dom;52.0596274;20.4423947
 monument;Szpital;52.0592224;20.4401682
 monument;Resursa;52.0570803;20.4364581
 monument;Dom;52.0588067;20.434533
+monument;Szkoła;52.0567709;20.4390426
+monument;Dom;52.0560268;20.4391657
+monument;Dom;52.0556211;20.4385242
+monument;Dom;52.0624788;20.4308263
+monument;Dom;52.0551548;20.4404194
 monument;Nowa szkoła;52.0573081;20.4387928
 monument;Stara szkoła;52.0584884;20.437731
 monument;Dom;52.0562922;20.4379585
 monument;Dom;52.056625;20.43833
+monument;Dom;52.056353;20.4398331
+monument;Dom;52.048652;20.445988
+monument;Dom;52.048652;20.445988
 monument;Rzeźnia;52.0578271;20.446906
+monument;Dom;52.048652;20.445988
+monument;Dom;52.048652;20.445988
+monument;Dom;52.048652;20.445988
+monument;Dom;52.048652;20.445988
+monument;Dom;52.048652;20.445988
+monument;Dom;52.048652;20.445988
+monument;Dom;52.0556662;20.4323816
+monument;Dom;52.0557016;20.4321864
 monument;Dworek, ob. biblioteka;50.8721022;20.635146
 monument;Kościół fil. p.w. św. Mikołaja;50.4108622;17.3338542
 monument;Planty miejskie;50.4635646;17.0057256
@@ -3280,8 +3511,12 @@ monument;Stare Miasto w granicach średniowiecznego założenia;50.3215013;17.58
 monument;Dom;50.3211962;17.5806326
 monument;Cmentarz;49.2996569;22.6986834
 monument;Dzwonnica;49.2996569;22.6986834
+monument;Zespół cerkwi greko-kat.p.w. Michała Archanioła, ob. kościół par. rzym.-kat. p.w. …;49.4430189;22.6177289
 monument;Zespół cerkwi gr.-kat. p.w. św. Mikołaja, ob. kościół rzym.-kat. p.w. św. Mikołaja;49.4112283;22.6461393
+monument;Zespół cerkwi p.w. św. Paraskewy, ob. kościół rzym.-kat.;49.5062762;22.5490577
 monument;Park;49.8536609;21.4593006
+monument;Dzwonnica;49.4733054;22.6619511
+monument;Cerkiew p.w. św. Paraskewy, ob. kościół rzym.-kat.;49.5062762;22.5490577
 monument;Cerkiew greko-kat. p.w. św. Michała;49.3178058;22.7230926
 monument;Zespół cerkwi greko-kat. p.w. św. Paraskewy;49.2572835;22.517146
 monument;Cerkiew gr.-kat. p.w. NMP, ob. kościół rzym.-kat. p.w. NMP;49.3946568;22.6212334
@@ -3289,14 +3524,19 @@ monument;Zespół cerkwi gr.-kat. p.w. św. Paraskiewy ob. kościół rzym.-kat.
 monument;Cerkiew gr.-kat. ob. św. Mikołaja, ob. kościół rzym.-kat. p.w. bł. Bronisławy;49.3907583;22.6403902
 monument;Cerkiew gr.-kat. p.w. Narodzenia Marii, ob. kościół rzym.-kat. p.w. Narodzenia NMP;49.4920443;22.6461763
 monument;Cerkiew gr.-kat. p.w. św. Mikołaja, ob. kościół rzym.-kat. p.w. Świętej Rodziny;49.3596591;22.6727238
+monument;Dzwonnica;49.5062762;22.5490577
 monument;Zespół cerkwi fil. gr.-kat. p.w. św. Mikołaja Biskupa;49.3861531;22.6777006
 monument;Cerkiew fil. gr.-kat. p.w. św. Mikołaja Biskupa;49.3861531;22.6777006
 monument;Dzwonnica;49.3861531;22.6777006
 monument;Cmentarz;49.2529993;22.5158267
 monument;Cmentarz;49.2243539;22.6952752
+monument;Kościół par. p.w. Matki Boskiej Królowej Polski;49.4303242;22.5942366
 monument;Kościół par. p.w. Przemienienia Pańskiego;49.6957622;22.0209394
 monument;Cmentarz;49.4052397;22.5914841
+monument;Hala fabryczna I;49.427795;22.60503
+monument;Hala fabryczna II;49.427795;22.60503
 monument;Zespół cerkwi p.w. św. Mikołaja;49.6730152;22.2794396
+monument;Budynek mieszkalno-administracyjny;49.427795;22.60503
 monument;Cmentarz;49.5630572;22.5309363
 monument;Kościół par. p.w. Matki Boskiej Częstochowskiej;49.6939669;22.1157513
 monument;Kościół par. p.w. św. Michała Archanioła i św. Anny;49.6852248;22.1726171
@@ -3347,14 +3587,49 @@ monument;Zespół cerkwi greko.-kat. p.w. św. Mikołaja, ob. magazyn (ruina);49
 monument;Spichlerz (dec. budynek gospodarczy);49.6239987;21.9307818
 monument;Cerkiew gr.-kat. p.w. św. Mikołaja, ob. magazyn (ruina);49.57642;21.86815
 monument;Zespół dworski;49.7907114;21.6525933
+monument;Kościół par. p.w. Niepokalanego Poczęcia NMP;49.3305549;22.2854611
+monument;Zespół cerkwi greko-kat. p.w. Zaśnięcia NMP, ob. magazyn;49.3305549;22.2854611
+monument;Cmentarz żydowski;49.3305549;22.2854611
 monument;Relikt dawnej wsi Łopienka;49.2626209;22.368591
 monument;Cerkiew gr.-kat. p.w. Paraskewii;49.2630458;22.3692111
+monument;Zespół kościoła par. p.w. Nawiedzenia NMP;49.471418;22.3288635
+monument;Dzwonnica;49.471418;22.3288635
+monument;Zespół zamku Kmitów;49.474296;22.3249682
+monument;Zamek;49.474296;22.3249682
+monument;Mury obwodowe;49.474296;22.3249682
+monument;Park;49.474296;22.3249682
+monument;Ratusz;49.469427;22.3301803
+monument;Ogrodzenie cmentarza;49.471418;22.3288635
+monument;Zespół cerkwi p.w. św. Paraskewii, ob. kościół rzym.-kat. p.w. Wniebowstąpienia Pa…;49.3271934;22.3791179
+monument;Dzwonnica;49.3271934;22.3791179
+monument;Spichrz;49.4379931;22.4125215
+monument;Dzwonnica cerkiewna (na terenie cmentarza);49.2940331;22.4249707
 monument;Wieża ciśnień;50.2556154;19.0941778
+monument;Zespół klasztorny bernardynów;50.2699174;22.4073707
+monument;Dzwonnica;50.254073;22.424176
+monument;Ogrodzenie;50.254073;22.424176
+monument;Plebania;50.254073;22.424176
+monument;Wikarówka;50.253684;22.424334
+monument;Klasztor;50.2699174;22.4073707
+monument;Folwark;50.2699174;22.4073707
+monument;Zespół pałacowy;50.254775;22.420346
+monument;Pałac, ob. dom zakonny ss służebniczek NMP;50.254775;22.420346
+monument;Ogród;50.254775;22.420346
 monument;Bank Spółdzielczy;50.2581299;22.4211856
+monument;Cmentarz kościelny (dziedziniec odpustowy);50.2699174;22.4073707
 monument;Czworaki;50.44324;22.24879
 monument;Synagoga;50.2486072;23.1244849
 monument;Park;54.0180743;19.8039289
 monument;Park;53.9621012;19.4018582
+monument;Kościół par. p.w. św. Stanisława Biskupa;50.07359;22.24345
+monument;Zamek;50.0681963;22.2318508
+monument;Fortyfikacje;50.0681963;22.2318508
+monument;Ujeżdżalnia, ob. hala sportowa;50.0681963;22.2318508
+monument;Stajnia cugowa;50.06824;22.2298
+monument;Wartownia;50.0681963;22.2318508
+monument;Brama I (pólnocna);50.0681963;22.2318508
+monument;Pawilon ogrodowy Elizin (pawilon chiński);50.0681963;22.2318508
+monument;Budynek mieszkalno-gospodarczy;50.0839872;22.2468339
 monument;Pałac;54.0030215;19.4626943
 monument;Pałac;54.013338;19.5271824
 monument;Cmentarz wojenny z I wojny światowej;50.494578;22.2192535
@@ -3393,6 +3668,7 @@ monument;Willa-pałacyk;49.781056;22.7836923
 monument;Kamienica;49.7852163;22.7659592
 monument;Zespół pałacu biskupiego;49.7813041;22.7676271
 monument;Dom;49.7816882;22.7699144
+monument;Willa;49.7902376;22.7713585
 monument;Budynek Stowarzyszenia Rękodzielników  Gwiazda;49.7817082;22.7809049
 monument;Sąd wojewódzki;49.7813872;22.7801982
 monument;Kamienica;49.7878849;22.7696928
@@ -3421,15 +3697,25 @@ monument;Chałupa;49.2674897;22.1226172
 monument;Spichrz;49.2674897;22.1226172
 monument;Studnia z obudową;49.2674897;22.1226172
 monument;Kościół par. p.w. śś. Piotra i Pawła;53.4096436;19.7544598
+monument;Dom tzw. Zamek Lubomirskich;50.5938688;22.0416865
 monument;Synagoga, ob. nieużytkowana;49.87047;21.79386
+monument;Budynek Rady Powiatowej, ob. Urząd Miejski (dec.gimnazjum);50.5724997;21.6703693
+monument;Dom ""Towarzystwa Kasynowego"";50.5706966;21.6681998
+monument;Kościół par. p.w. św. Marii Magdaleny;50.5729079;21.6790698
+monument;Zespół kościoła par. p.w. św. Gertrudy;50.5729079;21.6790698
 monument;Pałac;50.5729079;21.6790698
 monument;Ogrodzenie parku;50.5729079;21.6790698
 monument;Ujeżdżalnia;50.5729079;21.6790698
+monument;Kościół par. p.w. św. Gertrudy (z kaplicą grobową Tarnowskich);50.5729079;21.6790698
+monument;Zespół klasztorny dominikanek;50.5729079;21.6790698
+monument;Spichrz;50.5729079;21.6790698
 monument;Zespół zamkowy;50.498985;21.5417402
 monument;Elektrownia;50.5729079;21.6790698
 monument;Kościół par. p.w. św. Jana Chrzciciela;50.498985;21.5417402
 monument;Zespół kościoła par. p.w. Wniebowzięcia NMP;50.4673362;21.6391011
 monument;Lodownia;50.5729079;21.6790698
+monument;Ogrodzenie z kaplicami;50.5729079;21.6790698
+monument;Szkoła;50.5729079;21.6790698
 monument;Park;50.498985;21.5417402
 monument;Kościół par. p.w. Wniebowzięcia NMP;50.4673362;21.6391011
 monument;Dzwonnica;50.4673362;21.6391011
@@ -3438,9 +3724,11 @@ monument;Kościół par. p.w. św. Wojciecha;53.00186;22.916829
 monument;Kostnica;53.00186;22.916829
 monument;Ogrodzenie;53.00186;22.916829
 monument;Plebania;53.00186;22.916829
+monument;Kaplica Śmierć Chrystusa;50.3828765;18.9447265
 monument;Cmentarz;53.00186;22.916829
 monument;Śluza;53.9034163;23.2521708
 monument;Brama w murze północno-zachodnim;50.834139;16.3394144
+monument;Kaplica różańcowa III;50.3828765;18.9447265
 monument;Brama II na dziedziniec gospodarczy;50.6054481;20.490425
 monument;Pałac Buchholtza;53.2069918;23.3431975
 monument;Stróżówka;53.2069918;23.3431975
@@ -3468,6 +3756,7 @@ monument;Zespół dworski;53.108587;21.9999047
 monument;Szkoła;53.1359931;22.0435463
 monument;Cmentarz rzym.-kat. ""stary"" (obok kościoła);53.0808854;22.2243253
 monument;Cmentarz żołnierzy niemieckich z I wojny światowej;53.1660071;21.9752985
+monument;Kościół par. p.w. św. Jana Chrzciciela;53.5029582;23.0645718
 monument;Układ przestrzenny miasta;53.4904708;22.7342481
 monument;Zespół cmentarza rzym.-kat. (najstarsza część);53.489755099999996;22.735111
 monument;Lamus;53.3866489;22.9282511
@@ -3517,6 +3806,7 @@ monument;Wieniec działobitni z kamieniczkami;54.3520252;18.6466384
 monument;Fort Carre;54.3520252;18.6466384
 monument;Szaniec wschodni;54.3520252;18.6466384
 monument;Dwór;53.7348227;19.0718674
+monument;Brama wjazdowa;52.4605663;17.7819899
 monument;Park;53.7348227;19.0718674
 monument;Ratusz Głównego Miasta, ob. Muzeum Historyczne;54.3488793;18.6527541
 monument;Spichrz Gdańsk;54.344956;18.6551194
@@ -3537,6 +3827,7 @@ monument;Laboratorium;54.526399;18.5115098
 monument;Hala targowa RYBNA;54.5228974;18.5341373
 monument;Dom Żeglarza Polskiego, ob. Wyższa Szkoła Morska;54.5182094;18.5548351
 monument;Szkoła elementarna, ob. szkoła podstawowa nr 10;54.5378745;18.4752611
+monument;Poczta;54.3323225;18.2012316
 monument;Ratusz;54.122472;17.978696
 monument;Park;54.1271023;18.1172126
 monument;Zamek Kapituły Pomezańskiej, ob. muzeum;53.7263529;18.9323043
@@ -3642,6 +3933,7 @@ monument;Sala gimnastyczna;53.1524398;16.7146191
 monument;Oficyna pałacowa;50.3483816;18.9157175
 monument;Cmentarz żydowski, tzw. Nowy;49.7615633;18.6302869
 monument;Ruiny pałacu;50.3483816;18.9157175
+monument;Zespół rzeźni, ob. zakłady mięsne;50.3012322;18.9479844
 monument;Zespół dworski;49.7816823;18.8279044
 monument;Kościół ewangelicki cmentarny, ob. rzym.-kat. fil. p.w. Świętej Trójcy;49.749794;18.6349778
 monument;Kościół ewangelicki p.w. Łaski Bożej;49.7456597;18.6367298
@@ -3662,6 +3954,9 @@ monument;Kamienica;49.7489594;18.6309959
 monument;Kamienica;49.7492716;18.6304114
 monument;Szkoła ewangelicka, ob. dom mieszkalny;49.7450283;18.6356539
 monument;Park;53.1453611;17.2039553
+monument;Pralnia;50.3016648;18.9479181
+monument;Budynek administracyjny I;50.3016648;18.9479181
+monument;Portiernia;50.3016648;18.9479181
 monument;Park Górka Zamkowa;49.7497638;18.6354709
 monument;Sąd rejonowy;49.7480413;18.6370829
 monument;Więzienie;49.7480413;18.6370829
@@ -3710,6 +4005,7 @@ monument;Cmentarz;50.9320259;19.2748008
 monument;Spichrz;50.9320259;19.2748008
 monument;Kościół par. p.w. św. Wawrzyńca;50.9320259;19.2748008
 monument;Kościół par. p.w. św. Jana Chrzciciela;50.7508964;19.2692166
+monument;Ruiny zamku z basztą;50.7493133;19.2737509
 monument;Kościół ewangelicki, ob. rzym.-kat. p.w. św. Wojciecha;52.2454886;16.1543719
 monument;Klasztor;50.8316382;19.2968386
 monument;Kościół ewangelicki,  ob. rzym.-kat. par. p.w. św. Barbary (garnizonowy);50.2953669;18.6721057
@@ -3718,6 +4014,8 @@ monument;Zespół dworski;50.8751352;19.3859428
 monument;Zespół pałacowy;50.7138646;19.4386644
 monument;Kościół farny p.w. św. Mikołaja;53.4930907;18.7484892
 monument;Kolegium jezuickie, ob. UM;53.4934016;18.7486427
+monument;Ogrodzenie i brama parku;50.3845561;18.4782977
+monument;Stajnia (oficyna wschodnia);50.7126955;23.2665062
 monument;Dworek Zygmunta Krasińskiego, ob. muzeum;50.706377;19.4302735
 monument;Park;50.706377;19.4302735
 monument;Budynek produkcyjny (2 hale);52.2640119;21.0430287
@@ -3728,6 +4026,7 @@ monument;Cmentarz;52.1877478;20.6494539
 monument;Kaplica pałacowa - mauzoleum rodziny Raczyńskich, ob. kościół par. p.w. św. Marcel…;52.2353923;16.9325932
 monument;Browar;52.0471121;21.2465832
 monument;Uzdrowisko Abrama Gurewicza;52.1024243;21.2711069
+monument;Kościół farny p.w. św. Jana Chrzciciela (z kaplicą Kochanowskich);51.402305;21.1445635
 monument;Kościół par. p.w. św. Teresy;51.3888903;21.1286376
 monument;Zespół kościoła par. p.w. św. Jakuba;52.3193711;20.9407621
 monument;Kościół p.w. św. Stanisława (św. Wojciecha);52.232938;20.9611261
@@ -3812,6 +4111,10 @@ monument;Kościół par. p.w. Św. Trójcy;52.1985472;20.6169567
 monument;Dzwonnica;52.1985472;20.6169567
 monument;Park dworski;52.1997452;20.5600792
 monument;Rogatka grochowska I;52.2471618;21.0515506
+monument;Zespół kościoła par. p.w. św. Kazimierza;52.0040049;20.5603957
+monument;Kościół par. p.w. św. Kazimierza;52.0040049;20.5603957
+monument;Dzwonnica;52.0040049;20.5603957
+monument;Cmentarz rzym.-kat.;52.0042409;20.5559904
 monument;Pałac;52.0033245;20.5502389
 monument;Dwór;52.0033245;20.5502389
 monument;Stajnia;52.0033245;20.5502389
@@ -3869,6 +4172,7 @@ monument;Kościół par. p.w. św. Jakuba Apostoła;50.4386212;19.0333818
 monument;Ogrodzenie;53.1320675;23.1723164
 monument;Ruina pałacu;53.9777293;22.8013421
 monument;Willa Caro, ob. muzeum;50.2954522;18.6673397
+monument;Zespół pałacowy;50.3843693;18.4788933
 monument;Dom murowany;53.842385;22.978138
 monument;Pałac;50.918754;19.3081848
 monument;Przedszkole;50.2485347;19.0074006
@@ -3885,6 +4189,9 @@ monument;Pałac;52.3655274;16.2438341
 monument;Kaplica,  ob. kościół fil.;52.3655274;16.2438341
 monument;Park;52.3655274;16.2438341
 monument;Kamienica;52.2096748;18.2541236
+monument;Dwór;52.0609831;17.3235303
+monument;Park;52.0609831;17.3235303
+monument;Brama wjazdowa;52.0609831;17.3235303
 monument;Park;52.3190323;17.3639066
 monument;Kościół par. p.w. św. Jana Chrzciciela;52.3194706;17.3638579
 monument;Kościół par. p.w. św. Jana Chrzciciela;52.2480314;17.4527028
@@ -3902,6 +4209,14 @@ monument;Kino Stolica, ob. Iluzjon;52.205593;21.010834
 monument;Dom;53.1250947;23.1868996
 monument;Budynek administracyjno-mieszkalny;52.2563771;21.053266
 monument;Hala warsztatowa z kuźnią;50.3194156;18.7939329
+monument;Kaplica Jezus Obarczony Krzyżem;50.3828765;18.9447265
+monument;Kaplica Pierwszy Upadek Jezusa;50.3828765;18.9447265
+monument;Kaplica Trzeci Upadek Chrystusa;50.3828765;18.9447265
+monument;Kaplica św. Szczepana;50.3828765;18.9447265
+monument;Kaplica różańcowa II;50.3828765;18.9447265
+monument;Kaplica różańcowa IV;50.3828765;18.9447265
+monument;Kaplica różańcowa X;50.3828765;18.9447265
+monument;Kaplica różańcowa XV;50.3828765;18.9447265
 monument;Kamienica;53.1324108;23.171559
 monument;Zespół willi;52.1464683;20.7238999
 monument;Kościół par. p.w. św. Katarzyny;51.855965;19.403504
@@ -3920,14 +4235,18 @@ monument;Cmentarz przykościelny;51.4319283;17.0719665
 monument;Pałac;50.9766251;16.6979119
 monument;Budynek administracyjny;52.2572215;21.0616602
 monument;Cmentarz;50.3610555;22.7406397
+monument;Zespół kościelny;52.1987529;19.8051491
 monument;Kamienica;51.7700451;19.4519954
 monument;Mykwa;50.717892;23.2552961
 monument;Zespół gwoździarni;51.4074942;21.160373
 monument;Cmentarz par. (najstarsza część);52.4194603;21.0314526
 monument;Zespół zamkowy;51.449333;20.4781399
+monument;Zespół pałacyku;51.4004934;21.1559398
 monument;Kapliczka przy cmentarzu;52.1933837;20.9040333
 monument;Wodotrysk;52.2433567;21.002312
 monument;Zespół Twierdzy Brzeskiej;52.0694308;23.6127713
+monument;Kaplica grobowa Krasińskich;52.0042409;20.5559904
+monument;Park;50.06824;22.2298
 monument;Zespół kościoła ewang.-augsb., ob. rzym.-kat. par. p.w. św. Wojciecha;53.1302542;23.1738724
 monument;Dom;53.9666461;18.52035
 monument;Mury obronne;50.8316382;19.2968386
@@ -3935,6 +4254,7 @@ monument;Zespół zamkowy;50.4542102;18.522454
 monument;Zespół starego cmentarza;50.2395865;19.1386689
 monument;Oficyna;50.467465;19.6573856
 monument;Dzwonnica;50.5000766;20.8389647
+monument;Park;50.2387924;20.598352
 monument;Zespół starego dworca kolejowego;50.2572182;19.022897
 monument;Hala dworcowa;50.2648919;19.0237815
 monument;Budynek biurowy;50.2648919;19.0237815
@@ -3971,14 +4291,22 @@ monument;Ogród szkolny;50.2080466;19.1660513
 monument;Zespół szkoły sportowej;50.2507172;19.1336438
 monument;Ogród;50.2386091;19.1431326
 monument;Kościół par. p.w. św. Jana Chrzciciela;50.6814603;19.2601234
+monument;Zespół zabudowań kalwarii piekarskiej;50.3821301;18.9467308
+monument;Zespół domu;50.4107937;18.9405026
 monument;Kaplica grobowa rodziny Klaussów;50.2335449;19.1196953
 monument;Kaplica grobowa księdza Markiefki;50.2335449;19.1196953
+monument;Kościół par. p.w. Imienia NMP i św. Bartłomieja;50.3838524;18.9452326
+monument;Dom;50.4107937;18.9405026
+monument;Stodoła;50.4107937;18.9405026
+monument;Zespół Szpitala Spółki Brackiej, ob. Woj. Szpital Chirurgii Urazowej;50.3722278;18.9444681
 monument;Ogrodzenie;50.242492;19.1377374
+monument;Park (teren Kalwarii);50.3828765;18.9447265
 monument;Ruiny kościoła p.w. św. Stanisława;50.6150695;19.381637
 monument;Cmentarz katolicki;50.6247661;19.3725536
 monument;Kościół szpitalny p.w. św. Barbary;50.6259775;19.361804
 monument;Ruiny zamku;50.6143696;19.4750484
 monument;Szpital powiatowy, ob. Dom Opieki Społecznej;53.9112795;15.1917813
+monument;Portiernia;50.3724506;18.9443759
 monument;Park;50.0597481;18.935063800000002
 monument;Mury obronne;50.0890514;18.2219338
 monument;Baszta;50.0891979;18.2205388
@@ -4162,6 +4490,10 @@ monument;Kościół par. p.w. Wszystkich Świętych;50.7612778;20.25218
 monument;Stajnia;52.0623667;16.4370643
 monument;Plebania;50.8121157;20.2650979
 monument;Zespół kościoła par. p.w. św. Jakuba;50.7882903;20.2668687
+monument;Zespół pałacowy;50.2412163;20.5986722
+monument;Pałac;50.2387924;20.598352
+monument;Dzwonnica;50.2387924;20.598352
+monument;Cmentarz;50.2387924;20.598352
 monument;Zespół parku miejskiego;50.8660773;20.6285677
 monument;Cmentarz żydowski;50.8660773;20.6285677
 monument;Zespół katedralny;50.8688924;20.6290627
@@ -4267,6 +4599,7 @@ monument;Wiatrak holender;50.8945171;21.293318
 monument;Zespół kościoł par. p.w. Wniebowzięcia NMP;50.8914345;21.5052636
 monument;Zespół zamkowy;50.8890756;21.5175703
 monument;Cmentarz par.;50.8912589;21.5061642
+monument;Cmentarz żydowski;50.9423554;21.3849438
 monument;Wikarówka I;50.9170061;21.3654192
 monument;Wikarówka II;50.9170061;21.3654192
 monument;Schody;50.9170061;21.3654192
@@ -4643,11 +4976,41 @@ monument;Brama I;52.4340592;17.4891594
 monument;Brama II;52.4340592;17.4891594
 monument;Park;52.4340592;17.4891594
 monument;Bażantarnia;52.4340592;17.4891594
+monument;Zajazd, ob. dom nr 43;52.5507876;17.6938512
+monument;Wiatrak holeder;52.5518102;17.6929033
+monument;Zespół dworski;52.5826656;17.5630573
+monument;Dwór;52.5826656;17.5630573
+monument;Park;52.5826656;17.5630573
+monument;Kościół par. p.w. Św. Trójcy;52.5348004;17.5949805
 monument;Zespół cmentarza p.w. Św. Trójcy;52.5180361;17.5998228
+monument;Budynek straży pożarnej;52.5313798;17.6064721
+monument;Zespół poczty;52.5342994;17.6003079
 monument;Dom grabarza;52.5183117;17.5994698
 monument;Ogrodzenie z bramą;52.5183117;17.5994698
+monument;Katakumby;52.5349253;17.5826575
+monument;Brama;52.5349253;17.5826575
+monument;Poczta;52.5342069;17.6003575
+monument;Budynek gospodarczy;52.5342069;17.6003575
+monument;Ogrodzenie z bramą;52.5342069;17.6003575
+monument;Ogrodzenie;52.5315038;17.6061286
 monument;Zespół cukrowni Gniezno;52.5216389;17.5964649
+monument;Zespół Królewskiego Gimnazjum Gnieźnieńskiego, ob. Medyczne Studium Zawodowe;52.5331036;17.5986692
+monument;Budynek szkolny;52.5328884;17.5985869
+monument;Sala gimnastyczna;52.5328884;17.5985869
+monument;Ogrodzenie;52.5328884;17.5985869
+monument;Wieża ciśnień;52.5416529;17.6044068
+monument;Zespół szpitala psychiatrycznego;52.5340545;17.5776013
 monument;Willa właściciela;52.5217487;17.5965311
+monument;Szkoła ludowa św. Michała, ob. szkoła nr 6;52.5407991;17.6055374
+monument;Izba przyjęć (portiernia);52.5340545;17.5776013
+monument;Pawilon szpitalny (oddział nr 5);52.5340545;17.5776013
+monument;Pawilon szpitalny (oddział nr 10);52.5340545;17.5776013
+monument;Pawilon szpitalny (oddział nr 15);52.5340545;17.5776013
+monument;Pawilon szpitalny (oddział nr 16);52.5340545;17.5776013
+monument;Pawilon szpitalny (oddział nr 19);52.5340545;17.5776013
+monument;Willa dyrektora;52.5340545;17.5776013
+monument;Willa lekarzy;52.5340545;17.5776013
+monument;Prosektorium;52.5340545;17.5776013
 monument;Kościół par. p.w. św. Stanisława;52.6333491;17.5142285
 monument;Zespół Ostrówa Lednickiego;52.5255915;17.3784007
 monument;Park;52.5111146;17.3807103
@@ -4671,10 +5034,13 @@ monument;Park;52.5634;17.820921
 monument;Kuźnia;52.6057016;17.8557036
 monument;Cmentarz;52.6195028;17.8611958
 monument;Park;52.6073742;17.8097938
+monument;Zespół dworski;52.4605663;17.7819899
 monument;Dwór ze skrzydłem, tzw. Bramą Łasińską;53.5188863;18.9473205
 monument;Zespół pałacowo-folwarczny;52.061112;16.428703
 monument;Obora;52.0623667;16.4370643
 monument;Kuźnia;52.0623667;16.4370643
+monument;Zespół dworski;52.0807146;17.6146457
+monument;Park;52.0814257;17.6022259
 monument;Dwór;51.6886339;18.3310648
 monument;Czworak;52.2771004;18.9913453
 monument;Gorzelnia;52.2771004;18.9913453
@@ -4694,7 +5060,7 @@ monument;Dom;52.3707125;18.1770819
 monument;Dom;52.3711587;18.1720343
 monument;Dom;52.36954;18.175701
 monument;Zespół dworski;52.3865072;18.1984413
-monument;Dwór;52.4461848;18.0923755
+monument;Dwór;52.4468851;18.0966332
 monument;Park;52.4461848;18.0923755
 monument;Park;52.37048;18.17716
 monument;Dworek;52.4151828;18.1038901
@@ -4752,6 +5118,7 @@ monument;Dwór;52.5786892;16.0067446
 monument;Park;52.5786892;16.0067446
 monument;Zespół pałacowy;52.5552651;16.0666916
 monument;Kaplica grobowa;52.558551;16.0638415
+monument;Park;52.65088;16.07973
 monument;Park;52.558551;16.0638415
 monument;Kościół par. p.w. św. Jana Chrzciciela;52.6054187;15.8944099
 monument;Zespół kościoła ewangelickiego, ob. rzym.-kat. par. p.w. Niepokalanego Serca Maryi;52.6004091;15.891253
@@ -4772,16 +5139,23 @@ monument;Park;52.5997808;16.0389085
 monument;Stodoła, ob. owczarnia;52.5997808;16.0389085
 monument;Pozostałości zamku Opalińskich;52.6516077;16.0844914
 monument;Plebania (pozostałości klasztoru);52.65088;16.07973
+monument;Ujeżdżalnia;52.65088;16.07973
 monument;Pałac;52.4021034;16.2849172
 monument;Stajnia-wozownia;52.4021034;16.2849172
 monument;Park;52.4021034;16.2849172
 monument;Pałac;52.3747049;16.3505526
+monument;Stajnia (z wozownią i szorownią);52.65088;16.07973
+monument;Pawilon mieszkalny I (narożny);52.65088;16.07973
+monument;Pawilon mieszkalny II (narożny);52.65088;16.07973
+monument;Dom, tzw. Biały Domek;52.65088;16.07973
 monument;Rządcówka;52.4021034;16.2849172
 monument;Budynek inwentarski;52.4021034;16.2849172
 monument;Stodoła I;52.4021034;16.2849172
 monument;Stodoła II;52.4021034;16.2849172
 monument;Dom odźwiernego;52.3655274;16.2438341
 monument;Sąd, ob. rejonowy;52.8464228;17.7241609
+monument;Zespół dworski;52.3534406;16.382195
+monument;Dwór;52.3534406;16.382195
 monument;Park;52.5795129;16.706428
 monument;Kościół cmentarny, ob. par. p.w. św. Barbary;51.5698445;17.6859389
 monument;Kościół ewangelicki;51.5740002;17.6711919
@@ -4905,6 +5279,8 @@ monument;Zespół zamkowy;52.6147852;16.5771236
 monument;Dom;52.612686;16.5781647
 monument;Dom;52.6111165;16.5781938
 monument;Dom;52.6110644;16.5783117
+monument;Park;52.5796137;16.3452478
+monument;Zespół dworski;52.0609831;17.3235303
 monument;Stajnia;52.5862193;16.6316742
 monument;Spichlerz;52.5862193;16.6316742
 monument;Szklarnia;52.5862193;16.6316742
@@ -4939,6 +5315,9 @@ monument;Dom;52.227898;16.068344
 monument;Wiatrak koźlak;52.0549923;16.1054376
 monument;Skansen budownictwa ludowego;52.1150435;16.1169851
 monument;Kościół, ob. p.w. Ścięcia Głowy św. Jana;52.1668631;17.6891856
+monument;Zespół dworski;52.3852253;17.6473099
+monument;Park;52.3852253;17.6473099
+monument;Grobowiec Cegielskich;52.3852253;17.6473099
 monument;Mury miejskie;53.16928;15.41971
 monument;Szpital;53.165655;15.412497
 monument;Przychodnia;53.1648842;15.4142976
@@ -4953,6 +5332,7 @@ monument;Park pałacowy z aleją dojazdową;53.5248658;16.0684072
 monument;Brama Kamienna;53.918409;15.200248
 monument;Kuchnia, ob. dom mieszkalny;50.5332417;23.7255557
 monument;Park;53.9112795;15.1917813
+monument;Kapliczka;51.4812314;23.2908323
 monument;Park z aleją kasztanowcową;53.040236;14.6235529
 monument;Pozostałości murów obronnych;53.2525475;14.4888725
 monument;Dom opata, ob. biblioteka;53.3014661;14.8147435
@@ -4994,6 +5374,8 @@ monument;Ogród;52.1885239;21.0685975
 monument;Dwór;52.1865931;21.0202063
 monument;Pałac Edwarda Kerna;51.7571685;19.4586951
 monument;Komora wodna;52.2487734;21.0278193
+monument;Zajazd;52.094028;20.8074107
+monument;Zespół poczty;50.7085009;23.2795464
 monument;Park;51.7486119;19.4529742
 monument;Hangar lotniczy;50.0804172;19.9990682
 monument;Pałac;52.4887571;21.064295
@@ -5026,12 +5408,15 @@ monument;Dom nr 73;50.7116152;16.5820423
 monument;Cmentarz żydowski tzw. Stary;49.7615633;18.6302869
 monument;Willa;54.119585;16.688898
 monument;Teren Starego Miasta;53.5863737;15.3097689
+monument;Zespół młyna Papiernia;53.0144616;15.2227091
+monument;Młynarzówka służbówka;52.99444;15.21918
 monument;Pozostałości murów obronnych;52.9268179;14.8653768
 monument;Klasztor, ob. biblioteka;52.92258;14.868693
 monument;Kaplica p.w. św. Ducha, ob. muzeum;52.922903;14.864625
 monument;Kaplica szpitalna p.w. św. Gertrudy, ob. pracownia plastyczna;52.9251637;14.8731718
 monument;Mury obronne z basztami;52.9237186;14.86785
 monument;Brama Nowogrodzka, ob. PTTK;52.9237186;14.86785
+monument;Kuźnia folwarczna;54.4611029;16.7845259
 monument;Kościół ewangelicki, ob. rzym.-kat. fil. p.w. Michała Archanioła;54.4355274;16.7388233
 monument;Stodoła z bramą;54.4596803;16.736469
 monument;Kościół par. p.w. Matki Boskiej Częstochowskiej;54.4386149;16.6165773
@@ -5041,6 +5426,7 @@ monument;Pałac;53.4260824;14.554405
 monument;Plac-zieleniec Jasne Błonia;53.439311;14.5410501
 monument;Kino Kosmos;53.427044;14.544917
 monument;Pałac;53.4266143;14.5545532
+monument;Park pałacowy;53.6723405;16.4917115
 monument;Bożnica, ob. kościół prawosławny;53.71119;16.69118
 monument;Wieża kościoła p.w. św. Mikołaja, ob. Muzeum Regionalne;53.7100713;16.6993602
 monument;Zespół kościoła par. p.w. Matki Boskiej Nieustającej Pomocy;53.773445;15.7720764
@@ -5081,7 +5467,9 @@ monument;Chlewnia II;53.3251021;20.490679
 monument;Stajnia;53.3251021;20.490679
 monument;Dom karbowego;53.3251021;20.490679
 monument;Zespół murów obronnych;54.3566344;19.6839288
+monument;Zespół willi Orkanówka;49.6074833;20.0614939
 monument;Elewacje frontowe warszatatów fabryki braci Łopieńskich;52.224993;21.0088225
+monument;Budynek gospodarczy;49.6074833;20.0614939
 monument;Budynek główny;52.2467902;21.0707746
 monument;Plebania;53.2394333;20.1869678
 monument;Zespół kościoła par. p.w. św. Katarzyny;52.1781253;16.7101112
@@ -5121,15 +5509,43 @@ monument;Kaplica Niewiasty Płaczące;52.80141;18.08517
 monument;Kaplica Obnażenie;52.80141;18.08517
 monument;Kaplica Opłakiwanie;52.80141;18.08517
 monument;Kaplica Grób Zbawiciela;52.80141;18.08517
+monument;Kaplica Spotkanie Jezusa z Marią;50.3828765;18.9447265
+monument;Kaplica Szymon pomaga Chrystusowi nieść Krzyż;50.3828765;18.9447265
+monument;Kaplica Spotkanie Chrystusa z Weroniką;50.3828765;18.9447265
+monument;Kaplica Drugi Upadek Chrystusa;50.3828765;18.9447265
+monument;Kaplica Chrystus Pouczający Niewiasty;50.3828765;18.9447265
+monument;Kaplica Obdarcie z Szat;50.3828765;18.9447265
+monument;Kaplica Przybicie do Krzyża;50.3828765;18.9447265
+monument;Kaplica Wieczernik;50.3828765;18.9447265
+monument;Kaplica Pałac Annasza;50.3828765;18.9447265
+monument;Kaplica Pałac Kajfasza;50.3828765;18.9447265
+monument;Kaplica Pałac Heroda;50.3828765;18.9447265
+monument;Kaplica św. Heleny;50.3828765;18.9447265
+monument;Kaplica Brama Wschodnia do Jerozolimy;50.3828765;18.9447265
+monument;Kaplica Most na rzece Cedron;50.3828765;18.9447265
+monument;Zespół kaplic różańcowych;50.3828765;18.9447265
+monument;Kaplica różańcowa I;50.3828765;18.9447265
+monument;Kaplica różańcowa V;50.3828765;18.9447265
 monument;Kościół par. p.w. św. Jakuba Starszego;50.4741228;17.3356101
+monument;Kaplica różańcowa IX;50.3828765;18.9447265
+monument;Kaplica różańcowa XI;50.3828765;18.9447265
+monument;Kaplica różańcowa XII;50.3828765;18.9447265
+monument;Kaplica różańcowa XIII;50.3828765;18.9447265
+monument;Kaplica różańcowa XIV;50.3828765;18.9447265
 monument;Kościół;52.05959;19.19969
 monument;Śluza;53.9138614;23.27463
 monument;Śluza;53.2823584;20.9753491
 monument;Kolegium Carolinum, ob. LO  im. Jana III Sobieskiego;50.4809563;17.335461
 monument;Śluza;53.8699356;23.0962739
 monument;Brama  filarowa (wschodnia);50.834139;16.3394144
+monument;Domy;51.11327;18.21114
+monument;Ratusz;51.114081;18.213287
+monument;Brama III;50.06824;22.2298
+monument;Kaplica Grób Matki Boskiej;50.3828765;18.9447265
 monument;Kościół ewangelicki, ob. rzym.-kat. fil. p.w. Chrystusa Króla;51.4781167;17.2364519
+monument;Młyn elektryczny;50.0858433;22.2455663
 monument;Klasztor nazaretanek;49.3489712;22.0755277
+monument;Kaplica Złożenie do Grobu;50.3828765;18.9447265
 monument;Dwór;52.5301105;15.9854776
 monument;Willa;52.5301105;15.9854776
 monument;Park;52.5301105;15.9854776
@@ -5153,6 +5569,7 @@ monument;Dom Karola Mintera;52.2491144;21.0308181
 monument;Szkoła;49.7813889;22.7809823
 monument;Kościół;52.2105574;21.0468884
 monument;Dom dziecka Nasz Dom;52.2795588;20.9500311
+monument;Brama główna;50.0681963;22.2318508
 monument;Ogród;52.001257;21.959584
 monument;Aleja dojazdowa;52.001257;21.959584
 monument;Cmentarz;53.15302;17.26802
@@ -5162,6 +5579,7 @@ monument;Ogród plebański;53.15302;17.26802
 monument;Budynek łącznikowy I;51.3986909;17.4793551
 monument;Budynek łącznikowy II;51.3986909;17.4793551
 monument;Budynek mykwy;49.9690997;20.6073706
+monument;Kościół par. p.w. św. Jana Ewangelisty;49.6926049;20.4932038
 monument;Zespół kościoła par. p.w. Przemienienia Pańskiego;52.7812684;20.6981882
 monument;Cmentarz;52.7812276;20.6989603
 monument;Ogrodzenie;52.7812276;20.6989603
@@ -5184,6 +5602,7 @@ monument;Kościół ewang. , ob. rzym.-kat. par. p.w. św. Antoniego Padewskiego
 monument;Cmentarz;50.9409245;20.9571249
 monument;Brama;51.2984539;16.8381303
 monument;Zespół kościoła ewang., ob. rzym.-kat. par. p.w. Podwyższenia Krzyża Świetego;51.3005342;16.8308703
+monument;Cmentarz wojenny nr 362 z I wojny światowej;49.7827196;20.1892458
 monument;Kamienica;52.220125;21.0173718
 monument;Ogrodzenie;50.0516916;19.9484374
 monument;Kościół par. p.w. św. Zofii;49.7866725;22.2974834
@@ -5288,6 +5707,9 @@ monument;Pałac (dec. zamek);50.8718688;15.8212813
 monument;Park (w granicach ogrodzenia);50.8718688;15.8212813
 monument;Park;50.8334798;15.5289679
 monument;Kościół par. p.w. Najświętszego Serca Pana Jezusa;50.242492;19.1377374
+monument;Krużganki pielgrzymkowe (z kaplicami);50.3789108;18.9270475
+monument;Ogrodzenie;50.3789108;18.9270475
+monument;Kaplica Jezus Skazany na Śmierć;50.3828765;18.9447265
 monument;Budynki folwarczne;51.6277861;15.8820833
 monument;Dom szwajcarski I;50.8514049;16.3172955
 monument;Park;51.3387314;16.8204846
@@ -5348,6 +5770,7 @@ monument;Osiedle robotnicze Modrzejówka;50.0739979;19.9245616
 monument;Stajnia z oborą, ob. magazyn zbożowy;53.2976786;18.5390769
 monument;Zamek wysoki (dec. ruiny zamku krzyżackiego);53.0098423;18.6106683
 monument;Folwark;50.648057;17.4560854
+monument;Zespół cmentarza przykośvcielnego;52.1979783;19.8117525
 monument;Stajnie i wozownie;52.2296756;21.0122287
 monument;Pałac Schöna, ob. sąd rejonowy;50.273044;19.1388792
 monument;Budynki klasztorne pijarów, ob. biura, mieszkania;52.2296756;21.0122287
@@ -5377,6 +5800,7 @@ monument;Dom rządcy;51.2816188;22.5963466
 monument;Dwór;51.3133341;21.991383
 monument;Mury oporowe i rampa dziedzińca;51.7832025;22.6218532
 monument;Dwór;50.5395694;23.7113569
+monument;Cmentarz;51.4812314;23.2908323
 monument;Kościół, ob. par. p.w. św. Ludwika;51.545386;23.557738
 monument;Kościół p.w. św. Jana Nepomucena, tzw. Na Wyspie;50.61404;22.97512
 monument;Dom mieszkalny (pałac Plenipotenta);50.6060064;22.9673955
@@ -5387,7 +5811,14 @@ monument;Kamienica;50.7169478;23.2517348
 monument;Dom tylny;50.7170519;23.2514198
 monument;Dom tylny;50.7169402;23.2538222
 monument;Kamienica;50.7171956;23.2534504
+monument;Poczta;50.7126955;23.2665062
 monument;Dom;50.717067;23.2538667
+monument;Budynek główny;50.715133;23.2279485
+monument;Budynek gospodarczy z ujeżdżalnią;50.715133;23.2279485
+monument;Dom;50.715133;23.2279485
+monument;Spichrz;50.715133;23.2279485
+monument;Stodoła;50.715133;23.2279485
+monument;Suszarnia;50.715133;23.2279485
 monument;Kamienica;50.7164918;23.2527752
 monument;Dom tylny;50.7163188;23.2524444
 monument;Kamienica;50.7165083;23.2526497
@@ -5412,6 +5843,7 @@ monument;Kościół, ob. szkoła;52.1079095;19.9376969
 monument;Stacja (poczthalteria);52.1072369;19.9510821
 monument;Dom księży emerytów (budynek I), ob. szpital;52.1077919;19.929815
 monument;Brama cyrku;52.0768702;20.0079475
+monument;Cmentarz przykościelny;52.1979783;19.8117525
 monument;Gmach Niemieckiego Stow. Gimnazjalnego (gimnazjum);51.7624552;19.4545907
 monument;Park;51.7564455;19.4628105
 monument;Ogrodzenie;51.7564455;19.4628105
@@ -5437,8 +5869,12 @@ monument;Cmentarz żydowski;50.0545043;19.9501464
 monument;Fort nr 51 Rajsko;49.9897208;19.967298
 monument;Brama forteczna (3a);50.0561202;19.8963915
 monument;Kamienica;50.0646501;19.9449799
+monument;Dwór biskupi;50.0928234;19.9389786
+monument;Kościół par. p.w. śś. Szymona i Judy;49.7174051;20.2528423
 monument;Szałas mieszkalny (bacówka);49.574472;20.3446477
 monument;Szałas gospodarczy;49.574472;20.3446477
+monument;Park;49.7440794;20.4019079
+monument;Dwór;49.6015359;20.5193646
 monument;Klasztor II, ob. Sąd Rejonowy i Prokuratura Rejonowa;50.3568703;20.0274126
 monument;Dom generałów zakonu, ob. plebania;50.3568703;20.0274126
 monument;Fragmenty ogrodzenia z basztą;50.3568703;20.0274126
@@ -5451,6 +5887,7 @@ monument;Ogrodzenie z bramą;50.0383577;19.2364392
 monument;Zamek;49.746188;19.601814
 monument;Pomnik żołnierzy 12 PP;49.8827856;19.4939579
 monument;Ogrodzenie z kaplicami drogi krzyżowej (14 kaplic);49.8631089;19.3920615
+monument;Park;51.9466426;20.6688026
 monument;Park;51.5874791;21.5537329
 monument;Budynek biurowo-sztabowy (nr 21);52.4044483;20.9499697
 monument;Kościół par. p.w. Narodzenia NMP;52.1803404;21.5726048
@@ -5516,9 +5953,13 @@ monument;Cmentarz rodowy von Blonkensee von Schlenburg;52.8943926;16.1713009
 monument;Oficyna I;52.4340592;17.4891594
 monument;Oficyna II;52.4340592;17.4891594
 monument;Cmentarz p.w. Św. Trójcy;52.5183117;17.5994698
+monument;Cmentarz p.w. Św. Krzyża;52.5349253;17.5826575
+monument;Dom ogrodnika;52.5340545;17.5776013
 monument;Ruiny palatium i kaplicy;52.5077751;17.3659742
 monument;Lodownia ziemna;52.5634;17.820921
+monument;Park;52.4605663;17.7819899
 monument;Pałac;52.5477907;16.7537876
+monument;Dwór (dec. pałac);52.0814257;17.6022259
 monument;Kościół par. p.w. św. Michała;52.0549379;18.0137863
 monument;Dwór;52.37048;18.17716
 monument;Park;52.3865778;18.1033407
@@ -5527,6 +5968,8 @@ monument;Pałac;52.1779582;16.7103572
 monument;Pałac;52.1596965;16.6915388
 monument;Stodoła I (d. owczarnia);52.1397412;16.7303495
 monument;Pawilon II;51.7057372;17.166822
+monument;Ambulatorium;52.6507183;16.0884578
+monument;Pawilon mieszkalny IV (narożny);52.65088;16.07973
 monument;Ogrodzenie z bramami;52.4021034;16.2849172
 monument;Kościół, ob. par. p.w. Matki Boskiej Różańcowej;53.180879;17.0835566
 monument;Zamek Przemysława;52.4091863;16.9310954
@@ -5539,6 +5982,7 @@ monument;Budynek główny (sanatorium);53.6133202;20.3188138
 monument;Budynek gospodarczy (obora, stajnia, wozownia);52.227898;16.068344
 monument;Brama Wysoka;53.91152;15.19706
 monument;Mury obronne;53.25238;14.48823
+monument;Młyn Papiernia;52.99444;15.21918
 monument;Zamek (pałac);50.711706;16.57918
 monument;Dwór, ob. dom;50.715007;16.583335
 monument;Dzwonnica;51.6635852;16.0846672
@@ -5552,6 +5996,8 @@ monument;Kościół fil. p.w. św. Antoniego;51.1620763;16.2174025
 monument;Cmentarz;51.1620763;16.2174025
 monument;Ogród;52.1199928;20.7265083
 monument;Zespół pałacowy Nowy Dwór;50.8034714;15.8342674
+monument;Kościół ewangelicki, ob. rzym.-kat. fil. p.w. św. Katarzyny;51.1231558;17.5436456
+monument;Kościół cmentarny p.w. Św. Trójcy;51.1241346;17.5377553
 monument;Pałac;51.3986909;17.4793551
 monument;Oficyna mieszkalna;51.3986909;17.4793551
 monument;Dom służby pałacowej II;51.3986909;17.4793551
@@ -5599,6 +6045,8 @@ monument;Zbór ewangelicki, ob. kościół rzym.-kat. p.w. Matki Boskiej Szkaple
 monument;Zespół parku miejskiego, tzw. Młodzieżowego;50.8406712;16.475696
 monument;Cmentarz żydowski;52.0647443;21.0108721
 monument;Dom szwajcarski II;50.8511101;16.318085
+monument;Pałac;52.8765762;18.6934503
+monument;Park;52.8765762;18.6934503
 monument;Wieża ciśnień;52.8725982;18.7025754
 monument;Ruiny zamku;52.8572491;18.8200758
 monument;Pałac, ob. dom pomocy społecznej;50.8569212;16.3233825
@@ -5610,6 +6058,7 @@ monument;Kaplica grobowa rodz. Ossowskich;53.2598756;19.3863793
 monument;Kościół par. p.w. śś. Marcina i Mikołaja;53.1229034;17.9989819
 monument;Ogród;53.1298754;18.0084256
 monument;Lodownia, ob. magazyn środków chemicznych;53.2976786;18.5390769
+monument;Kościół par. p.w. św. Bartłomieja;53.2119947;18.3869066
 monument;Kościół par. p.w. św. Katarzyny;53.2898752;18.5054786
 monument;Pałac;50.9789074;16.7500684
 monument;Kostnica;53.34842;18.42499
@@ -5621,6 +6070,7 @@ monument;Kościół par. p.w. św. Małgorzaty;52.7927415;18.1587138
 monument;Ratusz;52.807331;18.091074
 monument;Park;52.8340887;18.1069274
 monument;Tzw. klasztorek (plebania);52.812861;18.071575
+monument;Kościół par. p.w. śś. Piotra i Pawła;52.610088;17.942761
 monument;Kaplica Ogród Getsemański;52.80141;18.08517
 monument;Kaplica Judasz;52.80141;18.08517
 monument;Kaplica Dworzec Heroda;52.80141;18.08517
@@ -5658,10 +6108,13 @@ monument;Kościół fil. p.w. św. Rocha;50.3610555;22.7406397
 monument;Cerkiew grecko-katolicka p.w. św. Mikołaja;51.1331531;23.4759901
 monument;Ogrodzenie;50.804955;23.890487
 monument;Lamus;50.75068;22.228736
+monument;Kościół par. p.w.śś. Stanisława Biskupa i Marii Magdaleny;50.9666667;22.0833333
 monument;Park;51.6375339;22.445495
+monument;Cmentarz;50.9666667;22.0833333
 monument;Kościół par. p.w. Marii Magdaleny;51.4371245;22.6584572
 monument;Szpital św. Łazarza;51.2464536;22.5684463
 monument;Stary ratusz, tzw. Trybunał;51.2478433;22.567936
+monument;Pawilon II (kuchnia);51.2739202;22.6305347
 monument;Pałac Radziwiłłowski (z oficyną skarbową);51.2490733;22.5604424
 monument;Teren obozu na Majdanku, ob. muzeum;51.2253494;22.6029692
 monument;Park;51.2328531;22.4889065
@@ -5669,6 +6122,7 @@ monument;Spichrz;51.2328531;22.4889065
 monument;Cerkiew greko-kat. p.w. Narodzenia NMP, ob. kościół rzym.-kat. fil. p.w. św. Jozef…;51.2482526;22.5637003
 monument;Zespół cerkwi par. p.w. Przemienienia Pańskiego;51.2522518;22.5738339
 monument;Willa;51.2497756;22.5551543
+monument;Kościół p.w. św. Kazimierza, ob. magazyn browaru;51.2440324;22.5672258
 monument;Ogrodzenie;51.2463512;22.5544651
 monument;Resursa Kupiecka (pałac Morskich);51.2475429;22.5563181
 monument;Spichrz;51.3133341;21.991383
@@ -5679,6 +6133,7 @@ monument;Wielka Oficyna (Szkoła Podchorążych);52.2172182;21.0366334
 monument;X pawilon;52.2296756;21.0122287
 monument;Cmentarz Wolski;52.2266903;20.94455
 monument;Kościół par. p.w. Św. Trójcy;51.7832025;22.6218532
+monument;Zespół cerkwi greko-kat., ob. kościół rzym.-kat. par. p.w. Matki Boskiej Częstocho…;51.4836056;23.2839634
 monument;Budynek I;52.2106787;21.0230977
 monument;Klasztor, ob. biura;51.545386;23.557738
 monument;Dom popauliński;51.5465472;23.5597452
@@ -5686,6 +6141,7 @@ monument;Budynek gospodarczy z bramą;50.6549148;23.3665045
 monument;Stodoła;50.5839813;23.0745208
 monument;Kapliczka przydrożna;50.5839813;23.0745208
 monument;Dom;50.717617;23.2521346
+monument;Hotel ""Victoria"", ob. ""Zamojski"";50.7179735;23.251822
 monument;Zespół pałacowy;51.2059039;22.7884104
 monument;Oficyna boczna północna;50.607939;22.968666
 monument;Łuszczarnia nasion;50.6122;22.97045
@@ -5711,6 +6167,7 @@ monument;Dom oficerski funduszu kwaterunku wojskowego (dec. budynek nr 28);52.25
 monument;Park;52.1589582;21.0018991
 monument;Kościół ewangelicki, ob. rzym.-kat. par. p.w. Matki Łaski Bożej;52.494449;14.6549938
 monument;Dzwonnica;52.3728116;15.061101
+monument;Cmentarz;51.9847044;20.6580851
 monument;Kościół ewangelicki, ob. rzym.-kat. fil. p.w. św. Antoniego Padewskiego;52.3728116;15.061101
 monument;Ogród;52.1357906;21.014149
 monument;Zespół kościelny par. p.w. Narodzenia NMP;52.1393133;15.7661333
@@ -5731,10 +6188,13 @@ monument;Budynek gospodarczy;51.4997538;15.1936978
 monument;Młyn wodny;51.4987145;15.1969056
 monument;Budynek odlewni;52.2321411;20.9921753
 monument;Kościół par. p.w. Zwiastowania NMP;51.81054;21.89725
+monument;Kościół par. p.w. św. Stanisława Bpa;52.2708936;19.7636072
 monument;Willa II (dec. pawilon);52.1185315;20.6716234
+monument;Zespół dworski;51.9471835;20.6669009
 monument;Pozostałości założenia willowego Turczynek;52.1268351;20.6996686
 monument;Zespół cmentarza rzym.-kat.;52.0828012;20.5424637
 monument;Dwór;52.1199928;20.7265083
+monument;Kościół par. p.w. śś. Piotra i Pawła;51.9847044;20.6580851
 monument;Ogrodzenie z bramą;52.0812026;20.5368442
 monument;Wartownia (nr 10);52.4044483;20.9499697
 monument;Kościół par. p.w. Św. Trójcy;52.3397647;21.1957597
@@ -5760,6 +6220,7 @@ monument;Kościół par. p.w. św. Stanisława Biskupa;52.470264;19.7505999
 monument;Zespół rogatek warszawskich (wyszogrodzkich);52.539686;19.703575
 monument;Kościół par. p.w. Matki Boskiej Częstochowskiej;52.3458749;21.2528666
 monument;Miejska Szkoła Rzemiosł, ob. dom mieszkalny;51.4019897;21.1640443
+monument;Oficyna II;51.4003513;21.1561804
 monument;Park;52.2117033;22.5177976
 monument;Dwór;52.010891;21.9201519
 monument;Park dworski;52.040325;21.955361
@@ -5769,6 +6230,7 @@ monument;Dwór;52.001257;21.959584
 monument;Kościół par. p.w. św. Zygmunta;51.2279908;20.8611466
 monument;Oficyna kuchenna;52.2296756;21.0122287
 monument;Park;52.2296756;21.0122287
+monument;Dom;52.0581705;20.439352
 monument;Palmiarnia;52.2296756;21.0122287
 monument;Stajnia pałacowa z wiatą;52.2296756;21.0122287
 monument;Studnia na dziedzińcu;52.2296756;21.0122287
@@ -5798,6 +6260,7 @@ monument;Zespół domu (segment);52.2644663;20.9818441
 monument;Pawilon II;52.2007806;21.0411602
 monument;Poterna (tunel) w Cytadeli;52.2633901;20.9874404
 monument;Kuchnia;52.2515485;21.0291058
+monument;Zespół kościoła par. p.w. św. Klemensa;52.0937719;20.8084034
 monument;Nowa Kordegarda;52.2172182;21.0366334
 monument;Dom ogrodnika;52.1683341;21.0891568
 monument;Żółta Karczma w Służewie;52.1774098;21.0340709
@@ -5859,6 +6322,7 @@ monument;Kościół par. p.w. NMP;52.2507245;20.8430993
 monument;Zespół fabryki oczyszczalni spirytusu Rektyfikacja Warszawska;52.2547417;21.044801
 monument;Zespół Fabryki Lamp i Fabryki Chemicznej Praga;52.2638451;21.0433817
 monument;Mur ceglany z bramą;52.2350024;20.9924433
+monument;Budynek zarządu elektrowni Powiśle, ob. STOEN;52.2406379;21.0280165
 monument;Willa Laurentium;52.3373695;21.224493
 monument;Kamienica;52.2368674;20.9891969
 monument;Cmentarz przykościelny i grzebalny (stary nieczynny);52.2690001;21.9100671
@@ -5866,23 +6330,38 @@ monument;Dwór;52.5359016;21.7775336
 monument;Kuchnia;52.5307;21.68182
 monument;Kościół par. p.w. św. Anny;52.7696844;21.4191944
 monument;Wozownia;52.5307;21.68182
+monument;Dom;52.0568813;20.4352175
 monument;Dom ludowy, ob. dom mieszk.;52.0567474;20.4387493
 monument;Zespół kościoła par. p.w. św. Mikołaja;49.9692768;20.4284548
+monument;Dworek J. Chełmońskiego;52.0408254;20.5996721
+monument;Kaplica grobowa Rogowskich;52.0042409;20.5559904
 monument;Dzwonnica;52.0622438;20.4501827
 monument;Cmentarz żydowski;52.0609589;20.45535
+monument;Dom;52.0585913;20.4428898
+monument;Dom;52.0592495;20.4424363
+monument;Dom;52.0589642;20.4417597
 monument;Dom (kantor);52.0563796;20.4349428
+monument;Dom;52.048652;20.445988
+monument;Dom;52.048652;20.445988
 monument;Kościół par. p.w. św. Mikołaja;49.9684577;20.4303285
 monument;Dzwonnica;49.9684577;20.4303285
 monument;Kościół cmentarny p.w. św. Leonarda;49.8604524;20.5305313
+monument;Zespół kościoła par. p.w. Narodzenia NMP;49.8211349;20.4892092
 monument;Kościół par. p.w. Św. Trójcy;49.9896859;20.514011
 monument;Kościół p.w. Stygmatów św. Franciszka;50.0598063;19.5394784
+monument;Dzwonnica;49.8211349;20.4892092
+monument;Brama wjazdowa;49.9645943;20.6031873
+monument;Zespół kościoła farnego p.w. Bożego Ciała;49.7303297;21.2470844
 monument;Klasztor;50.0598063;19.5394784
 monument;Ogród;50.0598063;19.5394784
 monument;Ogrodzenie;50.0598063;19.5394784
 monument;Arsenał;50.1497683;19.4915331
 monument;Spichlerz (dec. dom), ob. Muzeum Ziemi Chrzanowskiej;50.1436318;19.4014991
 monument;Park;50.1497683;19.4915331
+monument;Brama;49.73554;21.26331
 monument;Kościół par. p.w. Opieki Matki Bożej;50.0109585;19.5856475
+monument;Kościół par. p.w. św. Bartłomieja;50.2112719;19.746019
+monument;Kaplica p.w. św. Jana Chrzciciela;50.2166165;19.7593797
 monument;Cerkiew gr.-kat. p.w. św. Paraskiewy, ob. kościół rzym.-kat.;49.2996569;22.6986834
 monument;Cmentarz wojenny nr 48 z I wojny światowej;49.4505542;21.2243534
 monument;Kamienica;52.2449355;21.0136029
@@ -5913,6 +6392,7 @@ monument;Kamienica Feniks;50.0623847;19.9383539
 monument;Fort nr 44 Tonie;50.0646501;19.9449799
 monument;Kościół p.w. Wniebowzięcia NMP;49.6610414;21.8968824
 monument;Collegium Maius UJ;50.0614089;19.9340205
+monument;Oficyna II;50.0928234;19.9389786
 monument;Hotel Pod Różą;50.0629519;19.9398674
 monument;Fort nr 48a Mistrzejowice;50.0999244;20.0182649
 monument; fort 49 1/4 Grębałtów;50.0966206;20.0694794
@@ -5920,14 +6400,22 @@ monument; fort nr 49 1/2 Mogiła;50.0738302;20.1289216
 monument;Fort nr 52a Łapianka;49.9991824;19.9175077
 monument;Hangar samolotowy;50.0707249;19.9825821
 monument;Zespół Komunalnej Kasy Oszczędności, ob. bank;50.0627515;19.9413526
+monument;Dwór, tzw. Rydlówka;50.0876818;19.8780423
 monument;Schron amunicyjny (grupa fortowa Tonie);50.1010117;19.9149947
 monument;Czerwony most;50.11513;19.9081827
 monument;Barak warsztatowy;50.0804172;19.9990682
 monument;Hotel Grand;50.0635784;19.9375814
 monument;D. areszt;52.0605692;20.4445251
 monument;Tereny zieleni komponowanej z d. ogrodem lotników i alrją główną;50.0646501;19.9449799
+monument;Cmentarz wojenny nr 358 z I wojny światowej;49.7613385;20.4503151
 monument;Kamienica;50.0634291;19.9387324
+monument;Zespół kościoła par. p.w. śś. Szymona i Judy;49.714426;20.2443741
 monument;Bramka (na dziedzińcu przed klasztorem);49.7827196;20.1892458
+monument;Kościół par. p.w. Wszystkich Świętych;49.7390929;20.3892936
+monument;Cmentarz przykościelny;49.6780152;20.5546539
+monument;Park dworski z aleją dojazdową;49.7032076;20.4369691
+monument;Dwór;49.70587;20.42228
+monument;Park;49.6015359;20.5193646
 monument;Zespół klasztorny bożogrobców;50.3568703;20.0274126
 monument;Bateria B-3 (grupa fortowa Tonie);50.0974035;19.9129042
 monument;Kościół par. p.w. św. Katarzyny Aleksandryjskiej;49.4404823;21.8017055
@@ -5937,6 +6425,7 @@ monument;Willa ""Józefa"";49.4232701;20.9596699
 monument;Willa ""Kościuszko"";49.4161122;20.9544263
 monument;Pawilon parkowy;49.4215158;20.9594208
 monument;Cerkiew greko-kat., ob. kościół rzym.-kat. par. p.w. św. Jakuba Młodszego;49.371085;20.9481827
+monument;Ruiny zamku;49.4888775;20.6864289
 monument;Zespół cerkwi gr.-kat. p.w. św. Jana Chryzostoma, ob. kościół rzym.-kat. fil. p.w.…;49.4230451;20.4829528
 monument;Ogrodzenie z bramkami;49.433597;20.1616272
 monument;Cerkiew gr.-kat. p.w. św. Jana Chryzostoma, ob. kościół rzym.-kat. fil. p.w. św. J…;49.4230451;20.4829528
@@ -5991,10 +6480,13 @@ monument;Kościół, ob. fil. p.w. Wniebowzięcia NMP;50.4727101;17.3366611
 monument;Zespół architektoniczny Rynku;50.6685861;17.9226343
 monument;Jaz stały i śluza mała na kanale Młynówka;50.6683478;17.9198134
 monument;Budynek główny z przejściem podziemnym;50.6656897;17.9246521
+monument;Dom;50.6675781;17.9103125
 monument;Kaplica poległych w I wojnie światowej;50.8736684;17.9753953
 monument;Cerkiew gr.-kat. p.w. św. Mikołaja, ob. kościół rzym.-kat. p.w. św. Mikołaja;49.4112283;22.6461393
+monument;Zespół cerkwi greko-kat. p.w. Narodzenia Marii, ob. kościół rzym.-kat. p.w. Narodz…;49.4733054;22.6619511
 monument;Zespół cerkwi gr.-kat. p.w. Opieki Marii, ob. kościół rzym.-kat. p.w. Narodzenia N…;49.4052397;22.5914841
 monument;Cerkiew gr.-kat. p.w. Opieki Marii, ob. kościół rzym.-kat. p.w. Narodzenia NMP;49.4052397;22.5914841
+monument;Hala fabryczna III;49.427795;22.60503
 monument;Kościół par. p.w. św. Józefa;49.8132138;22.0412715
 monument;Cmentarz;49.2220532;22.6036126
 monument;Dzwonnica;49.5630572;22.5309363
@@ -6007,7 +6499,13 @@ monument;Kościół par. p.w. św. Bartłomieja;50.3793804;21.7460977
 monument;Cerkiew gr.-kat. p.w. Opieki Marii, ob. kościół rzym.-kat.;49.5226973;21.6151932
 monument;Oficyna I;49.5555137;21.6832308
 monument;Park;49.7904735;21.6478581
+monument;Cerkiew greko-kat. p.w. Zaśnięcia NMP, ob. magazyn;49.3305549;22.2854611
+monument;Dzwonnica;49.3305549;22.2854611
 monument;Synagoga, ob. sala wystawowa;49.4702064;22.3312106
+monument;Zespół cerkwi gr.-kat. p.w. Mikołaja Cudotwórcy, ob. kościół rzym.-kat. p.w. Narod…;49.3493053;22.3603879
+monument;Kościół par. p.w. Św. Trójcy;50.254073;22.424176
+monument;Fortyfikacje (mury obronne z basztami i bramami);50.2699174;22.4073707
+monument;Cmentarz;49.3493053;22.3603879
 monument;Cmentarz wojenny z I wojny światowej;50.4388915;22.2580994
 monument;Dom gminny;50.5267626;17.2658858
 monument;D. nadleśnictwo;50.4184086;22.2300413
@@ -6032,12 +6530,42 @@ monument;Pałac, ob. szpital;50.0474685;22.0043474
 monument;Stajnia z ujeżdżalnią, ob. hala sportowa;50.5729079;21.6790698
 monument;Wozownia, ob. hala sportowa;50.5729079;21.6790698
 monument;Dozorcówka;50.5729079;21.6790698
+monument;Plebania;50.5729079;21.6790698
+monument;Dom sióstr (w zespole klasztornym);50.5729079;21.6790698
 monument;Stara plebania (Na Pączku);50.6794237;21.8279942
 monument;Synagoga, ob. muzeum;50.067579;22.2317745
+monument;Cmentarz parafialny;50.06824;22.2298
+monument;Zameczek romantyczny;50.06824;22.2298
+monument;Zespół bażantarni;50.06824;22.2298
 monument;Kościół par. p.w. Najśw. Serca Jezusa i św. Bartłomieja;53.8428109;22.9814312
+monument;Zespół klasztorny dominikanów;50.06824;22.2298
+monument;Dom dyrekcji ogrodów;50.06824;22.2298
+monument;Powozownia;50.06596;22.23873
+monument;Wozownia;50.06596;22.23873
+monument;Portiernia;50.06824;22.2298
+monument;Most I;50.06824;22.2298
+monument;Szklarnia (storczykarnia);50.06824;22.2298
+monument;Spichlerz;50.06596;22.23873
+monument;Aleja;50.06824;22.2298
+monument;Bażantarnia;50.06824;22.2298
+monument;Sąd rejonowy;50.070598;22.231557
+monument;Zespół willi Trześnik;50.0786935;22.2337617
+monument;Zespół dworku (w zespole folwarcznym Na Dolnym);50.0796004;22.2327797
 monument;Dom;53.8437565;22.9799984
+monument;Most II;50.06824;22.2298
+monument;Kancelaria i mieszkanie administratora;50.0731761;22.2427239
+monument;Spichlerz;50.0731761;22.2427239
+monument;Budynek, ob. internat;50.0731761;22.2427239
+monument;Budynek administracyjno-mieszkalny;50.0731761;22.2427239
+monument;Zespół koszar 10 Pułku Strzelców Konnych;50.064426;22.221723
+monument;Willa Trześnik;50.0786935;22.2337617
+monument;Ogród;50.0786935;22.2337617
+monument;Dworek;50.0796004;22.2327797
+monument;Łaźnia;50.068924;22.231068
 monument;Dom murowany;53.8431504;22.9776876
 monument;Zespół poczty;53.8397947;22.992336
+monument;Budynek główny koszarowy;50.064426;22.221723
+monument;Budynek administracyjny;50.064426;22.221723
 monument;Kanał Augustowski (od śluzy w Dębowie do granic Państwa);53.8434431;22.9796023
 monument;Kościół par. p.w. Matki Boskiej Szkaplerznej (dec. p.w. św. Tekli), drewniany;53.8574885;23.077915
 monument;Zespół kościoła par. p.w. św. Wojciecha;53.0015309;22.9123722
@@ -6062,6 +6590,7 @@ monument;Kościół klasztorny brygidek, ob. par. p.w. św. Brygidy;54.3520252;1
 monument;Ogrodzenie z bramą;54.3520252;18.6466384
 monument;Zespół młyna Emaus;54.3475064;18.6037609
 monument;Młyn, ob. magazyn;54.3476193;18.6039672
+monument;Willa ""Zacisze"";50.069716;22.231268
 monument;Zespół pałacowy;50.9295085;17.2116421
 monument;Hala targowa;53.1337552;23.1734267
 monument;Hala targowa GŁÓWNA;54.5228974;18.5341373
@@ -6073,6 +6602,7 @@ monument;Zespół dworu Józefa Wybickiego, ob. Muzeum Hymnu Narodowego;54.12704
 monument;Dworzec PKP;53.7313236;18.9331721
 monument;Lazaret, ob. magazyn;53.7273502;18.9282403
 monument;Wiatrak koźlak nr 116;54.2888108;18.9527461
+monument;Ratusz;54.5430281;17.7476129
 monument;Zespół kościoła p.w. św. Katarzyny;54.1391926;18.8494695
 monument;Komora celna, tzw. Domek Napoleona;53.1412161;23.1020725
 monument;Kościół fil. p.w. św. Jerzego;54.208472;18.9858025
@@ -6175,10 +6705,17 @@ monument;Park;52.88815;16.168174
 monument;Pałac;52.8943926;16.1713009
 monument;Pałac;52.4340592;17.4891594
 monument;Stajnia;52.4340592;17.4891594
+monument;Kościół ewangelicki, ob. rzym.-kat. garnizonowy p.w. Matki Boskiej Królowej Polski;52.5346483;17.6004578
 monument;Kościół par. p.w. św. Jana Chrzciciela;53.0414373;16.460685
 monument;Kościół ewangelicki, ob. rzym.-kat. fil. p.w. Św. Rodziny;53.113359;16.5400121
+monument;Zespół Miejskiej Szkoły Przemysłowo-Handlowej, ob. Zespół Szkół Ekonomiczno-Odzież…;52.5315038;17.6061286
+monument;Sąd ziemski i okręgowy;52.5369631;17.5951198
 monument;Park przy willi właściciela;52.5217487;17.5965311
+monument;Budynek administracyjny;52.5340545;17.5776013
+monument;Pawilon szpitalny (oddział nr 4);52.5340545;17.5776013
+monument;Budynek gospodarczy;52.5340545;17.5776013
 monument;Cmentarz;53.113359;16.5400121
+monument;Budynek gminy żydowskiej, ob. zespół szkół muzycznych;52.5342085;17.5986259
 monument;Zespół kościoła par. p.w. św. Doroty;52.6195028;17.8611958
 monument;Kościół par. p.w. Imienia Jezus, NMP i św. Józefa;52.5584572;17.941011
 monument;Pałac, ob. szkoła podstawowa;52.0623667;16.4370643
@@ -6214,11 +6751,14 @@ monument;Dom mieszkalny I (przy dworcu);52.59855;15.89254
 monument;Parowozownia;52.59855;15.89254
 monument;Budynek Miejskiej Kasy Oszczędności, ob. Muzeum Regionalne;52.606155;15.900179
 monument;Stodoła;52.5997808;16.0389085
+monument;Pawilon mieszkalny III (narożny);52.65088;16.07973
 monument;Zespół klasztorny bernardynów;52.6494786;16.0823498
+monument;Dom kierownika, tzw. pałac;52.65088;16.07973
 monument;Zespół pałacowy;52.4006315;16.2823982
 monument;Domek ogrodnika;52.4021034;16.2849172
 monument;Pałac, tzw. zamek;52.3655274;16.2438341
 monument;Nowa pastorówka, ob. plebania;51.8407789;16.5723804
+monument;Park;52.3534406;16.382195
 monument;Budynek mieszkalno-gospodarczy ""ogrodówka"";51.5153301;17.8610244
 monument;Zespół dworski;51.4167181;18.0760992
 monument;Zespół kościoła par. p.w. św. Marcina Biskupa;53.1527107;17.2682124
@@ -6310,6 +6850,7 @@ monument;Pałac gen. Klickiego;52.1025823;19.9501227
 monument;Dom księży emerytów (budynek II), ob. szpital;52.1076082;19.9304909
 monument;Kuria wikariuszów;52.1075966;19.94342
 monument;Ogród z dziedzińcem;52.1067916;19.9453744
+monument;Kościół par. p.w. Wszystkich Świętych;52.1979783;19.8117525
 monument;Ogrodzenie;51.7624552;19.4545907
 monument;Pałac miejski;51.7705413;19.456688
 monument;Oficyna;51.7492454;19.4612825
@@ -6341,6 +6882,7 @@ monument;Ogrodzenie z 3 bramami;49.6089129;18.9190652
 monument;Cmentarz rzymsko-katolicki;50.8256074;19.1322979
 monument;Kościół par. p.w. Św. Trójcy;50.9216894;19.3567265
 monument;Kościół, ob. par. p.w. Wniebowzięcia NMP;50.8316382;19.2968386
+monument;Pałac (z kaplicą);50.3845561;18.4782977
 monument;Budynek pogrzebowy;50.2560974;19.0083736
 monument;Poczekalnia;50.2648919;19.0237815
 monument;Gmach Sejmu Śląskiego, ob. urząd wojewódzki;50.2536352;19.0250953
@@ -6352,6 +6894,7 @@ monument;Rozdzielnia elektryczna;50.2548327;19.0111792
 monument;Willa;50.2386091;19.1431326
 monument;Ruiny zamku;50.6132744;19.4929678
 monument;Kościół par. p.w. św. Stanisława;49.8245527;19.015205
+monument;Kaplica Gradusy - schody symbolizujące schody w pretorium Piłata;50.3828765;18.9447265
 monument;Kaplica Grobu Chrystusa;50.2793404;19.1288788
 monument;Kościół klasztorny franciszkanów, ob. par. p.w. św. Wojciecha;50.345176;18.924438
 monument;Zamek, ob. sąd rejonowy;50.0929467;18.5401498
@@ -6383,12 +6926,14 @@ monument;Kościół fil. p.w. św. Stanisława;50.8121157;20.2650979
 monument;Kaplica pw. św. Anny, ob. kościół fil.;50.470362;20.7191757
 monument;Spichrz;50.8312827;20.2510622
 monument;Stodoła;50.8312827;20.2510622
+monument;Zespół kościoła par. p.w. św. Mikołaja;50.2407089;20.6008732
 monument;Dzwonnica;50.7882903;20.2668687
 monument;Zespół kościoła par. p.w. św. Bartłomieja;50.3796927;20.7080575
 monument;Cerkiew prawosławna, ob. kościół rzym.-kat. garnizonowy p.w. Matki Boskiej Królowe…;50.8660773;20.6285677
 monument;Park;50.7899809;20.172339
 monument;Ogrodzenie;50.470362;20.7191757
 monument;Kościół par. p.w. św. Jakuba;50.7882903;20.2668687
+monument;Kościół par. p.w. św. Mikołaja (z kaplicą Firlejów);50.2387924;20.598352
 monument;Zespół kościoła par. p.w. Narodzenia NMP;50.8085515;20.3476113
 monument;Kościół ewangelicki, ob. polsko-katolicki p.w. śś Piotra i Pawła;50.8713281;20.6272852
 monument;Pałac biskupi (ze skrzydłami);50.8691028;20.6274147
@@ -6464,6 +7009,7 @@ monument;Zespół klasztorny benedyktynek;53.4910752;18.7473553
 monument;Dom nr 146;49.5624208;18.9090592
 monument;Zespół pałacowy Sielce;52.2021275;21.0428224
 monument;Zespół poczty głównej;53.0105871;18.6033586
+monument;Ratusz wraz z otaczającymi domami;51.113999;18.2140583
 monument;Zespół klasztorny dominikanów;50.4789869;17.3210266
 monument;Zespół kościoła św. Wojciecha;51.2495267;22.5703371
 monument;Zespół kalwarii;52.8018504;18.0846471
@@ -6491,6 +7037,7 @@ monument;Zespół d. gimnazjum katolickiego;49.7487881;18.6350619
 monument;Zespół domu, ob. Muzeum Piśmiennictwa i Muzyki;54.60251;18.2328354
 monument;Zespół kościoła par. p.w. św. Wojciecha;50.8699738;20.6327826
 monument;Zespół domu zajezdnego Pod Srebrną Górą;50.7998478;20.4617813
+monument;Zespół kościoła par. p.w. Imienia NMP i św. Bartłomieja;50.3838189;18.94441
 monument;Zespół klasztorny benedyktynek, ob. seminarium duchowne;50.6857658;21.7453593
 monument;Zespół klasztorny reformatów;50.6825183;21.747541
 monument;Zespół szpitala Św. Ducha, ob. biblioteka;54.1574636;19.3945398
@@ -6520,7 +7067,9 @@ monument;Rzeźnia;50.2198216;19.3352302
 monument;Zespół rogatek grochowskich;52.2473595;21.0516446
 monument;Zespół klasztorny benedyktynek, ob. jezuitów;51.4031326;21.1472722
 monument;Zespół pałacowy;49.9959438;19.4380639
+monument;Zespół kościoła par. p.w. Św. Trójcy;50.2539952;22.4242076
 monument;Zespół zamkowy;49.7412362;19.5918244
+monument;Zespół zamkowy, ob. muzeum;50.0686299;22.2342378
 monument;Zespół murów obronnych;53.9670667;18.5249842
 monument;Zespół klasztorny paulinów;51.5464114;23.5584854
 monument;Budynki d. Zakładów Mechanicznych Lilpop - Rau - Loewenstein;52.2246622;20.958826
@@ -6567,13 +7116,16 @@ monument;Układ urbanistyczno-przestrzenny osiedla robotniczego Nikiszowiec;50.2
 monument;Plebania, ob. klub technika;53.0129304;18.6133594
 monument;Młyn;53.0099322;18.6110138
 monument;Brama Mostowa;53.0088714;18.6096779
+monument;Park;53.1081715;18.7287508
 monument;Seminarium duchowne;51.1331531;23.4759901
 monument;Kościół ewangelicko-augsburski p.w. Św. Trójcy;51.2477179;22.5543939
 monument;Ogrodzenie z bramkami;51.2525275;22.5742803
+monument;Kościół p.w. św. Stanisława;51.247884;22.5699235
 monument;Oficyna;51.2465564;22.5515656
 monument;Oficyna I, ob. muzeum H. Sienkiewicza;51.7494805;22.1336434
 monument;Ogrodzenie;51.100715;21.800577
 monument;Pałac z pawilonem;51.2250373;22.7850797
+monument;Cerkiew greko-kat., ob. kościół rzym.-kat. par. p.w. Matki Boskiej Częstochowskiej;51.4812314;23.2908323
 monument;Gmach główny;50.607939;22.968666
 monument;Dziekania Infułatka;50.7230879;23.2519686
 monument;Kościół par. p.w. św. Józefa;50.6714397;18.7497629
@@ -6581,6 +7133,7 @@ monument;Kościół ewangelicki, ob. rzym.-kat. par. p.w. Matki Boskiej Różań
 monument;Zamek książęcy;52.047252;15.100727
 monument;Przyziemie spichlerza;52.047252;15.100727
 monument;Kaplica grobowa Schaffgotschów;50.648057;17.4560854
+monument;Park;51.1654097;18.1475717
 monument;Pałac;50.4362523;17.7726715
 monument;Kościół, ob. par. p.w. św. Jana Ewangelisty;50.4349645;17.3055185
 monument;Kościół par. p.w. św. Jana Chrzciciela;50.4556474;17.3499382
@@ -6588,7 +7141,9 @@ monument;Kościół p.w. NMP;51.616245;15.3189338
 monument;Budynek mieszkalno-gospodarczy, ob. hotel PTTK;51.616245;15.3189338
 monument;Cmentarz;51.8291576;14.9784343
 monument;Kościół kolegiacki, ob. katedralny p.w. Wniebowzięcia NMP;52.1067916;19.9453744
+monument;Odział zakaźny, ob. pawilon dziecięcy;50.3724506;18.9443759
 monument;Klasztor, ob. liceum pedagogiczne;52.1018649;19.9326045
+monument;Plebania;52.1979783;19.8117525
 monument;Ogrodzenie z bramą;51.7710385;19.4488093
 monument;Pałac Karola W. Scheiblera;51.7492454;19.4612825
 monument;Park;51.7133089;19.290099
@@ -6606,6 +7161,8 @@ monument;Fort nr 12 Luneta Warszawska;50.077767;19.9467633
 monument;Szaniec ogniowy FS-29 (na skałkach Twardowskiego);50.0342869;19.8782482
 monument;Teatr Miejski im. Słowackiego;50.0639313;19.9428604
 monument;Ogród;50.0627226;19.9413636
+monument;Dwór;49.7613385;20.4503151
+monument;Kościół par. p.w. św. Andrzeja Apostoła;49.6108537;20.4829087
 monument;Kościół, ob. par. p.w. Grobu Pańskiego;50.3568703;20.0274126
 monument;Pijalnia Jan Józef;49.4215158;20.9594208
 monument;Kościół, ob. kościół ewangelicki;49.6264914;20.6888658
@@ -6659,11 +7216,17 @@ monument;Kościół par. p.w. Najświętszego Serca Pana Jezusa, tzw. kolejowy;5
 monument;Cerkiew gr.-kat. p.w. św. Dymitra, ob. kościół rzym.-kat.;49.522957;21.4728861
 monument;Ogrodzenie i bramka;49.522957;21.4728861
 monument;Kaplica;49.5555137;21.6832308
+monument;Cerkiew p.w. św. Paraskewii, ob. kościół rzym.-kat. p.w. Wniebowstąpienia Pańskiego;49.3271934;22.3791179
+monument;Kościół, ob. hotel;50.06824;22.2298
+monument;Oranżeria;50.06596;22.23873
+monument;Magazyn rosolisów i likierów;50.0731761;22.2427239
 monument;Kościół p.w. Św. Trójcy;49.7854427;22.7657237
 monument;Kościół p.w. św. Teresy;49.7801845;22.7718794
+monument;Zespół folwarczny, tzw. Na Górnym;50.06824;22.2298
 monument;Kościół, ob. par. p.w. św. Józefa;49.780654;22.768296
 monument;Ogród;49.781275;22.7673955
 monument;Oranżeria;50.5729079;21.6790698
+monument;Cmentarz grzebalny;50.5729079;21.6790698
 monument;Cmentarz rzym.-kat. par.;53.85114;22.9841
 monument;Park leśny;53.8434431;22.9796023
 monument;Dom;52.974318;22.841879
@@ -6679,12 +7242,14 @@ monument;Pałac;54.7636913;18.2371335
 monument;Obora (i stajnia);54.6866238;18.4631099
 monument;Dwór obronny;49.8501295;19.2533154
 monument;Ogród;49.8501295;19.2533154
+monument;Chłodnia z magazynem;50.3016648;18.9479181
 monument;Zamek;49.7497638;18.6354709
 monument;Gimnazjum katolickie;49.7487731;18.6352594
 monument;Budynek browaru II;49.7487278;18.6296372
 monument;Aleja dojazdowa;49.8501295;19.2533154
 monument;Park;50.918754;19.3081848
 monument;Dzwonnica;50.8316382;19.2968386
+monument;Park krajobrazowy;50.3845561;18.4782977
 monument;Ogrody (Wzgórze Zamkowe);50.4542102;18.522454
 monument;Budynek bractwa pogrzebowego;50.2560974;19.0083736
 monument;Altana;50.244158;19.0075276
@@ -6693,6 +7258,7 @@ monument;Budynek więzienny II;50.2561807;19.0134994
 monument;Dworek, ob. leśniczówka;50.4393904;19.6772128
 monument;Budynek maszyny wyciągowej;50.3277365;19.0216519
 monument;Budynek administracji;50.3277365;19.0216519
+monument;Pawilon główny;50.3724506;18.9443759
 monument;Magazyn;50.1042808;18.5466515
 monument;Willa dyrektora, ob. dom mieszkalny nr 3;50.1042808;18.5466515
 monument;Budynek I;50.2783065;19.1293923
@@ -6738,7 +7304,11 @@ monument;Kościół ewangelicki, ob. rzym.-kat. p.w. św. Jana Chrzciciela;53.62
 monument;Budynek mieszkalny III;54.21802;21.718515
 monument;Dom ogrodnika;52.865906;16.4979217
 monument;Masztalarnia (i ujeżdżalnia);52.865906;16.4979217
+monument;Kościół fil. p.w. Św. Krzyża;52.5396331;17.5966198
+monument;Miejska Szkoła Przemysłowo-Handlowa, ob. Zespół Szkół Ekonomiczno-Odzieżowych;52.5315038;17.6061286
+monument;Park;52.5340545;17.5776013
 monument;Kościół szpitalny p.w. św. Łazarza, ob. nieużytkowany;52.557417;17.818629
+monument;Dwór;52.4605663;17.7819899
 monument;Spichlerz;52.0623667;16.4370643
 monument;Dzwonnica;50.348117;20.6729264
 monument;Dom dla służby;52.2771004;18.9913453
@@ -6767,6 +7337,7 @@ monument;Dom pracowników kolejowych II;53.4285438;14.5528116
 monument;Kościół par. p.w. św. Tomasza Apostoła;50.2862638;19.1040791
 monument;Budynek łaźni i szatni;50.3194156;18.7939329
 monument;Budynek maszynowni szybu ""Konrad"";50.3194156;18.7939329
+monument;Kaplica Zdjęcie z Krzyża;50.3828765;18.9447265
 monument;Warsztaty;52.2140864;20.9306577
 monument;Dwór;50.15847;19.4694
 monument;Śluza;53.8911885;23.3961831
@@ -6810,6 +7381,8 @@ monument;Wiadukt kolejowy I;54.3001439;22.358784
 monument;Kościół ewangelicki p.w. Św. Trójcy;53.802886;21.570296
 monument;Kościół ewangelicki, ob. rzym.-kat. par. p.w. Opatrzności Bożej;54.0117739;21.5834551
 monument;Ruiny zamku;53.6297104;21.8092437
+monument;Zespół cmentarza p.w. Św. Krzyża;52.5421917;17.5970329
+monument;Kaplica dwuwyznaniowa (rzym.-kat., ewang.-augsb.);52.5340545;17.5776013
 monument;Park;52.5260009;18.0177818
 monument;Kościół par. p.w. Najśw. Serca Jezusa (dec.: św. Jana Chrzciciela);52.0150092;18.5026871
 monument;Zespół kościoła pw. św. Marii Magdaleny;52.9038045;16.5638433
@@ -6823,9 +7396,13 @@ monument;Ruina pałacu;50.9305013;17.2149447
 monument;Budynek oddziału chirurgicznego szpitala, tzw. dom św. Wincentego, ob. dom pomocy …;53.349286;18.418212
 monument;Willa;50.1760207;19.4687043
 monument;Dom pracowników kolejowych I;53.4285438;14.5528116
+monument;Willa Orkanówka;49.6074833;20.0614939
 monument;Fort nr 48 Batowice;50.0973009;20.0009728
 monument;Fort nr 49a Dłubnia;50.0983497;20.0479784
 monument;Kaplica Ukrzyżowanie, ob kościół par. p.w. Św. Krzyża i Matki Boskiej Bolesnej;52.80141;18.08517
+monument;Kaplica różańcowa VI;50.3828765;18.9447265
+monument;Kaplica różańcowa VIII;50.3828765;18.9447265
+monument;Brama II;50.06824;22.2298
 monument;Mauzoleum poległych w 1830-1831 i 1918-1920;52.82889;21.847719
 monument;Ogrodzenie (od ul. Czerniakowskiej);52.2105574;21.0468884
 monument;Kościół par. p.w. Wniebowziecia NMP;51.976255;21.6793232
@@ -7416,7 +7993,7 @@ monument;Cmentarz żydowski;50.3808656;17.6516305
 monument;Grobowiec rodzin Eben i Mohring (""piramida"");51.053433;18.1418339
 monument;Willa;52.7368271;15.2322562
 monument;Kamienica;52.7341743;15.2378843
-monument;Zespół kościoła par. p.w. św. Wawrzyńca;50.1441846;19.3995292
+monument;Zespół kościoła par. p.w. św. Wawrzyńca;50.1431096;19.404662
 monument;Kościół ewangelicki, ob. rzym.-kat. p.w. Zmartwychwstania Pańskiego;50.2910914;16.8733941
 monument;Zespół dworski;52.6362892;19.8756434
 monument;Zespół kościoła par. p.w. św. Małgorzaty;50.1188906;20.0326638
