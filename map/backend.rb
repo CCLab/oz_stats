@@ -103,7 +103,7 @@ rhFile.each do |line|
     @relics[ voivodeship ][ district ][ "zabytkow" ] += 1
     @relics[ voivodeship ][ "zabytkow" ] += 1
     @relics[ "zabytkow" ] += 1
-#     Monument.first_or_create( {:relic_id => relic_id}, {:touched => 0, :action => coordinates_action, :lat => lat, :long => long, :name => monument_name})
+    Monument.first_or_create( {:relic_id => relic_id}, {:touched => 0, :action => coordinates_action, :lat => lat, :long => long, :name => monument_name})
   elsif @relics[ voivodeship ][ district ][ commune ][ relic_id ] == nil
     puts "Prawdopodobnie coś nie tak"
     @relics[ voivodeship ][ district ][ commune ][ relic_id ] = 0
@@ -111,7 +111,7 @@ rhFile.each do |line|
     @relics[ voivodeship ][ district ][ "zabytkow" ] += 1
     @relics[ voivodeship ][ "zabytkow" ] += 1
     @relics[ "zabytkow" ] += 1
-#     Monument.first_or_create( {:relic_id => relic_id}, {:touched => 0, :action => coordinates_action, :lat => lat, :long => long, :name => monument_name})
+    Monument.first_or_create( {:relic_id => relic_id}, {:touched => 0, :action => coordinates_action, :lat => lat, :long => long, :name => monument_name})
   elsif
     @relics[ voivodeship ][ district ][ commune ][ relic_id ] += 1
     
@@ -175,7 +175,6 @@ puts "Podział administracyjny"
                 end
                 @geo = Geo.create(:voivodeship => voivodeship, :district => district, :commune => commune, :lat => @latitude, :long => @longitude)
               end
-              outputFile.puts "commune;#{@geo.voivodeship};#{@geo.district};#{@geo.commune};#{commune_hash[ "raz" ]};#{@geo.lat};#{@geo.long};#{Float(commune_hash[ "raz" ]*1.0/commune_hash[ "zabytkow" ])};#{commune_hash[ "zabytkow" ]}"
               outputFile.puts "commune;#{@geo.voivodeship};#{@geo.district};#{@geo.commune};#{commune_hash[ "raz" ]};#{@geo.lat};#{@geo.long};#{Float(commune_hash[ "raz" ]*1.0/commune_hash[ "zabytkow" ])}"
             end
             
@@ -197,7 +196,7 @@ puts "Podział administracyjny"
             end
             @geo = Geo.create(:voivodeship => voivodeship, :district => district, :commune => "", :lat => @latitude, :long => @longitude)
           end
-          outputFile.puts "district;#{@geo.voivodeship};#{@geo.district};"";#{district_hash[ "raz" ]};#{@geo.lat};#{@geo.long};#{Float(district_hash[ "raz" ]/district_hash[ "zabytkow" ])}"
+          outputFile.puts "district;#{@geo.voivodeship};#{@geo.district};"";#{district_hash[ "raz" ]};#{@geo.lat};#{@geo.long};#{Float(district_hash[ "raz" ]*1.0/district_hash[ "zabytkow" ])}"
         end
       end
     end
@@ -217,7 +216,7 @@ puts "Podział administracyjny"
     end
     @geo = Geo.create(:voivodeship => voivodeship, :district => "", :commune => "", :lat => @latitude, :long => @longitude)
     end
-    outputFile.puts "voivodeship;#{@geo.voivodeship};\"\";\"\";#{voivodeship_hash[ "raz" ]};#{@geo.lat};#{@geo.long};#{Float(voivodeship_hash[ "raz" ]/voivodeship_hash[ "zabytkow" ])}"
+    outputFile.puts "voivodeship;#{@geo.voivodeship};\"\";\"\";#{voivodeship_hash[ "raz" ]};#{@geo.lat};#{@geo.long};#{Float(voivodeship_hash[ "raz" ]*1.0/voivodeship_hash[ "zabytkow" ])}"
     end
     
   end
