@@ -9,11 +9,41 @@
 <![endif]-->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
 <script>
-//from http://stackoverflow.com/questions/7128675/from-green-to-red-color-depend-on-percentage
+function RGBToHash(r, g, b)
+{
+  var hash = "#"
+  hash = hash + (Math.floor(r*255 / 16)).toString(16) + (Math.floor(r*255 % 16)).toString(16);
+  hash = hash + (Math.floor(g*255 / 16)).toString(16) + (Math.floor(g*255 % 16)).toString(16);
+  hash = hash + (Math.floor(b*255 / 16)).toString(16) + (Math.floor(b*255 % 16)).toString(16);
+  return hash;
+}
 
-
-
-//
+// HSB conversion function
+function hsbToRGB(h, s, v, a)
+{
+  var tmp = h*5.9999;
+  var hi = Math.floor(tmp);
+  var f = tmp-hi;
+  var p = v * (1-s);
+  var q = v * (1-f*s);
+  var t = v * (1-(1-f)*s);
+  var rgb;
+  if(hi === 0)
+  {
+    rgb = RGBToHash(v,t,p);
+  } else if( hi === 1){
+    rgb = RGBToHash(q,v,p);
+  } else if( hi === 2 ){
+    rgb = RGBToHash(p,v,t);
+  } else if( hi === 3 ){
+    rgb = RGBToHash(p,q,v);
+  } else if( hi === 4 ){
+    rgb = RGBToHash(t,p,v);
+  } else {
+    rgb = RGBToHash(v,p,q);
+  } 
+  return rgb;
+}
 
 function addPoints(layerGroup)
 {
@@ -31,22 +61,27 @@ function addPoints(layerGroup)
       }
       else if( mapBounds.contains(point) )
       {
+        if(TextLine[7].length > 0)
+        {
+          var color = hsbToRGB(parseFloat(TextLine[7])*0.4, 0.9, 0.9, 1.0);
+        }
+        else color = 'red';
         var circleOptions = {
-          color: 'red',
-          fillColor: '#f03'
+          color: color,
+          fillColor: color
         }
         
         if(TextLine[0] === "commune" ) {
           var circle = new L.Circle(point, 500, circleOptions);
-          circle.bindPopup("Gmina "+TextLine[3]+", powiat "+TextLine[2]+".<br/>Województwo "+TextLine[1]+".<br/>Poprawiono "+TextLine[4]+" zabytków");
+          circle.bindPopup("Gmina "+TextLine[3]+", powiat "+TextLine[2]+".<br/>Województwo "+TextLine[1]+".<br/>Poprawiono "+TextLine[4]+" zabytków ("+(TextLine[7]*100).toFixed(2)+"% w gminie)");
           communeSet.addLayer(circle);
         } else if (TextLine[0] === "district" ) {
           var circle = new L.Circle(point, 2500, circleOptions);
-          circle.bindPopup("Powiat "+TextLine[2]+".<br/>Województwo "+TextLine[1]+".<br/>Poprawiono "+TextLine[4]+" zabytków");
+          circle.bindPopup("Powiat "+TextLine[2]+".<br/>Województwo "+TextLine[1]+".<br/>Poprawiono "+TextLine[4]+" zabytków ("+(TextLine[7]*100).toFixed(2)+"% w powiecie)");
           districtSet.addLayer(circle);
         } else if (TextLine[0] === "voivodeship" ) {
           var circle = new L.Circle(point, 5000, circleOptions);
-          circle.bindPopup("Województwo "+TextLine[1]+".<br/>Poprawiono "+TextLine[4]+" zabytków");
+          circle.bindPopup("Województwo "+TextLine[1]+".<br/>Poprawiono "+TextLine[4]+" zabytków ("+(TextLine[7]*100).toFixed(2)+"% w gminie)");
           voivodeshipSet.addLayer(circle);
         } else alert("Błąd danych");
       }
