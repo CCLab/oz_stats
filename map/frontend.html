@@ -61,8 +61,7 @@ function addPoints(layerGroup)
       }
       else if( mapBounds.contains(point) )
       {
-        alert(TextLine);
-        if(TextLine[7].length > 0)
+        if(TextLine[7] != undefined && TextLine[7].length > 0)
         {
           var color = hsbToRGB(parseFloat(TextLine[7])*0.4, 0.9, 0.9, 1.0);
         }
