@@ -58,7 +58,6 @@ rhFile.each do |line|
   relic_id = relic_change[2]#.slice(1, relic_change[2].length-2)
 
   suggested_at = relic_change[1]#.slice(1, relic_change[1].length-2)
-  puts "#{relic_change[0]}"
   
   monument_name = relic_change[13]
   lat = relic_change[19]
@@ -176,7 +175,7 @@ puts "Podział administracyjny"
                 end
                 @geo = Geo.create(:voivodeship => voivodeship, :district => district, :commune => commune, :lat => @latitude, :long => @longitude)
               end
-              outputFile.puts "commune;#{@geo.voivodeship};#{@geo.district};#{@geo.commune};#{commune_hash[ "raz" ]};#{@geo.lat};#{@geo.long}"
+              outputFile.puts "commune;#{@geo.voivodeship};#{@geo.district};#{@geo.commune};#{commune_hash[ "raz" ]};#{@geo.lat};#{@geo.long};#{Float(commune_hash[ "raz" ]/commune_hash[ "zabytkow" ])}"
             end
             
           end
@@ -197,7 +196,7 @@ puts "Podział administracyjny"
             end
             @geo = Geo.create(:voivodeship => voivodeship, :district => district, :commune => "", :lat => @latitude, :long => @longitude)
           end
-          outputFile.puts "district;#{@geo.voivodeship};#{@geo.district};"";#{district_hash[ "raz" ]};#{@geo.lat};#{@geo.long}"
+          outputFile.puts "district;#{@geo.voivodeship};#{@geo.district};"";#{district_hash[ "raz" ]};#{@geo.lat};#{@geo.long};#{Float(district_hash[ "raz" ]/district_hash[ "zabytkow" ])}"
         end
       end
     end
@@ -217,7 +216,7 @@ puts "Podział administracyjny"
     end
     @geo = Geo.create(:voivodeship => voivodeship, :district => "", :commune => "", :lat => @latitude, :long => @longitude)
     end
-    outputFile.puts "voivodeship;#{@geo.voivodeship};\"\";\"\";#{voivodeship_hash[ "raz" ]};#{@geo.lat};#{@geo.long}"
+    outputFile.puts "voivodeship;#{@geo.voivodeship};\"\";\"\";#{voivodeship_hash[ "raz" ]};#{@geo.lat};#{@geo.long};#{Float(voivodeship_hash[ "raz" ]/voivodeship_hash[ "zabytkow" ])}"
     end
     
   end
