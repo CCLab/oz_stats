@@ -98,17 +98,15 @@ function processData(allText) {
 </head>
 <body>
 <script src="http://cdn.leafletjs.com/leaflet-0.3.1/leaflet.js"></script>
+<script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js"></script>
 <div id="map" style="height: 500px">
 </div>
 <script>
 var allTextLines;
 var map = new L.Map('map');
-var cloudmade = new L.TileLayer('http://{s}.tile.cloudmade.com/8ee2a50541944fb9bcedded5165f09d9/997/256/{z}/{x}/{y}.png', {
-    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
-    maxZoom: 18
-});
+var tile = new L.StamenTileLayer('watercolor');
 var poland = new L.LatLng(51.919438, 19.145136); // geographical point (longitude and latitude)
-map.setView(poland, 6).addLayer(cloudmade);
+map.setView(poland, 6).addLayer(tile);
 var monumentSet = new L.LayerGroup();
 var communeSet = new L.LayerGroup();
 var districtSet = new L.LayerGroup();
